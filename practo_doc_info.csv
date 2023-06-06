@@ -1,0 +1,2164 @@
+,Doctor_Names,Specialization,Experience,Hospital_Name,Area,City,Consultation_Fees,Doctor_recommondations
+2,Dr. V.Shirisha,Dermatologist,17 ,Shirisha Skin & Hair Clinic,Kondapur,Hyderabad,650,93 
+3,Dr. Soumya Podduturi,Dermatologist,13 ,Oliva Skin & Hair Clinic,Secunderabad,Hyderabad,600,96 
+4,Dr. T N Rekha Singh,Dermatologist,19 ,Oliva Skin & Hair Clinic,Secunderabad,Hyderabad,600,99 
+5,Dr. Mallikarjun,Dermatologist,10 ,DIVI Speciality Clinics,Chanda Nagar,Hyderabad,400,98 
+6,Dr. Y Nikhil Kumar Reddy,Dermatologist,12 ,IRA Clinic,Suchitra Circle,Hyderabad,500,93 
+7,Dr. Swapna Kunduru,Dermatologist,21 ,Continental Hospitals,Gachibowli,Hyderabad,800,90 
+8,Dr. D Subhash Reddy,Dermatologist,24 ,Balaji Skin and Hair Clinic,Habsiguda,Hyderabad,500,59 
+9,Dr. K.Srilakshmi,Dermatologist,18 ,Continental Hospitals,Gachibowli,Hyderabad,800,90 
+10,Dr. Radha Shah,Dermatologist,28 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,86 
+11,Dr. Anudeep,Dermatologist,10 ,Neo Asian Clinics,Kondapur,Hyderabad,500,99 
+14,Dr. Deepak Devakar,Dermatologist,19 ,Dermasculpt Hair Transplant and Skin Clinic,JP Nagar,Bangalore,600,98 
+15,Dr. K C Dharam Kumar,Dermatologist,9 ,Epiderma Skin and Hair Clinic,JP Nagar,Bangalore,750,99 
+16,Dr. Kisalay Saurav,Dermatologist,20 ,Manipal Hospital,Hebbal,Bangalore,1090,93 
+17,Dr. Radhika S R,Dermatologist,8 ,Skin Xperts Super Speciality Skin Hair and Laser Clinics,Mahalakshmi Layout,Bangalore,600,96 
+18,Dr. Eswari.L,Dermatologist,22 ,Skin Xperts Super Speciality Skin Hair and Laser Clinics,Jayanagar 4 Block,Bangalore,600,100 
+19,Dr. Neelima Sharma,Dermatologist,24 ,Manipal Hospital,Jayanagar 9 Block,Bangalore,650,95 
+20,Dr. Rajdeep,Dermatologist,14 ,Chirag Hospital,JP Nagar 2 Phase,Bangalore,750,96 
+21,Dr. Parthasarathi Dutta Roy,Dermatologist,20 ,Dr. Partha Sarathi's Asian Hair And Skin Hospitals,MG Road,Bangalore,700,89 
+22,Dr. Jaya Sharma,Dermatologist,21 ,Specialist Hospital,Kalyan Nagar,Bangalore,650,89 
+23,Dr. Juvita Rasquinha,Dermatologist,18 ,"Dr. Juvita's Aesthetics Skin, Hair and Cosmetology Clinic",Indiranagar,Bangalore,500,91 
+26,Dr. Kiran Katkar,Dermatologist,38 ,Dr Kiran Katkar's Dermis Skin Wellness Clinic Lase,Dadar West,Mumbai,1200,93 
+27,Dr. Sonia Tekchandani,Dermatologist,37 ,Tender Skin International,Malad West,Mumbai,2000,93 
+28,Dr. Vikas Halwai,Dermatologist,14 ,Derma Dent Aesthetic clinic,Chinchpokli,Mumbai,800,91 
+29,Dr. Mohd Asif,Dermatologist,11 ,Cara Hair Transplant and Aesthetic Center,Santacruz West,Mumbai,1000,100 
+30,Dr. Minal M Thamke Pawar,Dermatologist,17 ,Wellness Clinic,Mulund East,Mumbai,800,99 
+31,Dr. Ujjvala Jadhav,Dermatologist,24 ,The Skin Clinic,Goregaon East,Mumbai,1000,93 
+32,Dr. Kaleem Khan,Dermatologist,14 ,Surya Hospitals,Santacruz West,Mumbai,1500,97 
+33,Dr. Smriti Naswa Singh,Dermatologist,14 ,Fortis Hospital,Mulund West,Mumbai,1500,100 
+34,Dr. Neha V Shah,Dermatologist,14 ,Skin Vogue Clinic,Ghatkopar East,Mumbai,1000,99 
+35,Dr. Sujit Shanshanwal,Dermatologist,14 ,SkinAmour Clinic,Santacruz West,Mumbai,1000,99 
+38,Dr. Sowmya Dogiparthi,Dermatologist,14 ,Apollo Spectra Hospital,Alwarpet,Chennai,1000,97 
+39,Dr. Snehalatha,Dermatologist,18 ,Nila Skin Care Clinic,Tambaram East,Chennai,750,92 
+40,Dr. R. Sowmiya,Dermatologist,21 ,Dr. Vijay's Hospital,Mogappair East,Chennai,300,97 
+41,Dr. Subhashini Mohan,Dermatologist,17 ,Apollo Spectra Hospital,Alwarpet,Chennai,1000,96 
+42,Dr. Nidhi Singh,Dermatologist,18 ,Gleneagles Global Health City,Perumbakkam,Chennai,800,100 
+43,Dr. Col Rajagopal A,Dermatologist,61 ,Apollo Hospital,Greams Road,Chennai,1000,100 
+44,Dr. B.Sindhu Raaghavi,Dermatologist,13 ,Carves Skin Clinic,Velachery,Chennai,700,98 
+45,Dr. Aarthi Lakshmanan,Dermatologist,20 ,Aarthi Skin Care Clinic,MRC Nagar,Chennai,750,93 
+46,Dr. Ganga Ravikumar,Dermatologist,33 ,Dermis Skin & Hair Clinic,Adyar,Chennai,700,96 
+47,Dr. Rajkumar Kannan,Dermatologist,17 ,Fortis Malar Hospital,Adyar,Chennai,500,100 
+50,Dr. Sonal Chavan,Dermatologist,17 ,Dr. Sonnal Chavaan Aesthetic Clinic,Pimple Saudagar,Pune,700,90 
+51,Dr. L K Desai,Dermatologist,28 ,"Dr. Desai Dermacare- Skin, Hair & Laser Clinic",Sopan Baug,Pune,500,94 
+52,Dr. Sumit Parsewar,Dermatologist,10 ,Neo Plant Advance Hair And Skin Clinic,Baner,Pune,600,97 
+53,Dr. Nitin Jain,Dermatologist,21 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Kothrud,Pune,700,97 
+54,Dr. Tejaswini Salunke,Dermatologist,14 ,Apollo Clinic,Wanowrie,Pune,600,100 
+55,Dr. Rajshree Patil,Dermatologist,25 ,Kimaya Skin Clinic,Aundh,Pune,500,90 
+56,Dr. Vijay Nagdev,Dermatologist,13 ,The Skin Doctors,Pimpri-Chinchwad,Pune,700,93 
+57,Dr. K R Chandvania,Dermatologist,44 ,Pallavi Laser Centre,Pimpri-Chinchwad,Pune,900,83 
+58,Dr. Pallavi Ahire Shelke,Dermatologist,16 ,SkinEthics Skin Clinic & Dermatosurgery Center,Baner,Pune,600,97 
+59,Dr. Pradeep Kumari,Dermatologist,20 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Viman Nagar,Pune,700,96 
+61,Dr. Vijay Singhal,Dermatologist,18 ,Zenith Skin Hair & Dental Centre,Punjabi Bagh,Delhi,800,94 
+62,Dr. Hemant Sharma,Dermatologist,48 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1500,95 
+63,Dr. Pallav S Kishanpuria,Dermatologist,19 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1100,95 
+64,Dr. Tanvi Pal,Dermatologist,19 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1500,97 
+65,Dr. Mahima Wadhwa,Dermatologist,12 ,Dr Mahima Wadhwa Skin CliniQ,Shalimar Bagh,Delhi,800,100 
+66,Dr. Indu Ballani,Dermatologist,18 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1000,91 
+67,Dr. Sirisha Singh,Dermatologist,29 ,SCI International Hospital,Greater Kailash Part 1,Delhi,1700,97 
+68,Dr. Nitika Nijhara,Dermatologist,8 ,Fortitude Skin & Hair Clinic,Patel Nagar East,Delhi,1100,99 
+69,Dr. Deepti  Shrivastava,Dermatologist,28 ,Skin Hair & You,Anand Vihar,Delhi,800,95 
+70,Dr. Nipun Jain,Dermatologist,26 ,Aura Skin Cosmetology Clinic,Dwarka,Delhi,800,98 
+72,Dr. Vamsidhar Kedar,,20 ,Lotus Hospitals | Kukatpally,Kukatpally,Hyderabad,600,94 
+73,Dr. Kamalakar,,18 ,Lotus Hospitals | Kukatpally,Kukatpally,Hyderabad,600,99 
+74,Dr. P. Kirthini,,21 ,Tripura Children's Clinic,Madinaguda,Hyderabad,400,97 
+75,Dr. Bhargavi Arun,,16 ,Milestones Children's Clinic,Kukatpally,Hyderabad,500,99 
+76,Dr. P.K.Rajeev,,18 ,Shreyass Clinic,Malkajgiri,Hyderabad,700,87 
+77,Dr. Ashwin Reddy,,17 ,Ashwin Children Clinic,Secunderabad,Hyderabad,400,96 
+78,Dr. Ramesh Srinivasan,,27 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,97 
+79,Dr. Ganta Rami Reddy,,11 ,Neo Asian Clinics,Kondapur,Hyderabad,500,95 
+80,Dr. Vishnuvardhan Reddy M,,28 ,Apollo Hospitals,Jubilee Hills,Hyderabad,600,72 
+81,Dr. Prasad Babu.v,,22 ,Dr Prasad Childern’s Clinic,Bachupally,Hyderabad,300,50 
+83,Dr. Mohit Singhal,,22 ,Care and Cure Fertility Centre,Whitefield,Bangalore,600,96 
+84,Dr. Usha Mallinath,,22 ,Manipal Hospital Varthur Road,Whitefield,Bangalore,900,96 
+85,Dr. Lokanadha Reddy,,13 ,Sreenika Children's Clinic,Thanisandra,Bangalore,400,98 
+86,Dr. Mallesh U,,17 ,Paripoorna Medical Centre,Horamavu,Bangalore,300,94 
+87,Dr. Santosh N,,29 ,Apollo Cradle & Children’s Hospital,Jayanagar 5 Block,Bangalore,700,99 
+88,Dr. Sowmya Prashanth,,24 ,Apollo Cradle & Children’s Hospital,Jayanagar 5 Block,Bangalore,700,97 
+89,Dr. Shashidhar A,,15 ,Tiny Tots Clinic,Koramangala 6 Block,Bangalore,600,95 
+90,Dr. P Sameera Reddy,,23 ,Manipal Hospital,Jayanagar 9 Block,Bangalore,650,100 
+91,Dr. Sateesha S.R,,24 ,Specialist Hospital,Kalyan Nagar,Bangalore,650,98 
+92,Dr. V. Krishnan,,32 ,Manipal Hospital,Jayanagar 9 Block,Bangalore,500,91 
+94,Dr. Abhinav Tiwari,,12 ,Asha Kids Clinic and Neurology Center,Powai,Mumbai,900,99 
+95,Dr. Vilas Kulkarni,,53 ,Kulkarni Hospital,Andheri West,Mumbai,1000,97 
+96,Dr. Yuvaraja S Shetty,,18 ,Dr. Yuvaraja S Shetty Child Health Center and Polyclinic,Mulund West,Mumbai,1000,99 
+97,Dr. Deepti Chawla,,13 ,Dr Deepti Chawla's Child and Newborn Clinic,Malad,Mumbai,800,100 
+98,Dr. Alpa Shah,,28 ,Shah Children Hospital,Govandi,Mumbai,1000,94 
+99,Dr. Punit Vinod Garg,,9 ,Adarsh Hospital,Malad West,Mumbai,800,100 
+100,Dr. Rahul Shukla,,10 ,Shiv Om Hospital,Mira Road,Mumbai,800,100 
+101,Dr. Rajashri Shanbhag,,27 ,Shalyak hospital,Jogeshwari East,Mumbai,800,100 
+102,Dr. Bhupendra S Avasthi,,43 ,Surya Hospitals,Santacruz West,Mumbai,2000,92 
+103,Dr. Jesal Seth,,24 ,Fortis Hospital,Mulund West,Mumbai,1300,100 
+105,Dr. Varun Gunasekar,,12 ,Thulir Kidz Clinic,Mugalivakkam,Chennai,300,100 
+106,Dr. Revathi A,,16 ,Dr.Revathi’s Children’s Clinic,Thoraipakkam,Chennai,400,100 
+107,Dr. Ashvind L,,15 ,Sri Sai Child Clinic,Padur,Chennai,400,97 
+108,Dr. V.Anjali,,12 ,Kid-E-Care Clinic,Iyyappanthangal,Chennai,300,99 
+109,Dr. N.Dushyanth Subramaniam,,8 ,Dr. Dushyanth Child Care,Kodambakkam,Chennai,300,100 
+110,Dr. Muthukumar,,14 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+111,Dr. Priya Chandrasekar,,29 ,Apollo Spectra Hospital,Alwarpet,Chennai,600,78 
+112,Dr. Krishna Priya,,27 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+113,Dr. Hemalatha,,21 ,NewGen Speciality Clinics,Perumbakkam,Chennai,650,100 
+114,Dr. B Benjamin,,50 ,Fortis Malar Hospital,Adyar,Chennai,600,100 
+117,Dr. Chandrashekhar Vasant Phadnis,,25 ,AV Children and Multispeciality Clinic,Aundh,Pune,500,94 
+118,Dr. Sameer Mhatre,,46 ,Apollo Clinic,Viman Nagar,Pune,600,90 
+119,Dr. Sumedh Giri,,21 ,G K Care Clinic,Kharadi,Pune,500,97 
+120,Dr. Rahul Adsul,,13 ,KidsCare Clinic,Hadapsar,Pune,300,100 
+121,Dr. Nivedita Oswal,,19 ,Rainbow Children's Clinic and Vaccination Center,Hadapsar,Pune,600,95 
+122,Dr. Yogesh Jadhav,,14 ,Tender Care Children's Clinic,Wakad,Pune,500,100 
+123,Dr. Pradnya Gawde-Mali,,17 ,Sanjeevani Healthcare,Wakad,Pune,500,97 
+124,Dr. Neha Mehta Itke,,14 ,Care & Cure Children's Clinic And Vaccination Centre,Wakad,Pune,500,100 
+125,Dr. Neelam Gote,,12 ,HealthyBuds - Children Clinic and Vaccination Centre,Pimple Saudagar,Pune,400,98 
+126,Dr. Deepak Jeswani,,15 ,Divine Care Multispeciality Clinic,Hadapsar,Pune,500,99 
+128,Dr. Tina Goel,,22 ,Kare N Kure Child Clinic,Dwarka,Delhi,700,97 
+129,Dr. Radhika Sachdev,,25 ,Anmol Child Care,Dwarka,Delhi,600,98 
+130,Dr. Ajay K Tiwari,,36 ,Tiwari Child Clinic,Vikas Puri,Delhi,700,100 
+131,Dr. Amit Modi,,14 ,The Children's Clinic & Vaccination Centre,Vasundhra Enclave,Delhi,700,97 
+132,Dr. H C Bhatt,,27 ,Kid'z Care Clinic,IP Extension,Delhi,800,98 
+133,Dr. Vishal Vaidya,,23 ,The Milestone Child Clinic,Dwarka,Delhi,800,98 
+134,Dr. Sandeep Taneja,,26 ,BLISS CHILD CLINIC,Janakpuri,Delhi,800,97 
+135,Dr. Ankit Parakh,,21 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1000,96 
+136,Dr. Prem Narayan Dubey,,57 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,1500,100 
+137,Dr. B. B. Aggarwal,,34 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1300,100 
+140,Dr. Puja Lavania,Gynecologist/Obstetrician,17 ,Life Care Gynaecology Hospital,Chanda Nagar,Hyderabad,400,94 
+141,Dr. G Jayanthi,Gynecologist/Obstetrician,15 ,"J.S. Hospitals - Ortho, Maternity and General",Vanasthalipuram,Hyderabad,350,96 
+142,Dr. Roya Rozati,Gynecologist/Obstetrician,37 ,MHRT Hospital & Research Center,Banjara Hills,Hyderabad,700,85 
+143,Dr. T. Anuradha,Gynecologist/Obstetrician,32 ,Anu Gynaec Test Tube and Fertility Centre,KPHB,Hyderabad,700,97 
+144,Dr. A. Sreegowri,Gynecologist/Obstetrician,20 ,Sree Gowri Surgical Maternity Hospital & Fertility Center,KPHB,Hyderabad,500,92 
+145,Dr. Neeraja Valli G,Gynecologist/Obstetrician,18 ,Dr Neeraja's Fertility and Gynaec Center,KPHB,Hyderabad,500,100 
+146,Dr. BKN Sudha,Gynecologist/Obstetrician,17 ,Sudha Hospital,KPHB,Hyderabad,500,96 
+147,Dr. Jasmin Rath,Gynecologist/Obstetrician,19 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,94 
+148,Dr. K. Suma,Gynecologist/Obstetrician,35 ,Prasad Infertility Solutions,Kukatpally,Hyderabad,700,93 
+149,Dr. G Durga Rao,Gynecologist/Obstetrician,29 ,Oasis Fertility,Banjara Hills,Hyderabad,750,98 
+152,Dr. Anu Joseph,Gynecologist/Obstetrician,15 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,96 
+153,Dr. Shwetha K,,16 ,People Tree Hospitals,Yeshwanthpur,Bangalore,500,88 
+154,Dr. Sharmila S,Gynecologist/Obstetrician,23 ,Vydehi Super Speciality Hospital(Mallya Hospital),Ashoknagar,Bangalore,800,80 
+155,Dr. Shafalika.S.B,Gynecologist/Obstetrician,20 ,Manipal Hospitals Yeshwanthpur,Yeshwanthpur,Bangalore,950,100 
+156,Dr. Brunda Channappa,Gynecologist/Obstetrician,33 ,Cloudnine Hospital - Jayanagar,Jayanagar,Bangalore,850,90 
+157,Dr. Uma Maheshwari,Gynecologist/Obstetrician,24 ,"Cloudnine Fertility - IVF Centre, Jayanagar",Jayanagar,Bangalore,850,95 
+158,Dr. Vidyamani Boriah,Gynecologist/Obstetrician,53 ,Sagar Chandramma Hospitals,VV Puram,Bangalore,600,93 
+159,Dr. Basavaraj  Devarashetty,Gynecologist/Obstetrician,26 ,Vishvas Fertility and Gynaecology Centre,Marathahalli,Bangalore,700,98 
+160,Dr. Regina,Gynecologist/Obstetrician,24 ,Health Today Clinic,Banaswadi,Bangalore,600,95 
+161,Dr. Deepak V Rao,Gynecologist/Obstetrician,36 ,Motherhood Hospital,Indiranagar,Bangalore,700,95 
+164,Dr. Nikhil D Datar,Gynecologist/Obstetrician,32 ,Cloudnine Hospital,Malad West,Mumbai,1000,99 
+165,Dr. Rajendra S Sankpal,Gynecologist/Obstetrician,29 ,SAGE Hospital,Malad West,Mumbai,1000,98 
+166,Dr. Shilpa Abhyankar,Gynecologist/Obstetrician,29 ,Parchure Nursing Home,Dadar East,Mumbai,800,97 
+167,Dr. Anjali Jitendra Bapat,Gynecologist/Obstetrician,37 ,Dr Anjali Bapat Clinic,Mahim,Mumbai,1000,95 
+168,Dr. Varsha Degwekar,Gynecologist/Obstetrician,36 ,Care and Cure Maternity and Nursing Home,Powai,Mumbai,1000,94 
+169,Dr. Nanda R Kumar,Gynecologist/Obstetrician,20 ,Dr. Nanda R Kumar's Gynecology Clinic.,Chembur East,Mumbai,1000,90 
+170,Dr. Pradnya Randive,Gynecologist/Obstetrician,17 ,Aaditya Care Maternity Home,Bhandup West,Mumbai,1200,95 
+171,Dr. Manjushri Kothekar,Gynecologist/Obstetrician,19 ,Chembur Fertility Clinic & IVF Treatment Centre,Chembur,Mumbai,1000,100 
+172,Dr. Shubhada Kulkarni,Gynecologist/Obstetrician,44 ,Kulkarni Hospital,Andheri West,Mumbai,1000,90 
+173,Dr. Ankesh Sahetya,Gynecologist/Obstetrician,15 ,Pushpaa Hospital,Andheri West,Mumbai,1200,100 
+176,Dr. Florence Vasantha Praba,Gynecologist/Obstetrician,23 ,Cherub Fertility Clinic,Rajakilpakkam,Chennai,400,97 
+177,Dr. K.S Jeyarani Kamaraj,Gynecologist/Obstetrician,35 ,Aakash Fertility Centre & Hospital,Vadapalani,Chennai,600,92 
+178,Dr. Premalatha Balachandran,Gynecologist/Obstetrician,25 ,Fortis Malar Hospital,Adyar,Chennai,500,100 
+179,Dr. Thamarai,Gynecologist/Obstetrician,27 ,Prolife Obstetrics And Gynaecology  Clinic & Scans,Manapakkam,Chennai,400,97 
+180,Dr. Amudha Arumugam,Gynecologist/Obstetrician,32 ,The Mint Clinic,Anna Nagar East,Chennai,500,100 
+181,Dr. Vanitha Shri,Gynecologist/Obstetrician,20 ,Progress Speciality Clinic,Madipakkam,Chennai,500,96 
+182,Dr. Rukkayal Fathima,Gynecologist/Obstetrician,12 ,Golden Clinic,Mylapore,Chennai,400,99 
+183,Dr. S. Sharada,Gynecologist/Obstetrician,22 ,Sanjeevani Clinic,Perungudi,Chennai,500,99 
+184,Dr. Sharadha SO,Gynecologist/Obstetrician,17 ,SRS Speciality Clinic,KK Nagar,Chennai,500,100 
+185,Dr. Shantha Rama Rao,Gynecologist/Obstetrician,50 ,Thulasi Krishna Nursing Home,Kodambakkam,Chennai,500,95 
+188,Dr. Mohita Goyal,Gynecologist/Obstetrician,23 ,Mohita Poly Clinic,Viman Nagar,Pune,600,95 
+189,Dr. Manisha Munemane,Gynecologist/Obstetrician,28 ,Vatsalya Women's World,Wakad,Pune,600,94 
+190,Dr. Nikhil Mahadar,Gynecologist/Obstetrician,16 ,Srushti Hospital,Wakad,Pune,400,99 
+191,Dr. Meghana Giri,Gynecologist/Obstetrician,18 ,GK Women's Care Clinic,Viman Nagar,Pune,400,95 
+192,Dr. Bharati Dhorepatil,Gynecologist/Obstetrician,40 ,Shree Hospital,Nagar Road,Pune,600,89 
+193,Dr. Jyoti Dekate,Gynecologist/Obstetrician,19 ,Rainmist Healthcare,Wakad,Pune,600,96 
+194,Dr. Jagrati Laad,Gynecologist/Obstetrician,19 ,Wombs Fertility and Reproductive Health Clinic,Baner,Pune,600,93 
+195,Dr. Vaishali R Chavan,Gynecologist/Obstetrician,31 ,Saanvi Gynaecology And Maternity Center,Wanowrie,Pune,500,92 
+196,Dr. Vaishali Umap,Gynecologist/Obstetrician,25 ,Lotus Clinic,Wakad,Pune,500,81 
+197,Dr. Lavina Batra,Gynecologist/Obstetrician,18 ,Life Care Clinic,Viman Nagar,Pune,400,81 
+200,Dr. Ruchi Tandon,Gynecologist/Obstetrician,18 ,SCI International Hospital,Greater Kailash Part 1,Delhi,1400,100 
+201,Dr. Parul Katiyar,Gynecologist/Obstetrician,20 ,ART Fertility Clinics,Defence Colony,Delhi,0,95 
+202,Dr. Akta Bajaj,Gynecologist/Obstetrician,26 ,Aksh Clinic,Paschim Vihar,Delhi,700,96 
+203,Dr. Meghana A,Gynecologist/Obstetrician,15 ,Matritva Women's Clinic,Vasant Kunj,Delhi,650,99 
+204,Dr. Anita K Jain,Gynecologist/Obstetrician,24 ,Dr. Anita's Mother And Child Clinic,Paschim Vihar,Delhi,600,98 
+205,Dr. Shilpa Dhameja,Gynecologist/Obstetrician,21 ,Dr Shilpa Dhameja's Clinic,Vasant Kunj,Delhi,800,98 
+206,Dr. Madhumita Patel,Gynecologist/Obstetrician,17 ,City Speciality Clinic,Chattarpur,Delhi,700,100 
+207,Dr. Madhu Ahuja,Gynecologist/Obstetrician,39 ,Cloudnine Hospitals,Patparganj,Delhi,1100,93 
+208,Dr. Dharna Gupta,Gynecologist/Obstetrician,14 ,Women Care Clinic,Dwarka Sector 22,Delhi,700,96 
+209,Dr. Ruchi Malhotra,Gynecologist/Obstetrician,31 ,Sehgal Nursing Home,Kingsway Camp,Delhi,500,94 
+212,Dr. V.Shirisha,Dermatologist,17 ,Shirisha Skin & Hair Clinic,Kondapur,Hyderabad,650,93 
+213,Dr. Soumya Podduturi,Dermatologist,13 ,Oliva Skin & Hair Clinic,Secunderabad,Hyderabad,600,96 
+214,Dr. T N Rekha Singh,Dermatologist,19 ,Oliva Skin & Hair Clinic,Secunderabad,Hyderabad,600,99 
+215,Dr. Mallikarjun,Dermatologist,10 ,DIVI Speciality Clinics,Chanda Nagar,Hyderabad,400,98 
+216,Dr. Y Nikhil Kumar Reddy,Dermatologist,12 ,IRA Clinic,Suchitra Circle,Hyderabad,500,93 
+217,Dr. Swapna Kunduru,Dermatologist,21 ,Continental Hospitals,Gachibowli,Hyderabad,800,90 
+218,Dr. D Subhash Reddy,Dermatologist,24 ,Balaji Skin and Hair Clinic,Habsiguda,Hyderabad,500,59 
+219,Dr. K.Srilakshmi,Dermatologist,18 ,Continental Hospitals,Gachibowli,Hyderabad,800,90 
+220,Dr. Radha Shah,Dermatologist,28 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,86 
+221,Dr. Anudeep,Dermatologist,10 ,Neo Asian Clinics,Kondapur,Hyderabad,500,99 
+224,Dr. Deepak Devakar,Dermatologist,19 ,Dermasculpt Hair Transplant and Skin Clinic,JP Nagar,Bangalore,600,98 
+225,Dr. K C Dharam Kumar,Dermatologist,9 ,Epiderma Skin and Hair Clinic,JP Nagar,Bangalore,750,99 
+226,Dr. Kisalay Saurav,Dermatologist,20 ,Manipal Hospital,Hebbal,Bangalore,1090,93 
+227,Dr. Radhika S R,Dermatologist,8 ,Skin Xperts Super Speciality Skin Hair and Laser Clinics,Mahalakshmi Layout,Bangalore,600,96 
+228,Dr. Eswari.L,Dermatologist,22 ,Skin Xperts Super Speciality Skin Hair and Laser Clinics,Jayanagar 4 Block,Bangalore,600,100 
+229,Dr. Neelima Sharma,Dermatologist,24 ,Manipal Hospital,Jayanagar 9 Block,Bangalore,650,95 
+230,Dr. Rajdeep,Dermatologist,14 ,Chirag Hospital,JP Nagar 2 Phase,Bangalore,750,96 
+231,Dr. Parthasarathi Dutta Roy,Dermatologist,20 ,Dr. Partha Sarathi's Asian Hair And Skin Hospitals,MG Road,Bangalore,700,89 
+232,Dr. Jaya Sharma,Dermatologist,21 ,Specialist Hospital,Kalyan Nagar,Bangalore,650,89 
+233,Dr. Juvita Rasquinha,Dermatologist,18 ,"Dr. Juvita's Aesthetics Skin, Hair and Cosmetology Clinic",Indiranagar,Bangalore,500,91 
+236,Dr. Kiran Katkar,Dermatologist,38 ,Dr Kiran Katkar's Dermis Skin Wellness Clinic Lase,Dadar West,Mumbai,1200,93 
+237,Dr. Sonia Tekchandani,Dermatologist,37 ,Tender Skin International,Malad West,Mumbai,2000,93 
+238,Dr. Vikas Halwai,Dermatologist,14 ,Derma Dent Aesthetic clinic,Chinchpokli,Mumbai,800,91 
+239,Dr. Mohd Asif,Dermatologist,11 ,Cara Hair Transplant and Aesthetic Center,Santacruz West,Mumbai,1000,100 
+240,Dr. Minal M Thamke Pawar,Dermatologist,17 ,Wellness Clinic,Mulund East,Mumbai,800,99 
+241,Dr. Ujjvala Jadhav,Dermatologist,24 ,The Skin Clinic,Goregaon East,Mumbai,1000,93 
+242,Dr. Kaleem Khan,Dermatologist,14 ,Surya Hospitals,Santacruz West,Mumbai,1500,97 
+243,Dr. Smriti Naswa Singh,Dermatologist,14 ,Fortis Hospital,Mulund West,Mumbai,1500,100 
+244,Dr. Neha V Shah,Dermatologist,14 ,Skin Vogue Clinic,Ghatkopar East,Mumbai,1000,99 
+245,Dr. Sujit Shanshanwal,Dermatologist,14 ,SkinAmour Clinic,Santacruz West,Mumbai,1000,99 
+248,Dr. Sowmya Dogiparthi,Dermatologist,14 ,Apollo Spectra Hospital,Alwarpet,Chennai,1000,97 
+249,Dr. Snehalatha,Dermatologist,18 ,Nila Skin Care Clinic,Tambaram East,Chennai,750,92 
+250,Dr. R. Sowmiya,Dermatologist,21 ,Dr. Vijay's Hospital,Mogappair East,Chennai,300,97 
+251,Dr. Subhashini Mohan,Dermatologist,17 ,Apollo Spectra Hospital,Alwarpet,Chennai,1000,96 
+252,Dr. Nidhi Singh,Dermatologist,18 ,Gleneagles Global Health City,Perumbakkam,Chennai,800,100 
+253,Dr. Col Rajagopal A,Dermatologist,61 ,Apollo Hospital,Greams Road,Chennai,1000,100 
+254,Dr. B.Sindhu Raaghavi,Dermatologist,13 ,Carves Skin Clinic,Velachery,Chennai,700,98 
+255,Dr. Aarthi Lakshmanan,Dermatologist,20 ,Aarthi Skin Care Clinic,MRC Nagar,Chennai,750,93 
+256,Dr. Ganga Ravikumar,Dermatologist,33 ,Dermis Skin & Hair Clinic,Adyar,Chennai,700,96 
+257,Dr. Rajkumar Kannan,Dermatologist,17 ,Fortis Malar Hospital,Adyar,Chennai,500,100 
+260,Dr. Sonal Chavan,Dermatologist,17 ,Dr. Sonnal Chavaan Aesthetic Clinic,Pimple Saudagar,Pune,700,90 
+261,Dr. L K Desai,Dermatologist,28 ,"Dr. Desai Dermacare- Skin, Hair & Laser Clinic",Sopan Baug,Pune,500,94 
+262,Dr. Sumit Parsewar,Dermatologist,10 ,Neo Plant Advance Hair And Skin Clinic,Baner,Pune,600,97 
+263,Dr. Nitin Jain,Dermatologist,21 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Kothrud,Pune,700,97 
+264,Dr. Tejaswini Salunke,Dermatologist,14 ,Apollo Clinic,Wanowrie,Pune,600,100 
+265,Dr. Rajshree Patil,Dermatologist,25 ,Kimaya Skin Clinic,Aundh,Pune,500,90 
+266,Dr. Vijay Nagdev,Dermatologist,13 ,The Skin Doctors,Pimpri-Chinchwad,Pune,700,93 
+267,Dr. K R Chandvania,Dermatologist,44 ,Pallavi Laser Centre,Pimpri-Chinchwad,Pune,900,83 
+268,Dr. Pallavi Ahire Shelke,Dermatologist,16 ,SkinEthics Skin Clinic & Dermatosurgery Center,Baner,Pune,600,97 
+269,Dr. Pradeep Kumari,Dermatologist,20 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Viman Nagar,Pune,700,96 
+271,Dr. Vijay Singhal,Dermatologist,18 ,Zenith Skin Hair & Dental Centre,Punjabi Bagh,Delhi,800,94 
+272,Dr. Hemant Sharma,Dermatologist,48 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1500,95 
+273,Dr. Pallav S Kishanpuria,Dermatologist,19 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1100,95 
+274,Dr. Tanvi Pal,Dermatologist,19 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1500,97 
+275,Dr. Mahima Wadhwa,Dermatologist,12 ,Dr Mahima Wadhwa Skin CliniQ,Shalimar Bagh,Delhi,800,100 
+276,Dr. Indu Ballani,Dermatologist,18 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1000,91 
+277,Dr. Sirisha Singh,Dermatologist,29 ,SCI International Hospital,Greater Kailash Part 1,Delhi,1700,97 
+278,Dr. Nitika Nijhara,Dermatologist,8 ,Fortitude Skin & Hair Clinic,Patel Nagar East,Delhi,1100,99 
+279,Dr. Deepti  Shrivastava,Dermatologist,28 ,Skin Hair & You,Anand Vihar,Delhi,800,95 
+280,Dr. Nipun Jain,Dermatologist,26 ,Aura Skin Cosmetology Clinic,Dwarka,Delhi,800,98 
+283,Dr. Venkata Rayudu Nekkanti,,47 ,Apollo Hospitals,Jubilee Hills,Hyderabad,700,83 
+284,Dr. Tripti Deb,,46 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,63 
+285,Dr. Malleswara Rao Dangeti,,11 ,DM Heart Care Clinic,Attapur,Hyderabad,500,100 
+286,Dr. (Col) Sitaram M,,45 ,Apollo Hospital,Secunderabad,Hyderabad,800,100 
+287,Dr. P Sridhar,,22 ,Medicover Hospitals,Hitech City,Hyderabad,700,100 
+288,Dr. P. Seshagiri Rao,,46 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,83 
+289,Dr. Gokul Reddy,,27 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,97 
+290,Dr. Pratap Chandra Rath,,43 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1500,100 
+291,Dr. Anil Krishna Gundala,,21 ,Medicover Hospitals,Hitech City,Hyderabad,500,94 
+292,Dr. R. Balaji,,34 ,Medicover Hospitals,Hitech City,Hyderabad,700,97 
+294,Dr. Srinivas V K,,39 ,Vydehi Super Speciality Hospital(Mallya Hospital),Ashoknagar,Bangalore,800,100 
+295,Dr. Durga Prasad Reddy,,26 ,Vydehi Super Speciality Hospital(Mallya Hospital),Ashoknagar,Bangalore,800,100 
+296,Dr. Roopa. R,,24 ,Heart Care Clinic,Banashankari 2nd Stage,Bangalore,650,95 
+297,Dr. B. Ramesh,,37 ,Apollo Hospital,Bannerghatta Road,Bangalore,1000,98 
+298,Dr. Jayaranganath M,,35 ,Apollo Hospitals,Seshadripuram,Bangalore,900,91 
+299,Dr. Venkatesh S,,29 ,Aster RV Hospital,JP Nagar,Bangalore,1050,97 
+300,Dr. Sunil Kumar S,,19 ,Manipal Hospital,Hebbal,Bangalore,1000,100 
+301,Dr. K P Srihari Das,,29 ,Manipal Hospital,Jayanagar 9 Block,Bangalore,750,97 
+302,Dr. Prajith Pasam,,10 ,Svasthya Health,HSR Layout,Bangalore,600,100 
+303,Dr. Abhijit Vilas Kulkarni,,21 ,Apollo Hospital,Bannerghatta Road,Bangalore,1000,97 
+305,Dr. C. B. Munjewar,,17 ,FirstHeart Cardiac Super Speciality Centre,Ghatkopar,Mumbai,1500,98 
+306,Dr. Ankur Phatarpekar,,19 ,Care For You Clinic,Prabhadevi,Mumbai,1500,100 
+307,Dr. Surinder Hansra,,24 ,Dr. Hansra's Clinic,Kandivali East,Mumbai,1000,95 
+308,Dr. Nitesh B. Karnire,,14 ,Bandra East Nursing Home,Bandra East,Mumbai,1000,100 
+309,Dr. Suresh Vijan,,32 ,Fortis Hospital,Mulund West,Mumbai,1500,60 
+310,Dr. Hasmukh Ravat,,41 ,Fortis Hospital,Mulund West,Mumbai,1500,75 
+311,Dr. Irfan Khan,,20 ,Dr L H Hiranandani Hospital,Powai,Mumbai,2600,100 
+312,Dr. Rushikesh Patil,,19 ,Dr L H Hiranandani Hospital,Powai,Mumbai,2600,90 
+313,Dr. Harin Vyas,,17 ,Fortis Hospital,Mulund West,Mumbai,2000,100 
+314,Dr. Aditya Dhawale,,14 ,Hope Multispeciality Clinic,Ghatkopar West,Mumbai,1000,89 
+317,Dr. Nishanth S,,12 ,Royal Hospital and Fertility Center,Alwarthirunagar,Chennai,600,93 
+318,Dr. Anand Gnanaraj,,31 ,Apollo Speciality Hospital,Vanagaram,Chennai,1200,100 
+319,Dr. Epari Satish Kumar,,28 ,Chennai Heart Clinic,Anna Nagar,Chennai,800,100 
+320,Dr. Premkumar K J,,21 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+321,Dr. Bharath Kumar. G,,17 ,Gleneagles Global Health City,Perumbakkam,Chennai,1000,80 
+322,Dr. Pradeep Gopinath Nayar,,39 ,Fortis Malar Hospital,Adyar,Chennai,500,100 
+323,Dr. Gobu,,23 ,Gleneagles Global Health City,Perumbakkam,Chennai,1000,100 
+324,Dr. Karthick Anjaneyan,,19 ,Gleneagles Global Health City,Perumbakkam,Chennai,1000,100 
+325,Dr. G. Manohar,,34 ,Fortis Malar Hospital,Adyar,Chennai,500,100 
+326,Dr. Midhun Kumar,,8 ,Dr Midhun Heart and Diabetes Clinic,Valasaravakkam,Chennai,500,100 
+328,Dr. Abhay Somani,,24 ,Somani Cardiac and Gynec Center,Kothrud,Pune,800,90 
+329,Dr. Abhay Khode,,28 ,Cardio Vision Heart Specialty Clinic,Baner,Pune,800,97 
+330,Dr. Kartik Bhosale,,10 ,Dr Kartik Bhosale's Cardiology Clinic,Wakad,Pune,800,100 
+331,Dr. Sandeep J Kadam,,16 ,Dr Kadam Heart Clinic and Diagnostic Centre,Baner,Pune,900,96 
+332,Dr. Abhijeet Palshikar,,26 ,Sahyadri Hospital,Deccan Gymkhana,Pune,750,77 
+333,Dr. Dnyanesh Gaware,,38 ,Cardi Care Clinic,Kalyani Nagar,Pune,1000,94 
+334,Dr. Bhushan Bari,,20 ,Apollo Clinic,Wanowrie,Pune,800,100 
+335,Dr. Abhijeet Joshi,,33 ,Joshi Polyclinic Heart Care & Shruti Pathology Lab,Shivajinagar,Pune,1000,99 
+336,Dr. Suryawanshi Satyajeet,,20 ,The Heart Clinic,Aundh,Pune,700,97 
+337,Dr. Yuvaraj Bhosale,,18 ,Heart Beat Superspeciality Clinic,Baner,Pune,700,100 
+339,Dr. Ajay Aggarwal,,22 ,Heart And Child Clinic,Ashok Vihar,Delhi,1000,88 
+340,Dr. Rajni Sharma,,21 ,Sehgal Heart Centre,Patel Nagar,Delhi,1200,82 
+341,Dr. K. K. Kapur,,44 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,1000,100 
+342,Dr. Nityanand Tripathi,,31 ,Fortis Hospital,Shalimar Bagh,Delhi,1500,87 
+343,Dr. Amit Mittal,,24 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,1500,99 
+344,Dr. S K Gupta,,40 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,1200,100 
+345,Dr. Sameer Shrivastava,,37 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,2000,93 
+346,Dr. Pradeep Jain,,40 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,2000,100 
+347,Dr. Arif Mustaqueem,,27 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,1200,100 
+348,Dr. Rajeev Rathi,,37 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,1200,86 
+351,Dr. Yugandhar,Dentist,21 ,National Dental Care,Madinaguda,Hyderabad,500,95 
+352,Dr. Anil Kumar,Dentist,20 ,Dr. Anil's Superspeciality Dental Hospital,Boduppal,Hyderabad,500,98 
+353,Dr. Nadeem Qadri,Dentist,14 ,Dentadura A Multi Speciality Dental Center,Tolichowki,Hyderabad,500,99 
+354,Dr. Ershad,Dentist,15 ,Star Multi Speciality Dental Clinic,Madinaguda,Hyderabad,300,100 
+355,Dr. Anoop Chowdary,Dentist,14 ,Expert Dental Care,Chanda Nagar,Hyderabad,500,97 
+356,Dr. Sri Sujan Suryadevara,Dentist,15 ,S S Dental Care,Sanath Nagar,Hyderabad,500,100 
+357,Dr. Irfan Md,Dentist,18 ,Facios Clinic,Gachibowli,Hyderabad,400,100 
+358,Dr. S Sreedhar Reddy,Dentist,24 ,Esthetix Dental ,West Marredpally,Hyderabad,500,100 
+359,Dr. Ravindra Ratolikar,Dentist,40 ,Dr. Ravindra Ratolikar's Dental Clinic,Narayanguda,Hyderabad,500,98 
+360,Dr. Anil Kumar Reddy K,Dentist,24 ,I Dental,Alwal,Hyderabad,400,96 
+363,Dr. Sumanth Shetty,Dentist,24 ,Chisel Dental,Koramangala,Bangalore,500,97 
+364,Dr. Baswaraj Biradar,Dentist,26 ,Impressions Dental Specialities,Sahakaranagar,Bangalore,500,99 
+365,Dr. Pramod,Dentist,19 ,Dental de Care,Koramangala,Bangalore,500,98 
+366,Dr. Prafulla Biradar,Dentist,22 ,Impressions Dental Specialities,Sahakaranagar,Bangalore,500,99 
+367,Dr. K. Prapanna Arya,Dentist,19 ,Dental De Care,Domlur,Bangalore,500,100 
+368,Dr. Rashmi Shetty,Dentist,18 ,Chisel Dental,Koramangala,Bangalore,500,99 
+369,Dr. Ganesh Shetty,Dentist,25 ,Dental and Orthodontic Clinic,Kalyan Nagar,Bangalore,500,98 
+370,Dr. T. Ramakrishna,Dentist,25 ,Dental Profiles Clinic,JP Nagar 7 Phase,Bangalore,500,95 
+371,Dr. Jnanesha H.C,Dentist,21 ,Excel Dental Care,Jayanagar 4 Block,Bangalore,500,98 
+372,Dr. K B Shilpashree,Dentist,21 ,Dental Profiles Clinic,JP Nagar 7 Phase,Bangalore,500,94 
+375,Dr. Rajesh Shetty,Dentist,27 ,Dazzle Dental Clinic,Bandra West,Mumbai,500,99 
+376,Dr. Sanket Mehta,Dentist,18 ,Smile Studio Dental Clinic,Matunga,Mumbai,500,99 
+377,Dr. Darshan Hiralal Vora,Dentist,25 ,Dr. Vora's Dental Care,Mulund West,Mumbai,500,99 
+378,Dr. Nikhil Surana,Dentist,14 ,Bright 32 Dental Care & Orthodontic Centre,Kandivali East,Mumbai,500,96 
+379,Dr. Dipika Bharani,Dentist,14 ,Dentalfix Clinic,Vileparle East,Mumbai,500,99 
+380,Dr. Adil Gandevivala,Dentist,15 ,Expressions Maxillofacial Surgery and Dentistry,Tardeo,Mumbai,500,99 
+381,Dr. Reema Nanavati,Dentist,15 ,Nanavati's Dental Wellness,Borivali,Mumbai,500,100 
+382,Dr. Dipti Gandhi,Dentist,39 ,White Arc Dental Studio,Ghatkopar East,Mumbai,500,99 
+383,Dr. Jayna Shah,Dentist,34 ,Smilee Dental Care,Powai,Mumbai,500,100 
+384,Dr. Abhishek Ramesh Chauhan,Dentist,15 ,Sharan Hospital,Ghatkopar West,Mumbai,1000,98 
+387,Dr. M.Srikanth,Dentist,22 ,Smile Solutions Family Dentistry,Chromepet,Chennai,500,98 
+388,Dr. B J Barun,Dentist,19 ,Dr. Barun's Multispeciality Dental Centre,Velachery,Chennai,600,98 
+389,Dr. Prem Kumar,Dentist,16 ,Just Smile Dental & ENT Specialities,Madipakkam,Chennai,500,97 
+390,Dr. D.Revathi,Dentist,16 ,Dr.Revathi's Dental Clinic,Kattupakkam,Chennai,500,99 
+391,Dr. Mareeswari,Dentist,15 ,A2Z Dental Care,Pallikaranai,Chennai,500,99 
+392,Dr. Pavani Thota,Dentist,12 ,Dhantham Dental Hospital International,Nungambakkam,Chennai,1800,97 
+393,Dr. K. Nithya Pandiarajan,Dentist,10 ,Sparkle Dental,Virugambakkam,Chennai,200,100 
+394,Dr. Vikram,Dentist,10 ,Dr.Vikram's Dental & General Clinic,Ashok Nagar,Chennai,500,100 
+395,Dr. B.Ssneha Vignesh,Dentist,7 ,VIGNESH'S DENTAL ZONE,Gowrivakkam,Chennai,150,100 
+396,Dr. Aswin N,Dentist,7 ,Forever32 Dental Care & Implant Center,Shenoy Nagar,Chennai,500,100 
+399,Dr. Gauri Babhulgaonkar,Dentist,11 ,Root Canal Specialist & Implant Dental Clinic,Kharadi,Pune,500,100 
+400,Dr. Prajakta More,Dentist,14 ,Avani Multispeciality Dental Clinic,Dhanori,Pune,300,92 
+401,Dr. Ratnika Agarwal,Dentist,11 ,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,Kharadi,Pune,500,98 
+402,Dr. Makarand Thoke,Dentist,26 ,Om Happy Teeth Dental Clinic,Pimple Saudagar,Pune,500,97 
+403,Dr. Hemant Patil,Dentist,16 ,Laconic Dental Studio,Pimple Saudagar,Pune,500,93 
+404,Dr. Surbhi Bhatia L,Dentist,18 ,Lifeberries Health,Viman Nagar,Pune,500,97 
+405,Dr. Anjali V. Mugal,Dentist,14 ,Divine Multispeciality Dental Clinic and Implant Centre,Kharadi,Pune,500,100 
+406,Dr. Shardul Sontakke,Dentist,23 ,Smile Gallery Dental Care Centre,Kothrud,Pune,500,99 
+407,Dr. Dragpal Singh Rajput,Dentist,14 ,Darshil Dental Care,Baner,Pune,500,95 
+408,Dr. Vishal S Mugal,Dentist,15 ,Divine Multispeciality Dental Clinic and Implant Centre,Kharadi,Pune,500,99 
+411,Dr. Pankaj Rao,Dentist,17 ,Oraa Care Smile Dental Clinic,Dwarka,Delhi,500,97 
+412,Dr. Rajat Sachdeva,Dentist,17 ,Dr. Sachdeva's Dental Aesthetic & Implant Centre,Ashok Vihar,Delhi,500,95 
+413,Dr. Harsh Goyal,Dentist,14 ,Dr Goyals Dental Center and Implant Centre,Janakpuri,Delhi,500,100 
+414,Dr. Rohit Yadav,Dentist,11 ,Cusp Dental,Dwarka Sector 23,Delhi,500,100 
+415,Dr. Ritesh,Dentist,18 ,Ritesh Dental Clinic,Vasant Kunj,Delhi,500,99 
+416,Dr. Manish Kalra,Dentist,26 ,Dr. Kalra's Dental & Orthodontic Clinic,Lajpat Nagar,Delhi,700,97 
+417,Dr. Niraj Rampal,Dentist,46 ,Dr. Rampal Dental Clinic,Greater Kailash Part 2,Delhi,1500,100 
+418,Dr. Kapil Gandhi,Dentist,26 ,Dental Masters,CR Park,Delhi,800,98 
+419,Dr. Mayank Mukhi,Dentist,15 ,Max Smart Superspeciality Hospital,Saket,Delhi,600,97 
+420,Dr. Aval Luthra,Dentist,22 ,Dental Arche,Vasant Kunj,Delhi,700,97 
+423,Dr. S Sreedhar Reddy,,24 ,Esthetix Dental ,West Marredpally,Hyderabad,500,100 
+424,Dr. Srikanth Guduguntla,,26 ,Smile Miles Dental Hospital,Begumpet,Hyderabad,500,92 
+425,Dr. Siva Srinivas,,19 ,Anandbagh Super Speciality Dental Hospital,Malkajgiri,Hyderabad,500,94 
+426,Dr. Nikhil Saran,,16 ,Vista Dental Studio,Madhapur,Hyderabad,500,98 
+427,Dr. Subbaiah Naidu,,13 ,Indo American Dental Hospital,Ameerpet,Hyderabad,500,100 
+428,Dr. Arvind Nahata,,11 ,Diamond Multispeciality Dental Clinic,Himayat Nagar,Hyderabad,500,99 
+429,Dr. Lavanya B,,17 ,Dr. Lavanya Dental & Implant Centre,Madhapur,Hyderabad,500,93 
+430,Dr. Arjun Thiruvaipati,,11 ,Mulberry Super Speciality Dental and Gynecology,Nallagandla,Hyderabad,500,100 
+431,Dr. Anil Kumar,,20 ,Dr. Anil's Superspeciality Dental Hospital,Boduppal,Hyderabad,500,98 
+432,Dr. Hormuzd K Vakil,,24 ,Yatha Dental Care,MG Road,Hyderabad,500,99 
+435,Dr. Ganesh Shetty,,25 ,Dental and Orthodontic Clinic,Kalyan Nagar,Bangalore,500,98 
+436,Dr. T. Ramakrishna,,25 ,Dental Profiles Clinic,JP Nagar 7 Phase,Bangalore,500,95 
+437,Dr. Jnanesha H.C,,21 ,Excel Dental Care,Jayanagar 4 Block,Bangalore,500,98 
+438,Dr. Sumanth Shetty,,24 ,Chisel Dental,Koramangala,Bangalore,500,97 
+439,Dr. Prof. Anuradha Navaneetham,,38 ,Comprehensive Dental & Implant Centre,Richmond Town,Bangalore,500,95 
+440,Dr. Baswaraj Biradar,,26 ,Impressions Dental Specialities,Sahakaranagar,Bangalore,500,99 
+441,Dr. Sunil Rao,,27 ,Smile Dental Care,Vijayanagar,Bangalore,500,98 
+442,Dr. Shobith R Shetty,,17 ,Beyond Smiles,Koramangala,Bangalore,500,97 
+443,Dr. Prafulla Biradar,,22 ,Impressions Dental Specialities,Sahakaranagar,Bangalore,500,99 
+444,Dr. K. Prapanna Arya,,19 ,Dental De Care,Domlur,Bangalore,500,100 
+447,Dr. Rajesh Shetty,,27 ,Dazzle Dental Clinic,Bandra West,Mumbai,500,99 
+448,Dr. Darshan Hiralal Vora,,25 ,Dr. Vora's Dental Care,Mulund West,Mumbai,500,99 
+449,Dr. Sandhya Biyani,,13 ,Divine Smiles Dental Care,Bandra West,Mumbai,500,99 
+450,Dr. Reshma Phulwar,,26 ,32 Pearls Dental Clinic,Chembur,Mumbai,700,96 
+451,Dr. Garima Manish Ranade,,24 ,The Tooth Place Advanced Dental Care Centre,Vileparle East,Mumbai,300,100 
+452,Dr. Uday B Shetty,,38 ,Perfect smile clinic,Dadar West,Mumbai,500,98 
+453,Dr. Shantanu Jambhekar,,16 ,Smilessence Center for Advanced Dentistry,Parel,Mumbai,500,99 
+454,Dr. Ajay Thaker,,27 ,Dr. Ajay Thaker's Smiles Royale Dental Clinic,Mulund West,Mumbai,500,99 
+455,Dr. Shalini Pal,,16 ,DentaWell Dental Clinic,Marol,Mumbai,500,100 
+456,Dr. Nishant Gandhi,,17 ,Dr. Nishant's Dental Surgeons Planet,Powai,Mumbai,500,98 
+459,Dr. M.Srikanth,,22 ,Smile Solutions Family Dentistry,Chromepet,Chennai,500,98 
+460,Dr. Harish G,,14 ,Mr. & Mrs. Tooth Dental Clinic,Sholinganallur,Chennai,500,99 
+461,Dr. D.Revathi,,16 ,Dr.Revathi's Dental Clinic,Kattupakkam,Chennai,500,99 
+462,Dr. J. Jebin Paul Nesaline,,17 ,"DR JEBINS IMPLANT DENTISTRY, PERUNGUDI.",Perungudi,Chennai,500,100 
+463,Dr. Balajee. J,,11 ,Elite Dentistry,Anna Nagar West,Chennai,500,100 
+464,Dr. Praveen kumar,,7 ,Thamarai Dental Clinic,Kolathur,Chennai,500,98 
+465,Dr. Vesta Enid Lydia,,11 ,Stunning Smiles Dental & Hearing Aid Clinic,Anna Nagar West,Chennai,150,99 
+466,Dr. V.K.Vignesh,,7 ,VIGNESH'S DENTAL ZONE,Gowrivakkam,Chennai,150,100 
+467,Dr. Praveen Kumar,,9 ,DENT-INN,Selaiyur,Chennai,500,100 
+468,Dr. K. Nithya Pandiarajan,,10 ,Sparkle Dental,Virugambakkam,Chennai,200,100 
+471,Dr. Ratnika Agarwal,,11 ,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,Kharadi,Pune,500,98 
+472,Dr. Sonali Nalawade kakade,,14 ,Implant & Dental Art,Pimpri-Chinchwad,Pune,500,98 
+473,Dr. Ajay Mootha,,22 ,Dr. Mootha's Advanced Dental Care,Magarpatta City,Pune,500,100 
+474,Dr. Sanket Patil,,15 ,Opal Dental Care and Implant Center,Aundh,Pune,500,100 
+475,Dr. Ashish Chinchanikar,,16 ,Braces n Smiles,Dhayari,Pune,500,98 
+476,Dr. Makarand Thoke,,26 ,Om Happy Teeth Dental Clinic,Pimple Saudagar,Pune,500,97 
+477,Dr. Rahul Redasani,,25 ,Smiles Spectrum,Bibvewadi,Pune,500,98 
+478,Dr. Vaishali Makrand Thoke,,25 ,Om Happy Teeth Dental Clinic,Pimple Saudagar,Pune,500,97 
+479,Dr. Ankush R. Agrawal,,18 ,"Dentsee Dental Clinic, Laser and Implant Centre",Wakad,Pune,500,97 
+480,Dr. Hemant Patil,,16 ,Laconic Dental Studio,Pimple Saudagar,Pune,500,93 
+483,Dr. Rajat Sachdeva,,17 ,Dr. Sachdeva's Dental Aesthetic & Implant Centre,Ashok Vihar,Delhi,500,95 
+484,Dr. Ankit Jain,,11 ,Arham Dental Care,Tri Nagar,Delhi,500,100 
+485,Dr. Sumanto Bagchi,,17 ,Dr. Bagchi's DENTOLOGY,Dwarka,Delhi,500,99 
+486,Dr. Harsh Goyal,,14 ,Dr Goyals Dental Center and Implant Centre,Janakpuri,Delhi,500,100 
+487,Dr. Anoop Jain,,15 ,Dental Xperts - RCT & Implant Dental clinic,Rohini,Delhi,500,99 
+488,Dr. Rahul Kamra,,27 ,Dr. Kamra's Dental Health Clinic,Vikas Puri,Delhi,500,98 
+489,Dr. Prashant Ojha,,17 ,White Willow Multi-Speciality Dental Clinic,Saket,Delhi,300,92 
+490,Dr. Nikhil,,6 ,Dental Universe & Ayurvedic Allopathic Centre,Vasant Kunj,Delhi,500,100 
+491,Dr. Jasneet Singh,,16 ,Dental Works Clinic,Paschim Vihar,Delhi,600,97 
+492,Dr. Sourabh Nagpal,,18 ,Matrix Dental & Skin Lounge,Vasant Vihar,Delhi,500,98 
+495,Dr. S Sarangapani,Ayurveda,43 ,Sai Bharadwaja Advanced Ayurveda Hospital,Erragadda,Hyderabad,500,99 
+496,Dr. M. Narasimha,Ayurveda,24 ,S.B. Ayurvedic Speciality Clinic,Ameerpet,Hyderabad,500,88 
+497,Dr. G.Venkateswarlu,Ayurveda,18 ,Dr. Saraja's Ayurvedic Speciality Clinic Piles & Fistula Centre,Kukatpally,Hyderabad,500,97 
+498,Dr. Anupama Uppuluri,Ayurveda,24 ,Snigdha Ayurvedic Hospital,Bachupally,Hyderabad,500,100 
+499,Dr. Priti Thakre,Ayurveda,21 ,Chaudhari Clinic-Ayurvedic Infertility Treatment Center,KPHB,Hyderabad,500,100 
+500,Dr. Alivelu Manga,Ayurveda,25 ,JIVA Ayurveda,Himayat Nagar,Hyderabad,299,93 
+501,Dr. Sunita Grace,Ayurveda,20 ,Jivaasri Ayurvedic Wellness,Banjara Hills,Hyderabad,500,100 
+502,Dr. S Mahesh Kumar,Ayurveda,14 ,Sri Veda Sushruta Ayurveda Hospital,KPHB,Hyderabad,400,100 
+503,Dr. Mallikarjun Eleri,Ayurveda,11 ,Ayu Suraksha Ayurveda & Ano Rectal Care Center,Lingampally,Hyderabad,300,100 
+504,Dr. Rajya Lakshmi,Ayurveda,27 ,Ayurkalpa,Kondapur,Hyderabad,500,100 
+507,Dr. Vinay,Ayurveda,14 ,Varaprada Ayurvedic Centre,Basavanagudi,Bangalore,300,99 
+508,Dr. Phanindra V V,Ayurveda,15 ,Narayana Ayurveda Kuteeram,Banashankari,Bangalore,400,99 
+509,Dr. Manjunath R Joshi,Ayurveda,16 ,Dr. Joshi's Deerghayu Ayurvedic Center,Bannerghatta Road,Bangalore,500,97 
+510,Dr. Mone Damodar,Ayurveda,23 ,Kurias Earth Ayurveda Multispeciality Hospital,Banashankari 1st Stage,Bangalore,750,97 
+511,Dr. Lakshmi Narayan,Ayurveda,22 ,Kurias Earth Ayurveda Multispeciality Hospital,Banashankari 1st Stage,Bangalore,750,100 
+512,Dr. Krishna Kumar,Ayurveda,16 ,Keva Ayurveda Healthcare Pvt Ltd,BTM Layout 2nd Stage,Bangalore,400,97 
+513,Dr. Sharad Kulkarni,Ayurveda,8 ,Jeevottama Health,BTM Layout,Bangalore,500,99 
+514,Dr. Alok Roy,Ayurveda,19 ,Kurias Earth Ayurveda Multispeciality Hospital,Banashankari 1st Stage,Bangalore,400,100 
+515,Dr. Tanmaya,Ayurveda,15 ,Siddhanta Ayurveda,Marathahalli,Bangalore,400,95 
+516,Dr. Deepika,Ayurveda,14 ,Keva Ayurveda Healthcare Pvt Ltd,BTM Layout 2nd Stage,Bangalore,400,98 
+518,Dr. Sunita Jonwal,Ayurveda,15 ,Dr. Jonwal's NapAyurVeda Panchkarm & Wellness,Borivali West,Mumbai,800,90 
+519,Dr. Kuldip Raj Kohli,Ayurveda,41 ,Kohli's Ayurveda And Panchakarma Centre,Lower Parel,Mumbai,1000,100 
+520,Dr. Arun Kumar,Ayurveda,35 ,Kaya Kalp International Sex & Health Clinics,Dadar West,Mumbai,800,97 
+521,Dr. Manasi Shreyas Joshi,Ayurveda,12 ,Maple Polyclinic,Mulund West,Mumbai,500,100 
+522,Dr. Govind Lihinar,Ayurveda,10 ,Ojas Herbal Ayurveda & Panchakarma Center,Tilak Nagar,Mumbai,1000,94 
+523,Dr. Sheeba Raveendran,Ayurveda,35 ,Ashwini Ayurvedic Hopsital,Borivali West,Mumbai,400,100 
+524,Dr. Bhadra P. Vaidya,Ayurveda,21 ,Ayurvedic Dispensary,Goregaon West,Mumbai,700,100 
+525,Dr. Nitin Goradia,Ayurveda,31 ,Goradia Ayurvedic Clinic.,Grant Road,Mumbai,1500,97 
+526,Dr. Anita Gupta,Ayurveda,27 ,Aharayogam,Mulund West,Mumbai,2000,98 
+527,Dr. Rajshree Chavan,Ayurveda,14 ,Sahastram Ayurveda Panchkarma Center,Dadar East,Mumbai,600,97 
+529,Dr. Rajesh Verma,Ayurveda,28 ,Bliss Medicare Centre,Vadapalani,Chennai,600,95 
+530,Dr. D Jayashree,Ayurveda,39 ,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,750,97 
+531,Dr. Poonam Verma,Ayurveda,27 ,Bliss Medicare Centre,Vadapalani,Chennai,600,96 
+532,Dr. D Srikrishna,Ayurveda,12 ,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,500,98 
+533,Dr. Uday Kiran,Ayurveda,25 ,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,750,100 
+534,Dr. M Vishnupriya,Ayurveda,15 ,Aditti Ayurveda And Panchakarma Clinic,Selaiyur,Chennai,300,100 
+535,Dr. Sampoorna M,Ayurveda,15 ,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,500,91 
+536,Dr. Sruthy Sreekumar,Ayurveda,12 ,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,500,100 
+537,Dr. Raniya Sulthana,Ayurveda,15 ,Arya Vaidya Sala Kottakkal,Mogappair West,Chennai,750,100 
+538,Dr. Jyothi Naresh,Ayurveda,30 ,Vinaya Clinic,Kandanchavadi,Chennai,300,67 
+541,Dr. Sagar Pampattiwar,Ayurveda,16 ,Aatreya Ayurvedic Panchakarma  & Infertility Clinic,Baner,Pune,300,99 
+542,Dr. Narendra Ashok Shekade,Ayurveda,16 ,Ayush  Ayurved,Kharadi,Pune,300,88 
+543,Dr. Prashant Daundkar Patil,Ayurveda,18 ,Shree Ayurved and Panchakarma Hospital,Chandan Nagar,Pune,500,88 
+544,Dr. Madhavi Satav Chavan,Ayurveda,16 ,Ayuspanda Ayurvedic And Panchakarma Centre,Pimpri-Chinchwad,Pune,300,100 
+545,Dr. Mahesh S Pawar,Ayurveda,23 ,"PURO HEALTH   Homeopathy, Ayurveda and Panchakarma",Viman Nagar,Pune,500,100 
+546,Dr. Sangeeta Waghmode,Ayurveda,22 ,Sanjeevani Ayurved And Panchkarma Center,Sinhagad Road,Pune,500,99 
+547,Dr. Prajakta,Ayurveda,19 ,Dr. Prajakta's Ayurveda & Panchakarma Clinic,Viman Nagar,Pune,300,96 
+548,Dr. Pradeep R Chaudhari,Ayurveda,15 ,Sai Sparsh Aayurved Clinic and Panchakarma Therapies,Baner,Pune,400,100 
+549,Dr. Nilesh Jadhav,Ayurveda,20 ,Shree Madhavaamrut Ayurvedi and Panchkarma Clinic,Wanowrie,Pune,200,99 
+550,Dr. Adesh Karwa,Ayurveda,20 ,Ayurveda Clinic,Aundh,Pune,500,99 
+553,Dr. Alka Tyagi,Ayurveda,38 ,Tyagi Nursing Home,Tilak Nagar,Delhi,600,100 
+554,Dr. Mahesh Shah,Ayurveda,54 ,Hakim Hari Kishan Lal Dawakhana,Patel Nagar East,Delhi,50,93 
+555,Dr. Sudha Asokan,Ayurveda,44 ,Dr. Sudha's Ayurveda Kendra,Safdarjung Enclave,Delhi,1200,96 
+556,Dr. Himanshu Verma,Ayurveda,7 ,Sadhna Ayurvedic Bhawan,Laxmi Nagar,Delhi,500,100 
+557,Dr. Anjana Kalia,Ayurveda,22 ,Dr Anjana Kalia's Diet clinic,Dwarka,Delhi,1000,99 
+558,Dr. S K Singh,Ayurveda,37 ,Sushruta Anorectal Institute,Rohini,Delhi,1500,90 
+559,Dr. Vijay Abbot,Ayurveda,49 ,Hakim Hari Kishan Lal Dawakhana,Patel Nagar East,Delhi,50,82 
+560,Dr. Jyoti Arora Monga,Ayurveda,23 ,Dr. Monga Clinic,Lajpat Nagar,Delhi,800,87 
+561,Dr. Madhu Sudan,Ayurveda,14 ,Arogya Clinic & Panchkarma Centre,Kalkaji,Delhi,1000,88 
+562,Dr. Sunil Tomar,Ayurveda,15 ,Dr Monga Medi Clinic,Rajouri Garden,Delhi,800,56 
+565,Dr. Chetan Raj,,12 ,Dr. Chetan's Homeo Clinics,Begumpet,Hyderabad,51,97 
+566,Dr. Namita Singh   (PhD),,32 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1700,100 
+567,Mr. Srikanth Majjiga,,7 ,HTA Psychological Counseling Center,Quthbullapur,Hyderabad,2000,100 
+568,Dr. Puli Vanaja Reddy,,19 ,Apollo Hospitals,Jubilee Hills,Hyderabad,2000,67 
+569,Mr. B. Lakshman Sharma,,9 ,Dawn Org,Saroor Nagar,Hyderabad,2000,95 
+570,Dr. Venkateshwar Rao Deshineni   (PhD),,21 ,Smart Minds Centre for Positive  Psychology,Nacharam,Hyderabad,2000,100 
+571,Mr. Karthik Madugula,,6 ,Sakar Counselling Centre,Madhapur,Hyderabad,5000,98 
+572,Dr. P. Madhurima Reddy (PhD)   (PhD),,20 ,La Winspire International Training & Solutions LLP,Kokapet,Hyderabad,2500,92 
+573,Ms. Sneha Khelani,,6 ,Retrospect Counselling,Manikonda,Hyderabad,1500,100 
+574,Ms. M B Vishnu Priya,,1 year experience,Hegde Hospital,Madhapur,Hyderabad,1000,100 
+576,Ms. Nitu Tiwary,,13 ,Manipal Hospital Whitefield,Whitefield,Bangalore,1500,93 
+577,Mr. C.R Satish Kumar,,9 ,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,2000,85 
+578,Mr. Chetan Manjalekar,,7 ,Asvasana,Sarjapur Road,Bangalore,1200,97 
+579,Ms. Sheetal N Chauhan,,4 ,Mindful TMS Neurocare,Sahakaranagar,Bangalore,1000,100 
+580,Ms. Navya Sree Nambiar,,6 ,Mindful TMS Neurocare ,Whitefield,Bangalore,800,100 
+581,Dr. Rachna Sharma   (PhD),,13 ,The Body Cliinic,Whitefield,Bangalore,2100,93 
+582,Ms. Arunita Biswas,,15 ,Manipal Hospital Varthur Road,Whitefield,Bangalore,1700,73 
+583,Ms. Sucheta Mishra,,6 ,Maarga,Yelahanka,Bangalore,1500,100 
+584,Dr. Aarushi Dewan (Phd)   (PhD),,1 year experience,Maarga,Yelahanka,Bangalore,1500,67 
+585,Mr. Sudarshan Hegde,,12 ,Manospandana,Banashankari 2nd Stage,Bangalore,1999,50 
+587,Dr. Ketan Parmar,,35 ,Dr Ketan Parmar psychiatrist center,Borivali East,Mumbai,1200,77 
+588,Dr. Naazneen Ladak,,17 ,BHN Elder Care,Andheri West,Mumbai,2000,91 
+589,Ms. Kausar S,,25 ,Wellbeing Counselling services,Khar West,Mumbai,2500,88 
+590,Ms. Riddhi Sagar,,10 ,Psychoknowmics Educational And Counseling Services,Vileparle West,Mumbai,1800,97 
+591,Ms. Anushree Lokhande,,9 ,Evolving Together,Kemps Corner,Mumbai,2000,96 
+592,Ms. Nipa Sanghavi,,13 ,Evolve - The Mind Center,Worli,Mumbai,2000,86 
+593,Ms. Mithila Desai,,35 ,Dr Mithila Desai's Power Of Mind Clinic,Borivali West,Mumbai,2850,94 
+594,Ms. Khushboo Jain,,8 ,Seabird Medicare,Andheri East,Mumbai,1800,100 
+595,Dr. Shyam Mithiya,,16 ,Dr. Mithiya's Clinic,Ghatkopar West,Mumbai,1750,96 
+596,Ms. Purvi Palvia,,6 ,Matunga Clinic & Hospital,Matunga,Mumbai,1500,94 
+598,Dr. Hema Karthik   (PhD),,21 ,Nirnay Consulting Services,Anna Nagar,Chennai,1500,94 
+599,Dr. Getsy Solomon   (PhD),,18 ,Jedidiah Counseling,Avadi,Chennai,1000,99 
+600,Dr. Khushali Manikandan   (PhD),,17 ,Gee Ve Polyclinic,Adambakkam,Chennai,1000,89 
+601,Mr. B. Elayaraja,,21 ,Kavithalayaa Counseling Centre,Ambattur,Chennai,2500,97 
+602,Ms. Sangareswari,,5 ,Psychological Care,Tambaram West,Chennai,1200,100 
+603,Mr. Rohit Ramachandran,,5 ,Retract Center,Adyar,Chennai,2000,100 
+604,Mr. Saravanan,,15 ,Tranzend Clinic,Valasaravakkam,Chennai,2000,100 
+605,Dr. Anju Soni   (PhD),,10 ,COOLWITS,Choolai,Chennai,1300,100 
+606,Dr. D.Senthil Kumar,,23 ,Vivekanantha Homeo Clinic & Psychological Counseling Center,Velachery,Chennai,600,95 
+607,Mr. Kumaran .K,,12 ,K Point,Ashok Nagar,Chennai,1000,100 
+610,Ms. Vaishali Girme,,12 ,Sahyadri Hospital,Deccan Gymkhana,Pune,700,67 
+611,Dr. Varsha Choudhari,,12 ,Awakened Living Counseling Center,Sinhagad Road,Pune,1500,91 
+612,Dr. Trupti Siddhesh Gurav,,15 ,Dr. Trupti's Counselling Clinic,Pimpri-Chinchwad,Pune,650,93 
+613,Mr. Sandip Shobha,,16 ,Neogenesis Indica,Pashan,Pune,2000,99 
+614,Ms. Usha Gokhale,,23 ,Usha Gokhale Counselling Clinic,Ambegaon,Pune,1500,100 
+615,Ms. Seema Jathar,,4 ,Sanwad Psychological Counselling Centre,Kothrud,Pune,1500,96 
+616,Mr. Omkar Naik,,8 ,Cinq In,Baner Road,Pune,1500,100 
+617,Dr. Poonam Solanki,,13 ,Deep Homoeopathic Clinic,Hadapsar,Pune,500,99 
+618,Ms. Piyusha Pande,,4 ,Cinq In,Baner Road,Pune,1500,100 
+619,Ms. Shamira Pujani,,18 ,Olive Health Center,Viman Nagar,Pune,2000,100 
+622,Dr. Shailaja Pokhriyal   (PhD),,14 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1600,60 
+623,Mr. Rajpal Kaushik,,19 ,Kaushik Clinic,Janakpuri,Delhi,1500,90 
+624,Dr. (Prof) RK Suri,,39 ,Psychowellness Center,Dwarka,Delhi,4000,96 
+625,Dr. Vikas Khanna,,22 ,Orange Pines Counseling & Hypnosis Center,Rajouri Garden,Delhi,1800,98 
+626,Ms. Mala Vohra Khanna,,8 ,Raj Psychological Services,Shahdara,Delhi,1000,98 
+627,Ms. Neha Gupta,,14 ,AntarMan Healthy mind,Vijaynagar,Delhi,1700,100 
+628,Ms. Ashita Mahendru,,11 ,Mind Healing Clinic,Naraina,Delhi,3200,96 
+629,Ms. Neelima Dhawan,,6 ,The Happy Tree - De-addiction And Mental Health Hospital,Vivek Vihar,Delhi,1000,100 
+630,Dr. Abha Arora,,43 ,Prakashwati   Clinic,Mayur Vihar Ph-III,Delhi,1100,83 
+631,Ms. Aishwarya Kumar,,3 ,Mind Vriksha,CR Park,Delhi,2000,100 
+633,Mr. Neela Sandeep,,14 ,Mythri Speech And Hearing Clinic,Chanda Nagar,Hyderabad,300,97 
+634,Mr. Premnath Balla,,21 ,Phonics Multi Specialty Medical Rehabilitation Centre,Banjara Hills,Hyderabad,500,93 
+635,Mr. Ravindar Varakala,,19 ,Harmony Hearing Clinic,Miyapur,Hyderabad,600,99 
+636,Ms. Sharmila Banik,,16 ,reDO Speech & Hearing Centre,Gachibowli,Hyderabad,700,91 
+637,Mr. Nagendar Kankipati,,14 ,Global Care Hearing Aid Speech Therapy ENT Clinic,Tarnaka,Hyderabad,300,100 
+638,Mr. Sai Krishna,,16 ,Hearing Care Centre,Chaitanyapuri,Hyderabad,400,100 
+639,Mr. Sachin Kumar Gulve,,14 ,Ashoka Multi Speciality Rehabilitation Centre,AS Rao Nagar,Hyderabad,1000,98 
+640,Ms. Lakshmi Prasanna,,16 ,Hearing Care Centre,Chaitanyapuri,Hyderabad,400,100 
+641,Mr. Vijay Kumar Avilala,,15 ,National Speech & Hearing Center,Masab Tank,Hyderabad,500,100 
+642,Mr. Enoc kumar,,15 ,Hanoc Speech and Hearing Clinic,Yellareddyguda,Hyderabad,500,100 
+644,Ms. Neema N Kutty,,10 ,Manipal Hospital Varthur Road,Whitefield,Bangalore,950,100 
+645,Mr. Badrinath S N,,23 ,Vibrant Rehabilitation Centre,Banashankari 2nd Stage,Bangalore,500,100 
+646,Ms. Rashmi Viswamurthy Krishna Rao,,15 ,Mom's Belief Little Ladders,Banashankari 2nd Stage,Bangalore,600,100 
+647,Mr. Ravindar Varakala,,19 ,Harmony Speech and Hearing Clinic,Whitefield,Bangalore,300,99 
+648,Dr. Praveen Kumar C G   (PhD),,18 ,Mom's Belief Little Ladders,Banashankari 2nd Stage,Bangalore,600,100 
+649,Mr. Nitin K Damam,,8 ,Rudh Hearing and Speech Clinic,Vidyaranyapura,Bangalore,400,100 
+650,Mr. SLP Sanjay Kumar,,18 ,Sanjay Speech Hearing and Rehabilitation Center,Hebbal,Bangalore,1400,96 
+651,Ms. Kalpana Joshi,,30 ,Meenakshi ENT Speciality Hospital (MENTS),Banashankari 2nd Stage,Bangalore,500,93 
+652,Ms. Milda Rajeevan,,5 ,Helen Speech and Hearing Centre,Sarjapur Road,Bangalore,800,100 
+653,Ms. Sumita Banerjee,,16 ,Sanjay Speech Hearing and Rehabilitation Center,Hebbal,Bangalore,900,100 
+655,Ms. Komal L Renuke,,15 ,Dr L H Hiranandani Hospital,Powai,Mumbai,850,43 
+656,Mr. Piyush Gujarathi,,9 ,Global Hospitals,Parel,Mumbai,1500,100 
+657,Ms. Neha Chhabria,,15 ,S L Raheja Fortis Hospital,Mahim,Mumbai,1300,100 
+658,Ms. Dr Rupal Chaudhary,,28 ,The Hearing and Vertigo Clinic,Dadar West,Mumbai,1000,100 
+659,Ms. Sneha Savla,,12 ,Sparkle Multi-Disciplinary Intervention Centre,Mira Road,Mumbai,600,100 
+660,Mr. Hemant Bansode,,15 ,The Sapphire ,Mulund West,Mumbai,700,100 
+661,Ms. Ashwini Raut,,23 ,Atharva Speech & Hearing Care,Borivali West,Mumbai,600,100 
+662,Ms. Devangi Dalal,,32 ,Gandhi Nursing Home - Speech N Sound Concepts,Santacruz,Mumbai,1000,100 
+663,Mr. Sunil Savgave,,41 ,Definite Hearing Center,Goregaon West,Mumbai,900,100 
+664,Ms. Mohini Shah,,11 ,Clinical Audiologist And Speech Therapist,Mulund West,Mumbai,500,100 
+666,Ms. Saradha,,10 ,Life Healthcare Multi Specialty Rehabilitation Centre,Mogappair East,Chennai,700,93 
+667,Mr. B. Vishnuram,,6 ,"Mom's Belief  Communi-Kare Speech, Hearing And Vestibular Rehabilitation Centre",Kundrathur,Chennai,300,100 
+668,Ms. Aishwarya.M,,3 ,iQu Clinic,Aminjikarai,Chennai,1400,100 
+669,Ms. Sornalatha,,10 ,Aural Speech And Hearing Clinic,Ambattur,Chennai,500,93 
+670,Mr. Deepak Sathyanarayanan,,15 ,Denoc Hearing Care Centre,Nungambakkam,Chennai,400,99 
+671,Ms. Indhu Mathi,,8 ,AUORAL Multi Rehab Centre,Mogappair,Chennai,400,100 
+672,Ms. Jeeja Ajith,,24 ,Priyaa Child Development Center,Saidapet,Chennai,500,89 
+673,Mr. Aravind Kannan,,23 ,Chitra Therapy Centre,Neelankarai,Chennai,400,75 
+674,Mr. Hari M,,10 ,AUORAL Multi Rehab Centre,Mogappair,Chennai,400,100 
+675,Ms. Varsha Ravindran,,11 ,Prism Therapy Centre,Anna Nagar,Chennai,500,100 
+677,Mr. Sunil Patil,,10 ,My Speech and Hearing Clinic,Sadashiv Peth,Pune,700,97 
+678,Ms. Sneha Nachiket Sardesai,,10 ,Rejoice Speech & Hearing Clinic,Senapati Bapat Marg,Pune,700,100 
+679,Mr. Dayanand Hembade,,9 ,Ghaisas ENT Hospital,Deccan Gymkhana,Pune,600,100 
+680,Mr. Ashutosh Dubey,,16 ,Hearing Care Clinic ,Wakad,Pune,600,98 
+681,Ms. Dipti Samantaray,,10 ,Prudent International Health Clinic,Kalyani Nagar,Pune,500,100 
+682,Mr. Piyush Sone,,12 ,ANRC,Kothrud,Pune,550,100 
+683,Ms. Neha J Nellangara,,6 ,KEM Hospital,Rasta Peth,Pune,600,100 
+684,Ms. Sakshi Pal,,6 ,Sakshi Speech Clinic,Kondhwa,Pune,800,100 
+685,Ms. Pushpa Dahat Salvi,,16 ,Blue Bell Plus Speech & Hearing Clinic,Sinhagad Road,Pune,600,100 
+686,Ms. Manisha Sahu,,6 ,Hear Health Clinic,Wanowrie,Pune,700,100 
+688,Ms. Neevita Narayan,,28 ,SpHear - Speech & Hearing Clinic,Lajpat Nagar,Delhi,800,97 
+689,Ms. Barkha Gupta,,17 ,Hearsaywell Speech And Hearing Clinic,Preet Vihar,Delhi,800,91 
+690,Ms. Niyati Chopra,,17 ,UniCare Speech and Hearing Clinic,Vikas Puri,Delhi,1000,97 
+691,Ms. Sarika Chandel,,13 ,Ear & Hear Speech And Hearing Clinic,Rajouri Garden,Delhi,1000,96 
+692,Mr. Lovedeep Kholia,,14 ,UniCare Speech and Hearing Clinic,Vikas Puri,Delhi,1000,98 
+693,Dr. Ruchika Mittal   (PhD),,20 ,Mittal Clinic,Rajouri Garden,Delhi,900,97 
+694,Mr. Vijay Aggarwal,,31 ,Vijay Aggarwal (AIIMS) Speech & Hearing Clinic,Janakpuri,Delhi,800,99 
+695,Mr. B.P.Singh,,32 ,Singh Speech Therapy & Hearing Aid  Clinic,Rohini,Delhi,500,80 
+696,Ms. Ramya Kapooria,,16 ,Hearing Expert Center,Old Rajendra Nagar,Delhi,600,97 
+697,Dr. Kshitij Malik,,17 ,Dr Malik's Prime Clinic - Hearing Tinnitus Vertigo,Defence Colony,Delhi,1000,97 
+699,Mr. Premnath Balla,,21 ,Phonics Multi Specialty Medical Rehabilitation Centre,Banjara Hills,Hyderabad,500,93 
+700,Mr. Ravindar Varakala,,19 ,Harmony Hearing Clinic,Miyapur,Hyderabad,600,99 
+701,Ms. Sharmila Banik,,16 ,reDO Speech & Hearing Centre,Gachibowli,Hyderabad,700,91 
+702,Mr. Nagendar Kankipati,,14 ,Global Care Hearing Aid Speech Therapy ENT Clinic,Tarnaka,Hyderabad,300,100 
+703,Mr. Sai Krishna,,16 ,Hearing Care Centre,Chaitanyapuri,Hyderabad,400,100 
+704,Mr. Sachin Kumar Gulve,,14 ,Ashoka Multi Speciality Rehabilitation Centre,AS Rao Nagar,Hyderabad,1000,98 
+705,Mr. Vijay Kumar Avilala,,15 ,National Speech & Hearing Center,Masab Tank,Hyderabad,500,100 
+706,Mr. Enoc kumar,,15 ,Hanoc Speech and Hearing Clinic,Yellareddyguda,Hyderabad,500,100 
+707,Mr. S.Phaneedhar Reddy,,11 ,KIMS - Krishna Institute of Medical Sciences,Secunderabad,Hyderabad,350,100 
+708,Mr. N.M.S Reddy,,12 ,Global Hearing & Speech Centre,KPHB,Hyderabad,200,100 
+710,Ms. Neema N Kutty,,10 ,Manipal Hospital Varthur Road,Whitefield,Bangalore,950,100 
+711,Ms. Aditi BR,,7 ,Fostr Healthcare,Panathur,Bangalore,600,100 
+712,Mr. Badrinath S N,,23 ,Vibrant Rehabilitation Centre,Banashankari 2nd Stage,Bangalore,500,100 
+713,Ms. Nayanatara Nagendra D V,,13 ,Mind & Brain Hospital,Sahakaranagar,Bangalore,1000,100 
+714,Ms. Rashmi Viswamurthy Krishna Rao,,15 ,Mom's Belief Little Ladders,Banashankari 2nd Stage,Bangalore,600,100 
+715,Ms. Jini Biju Thomas,,3 ,Mokshaa A Unit Of Fostr Healthcare,Panathur,Bangalore,600,100 
+716,Mr. Ravindar Varakala,,19 ,Harmony Speech and Hearing Clinic,Whitefield,Bangalore,300,99 
+717,Dr. Praveen Kumar C G   (PhD),,18 ,Mom's Belief Little Ladders,Banashankari 2nd Stage,Bangalore,600,100 
+718,Mr. Nitin K Damam,,8 ,Rudh Hearing and Speech Clinic,Vidyaranyapura,Bangalore,400,100 
+719,Ms. Jismol James,,4 ,Mom's Belief Therakeyz,KR Puram,Bangalore,700,100 
+721,Ms. Komal L Renuke,,15 ,Dr L H Hiranandani Hospital,Powai,Mumbai,850,43 
+722,Mr. Piyush Gujarathi,,9 ,Global Hospitals,Parel,Mumbai,1500,100 
+723,Ms. Neha Chhabria,,15 ,S L Raheja Fortis Hospital,Mahim,Mumbai,1300,100 
+724,Ms. Dr Rupal Chaudhary,,28 ,The Hearing and Vertigo Clinic,Dadar West,Mumbai,1000,100 
+725,Ms. Rupali Vani,,26 ,Dhwani Deaf Help Centre,Borivali West,Mumbai,500,90 
+726,Ms. Sneha Savla,,12 ,Sparkle Multi-Disciplinary Intervention Centre,Mira Road,Mumbai,600,100 
+727,Mr. Hemant Bansode,,15 ,The Sapphire ,Mulund West,Mumbai,700,100 
+728,Ms. Ashwini Raut,,23 ,Atharva Speech & Hearing Care,Borivali West,Mumbai,600,100 
+729,Ms. Dinaz Wadia,,47 ,Disha - Comprehensive Rehab Centre,Santacruz West,Mumbai,1500,100 
+730,Ms. Devangi Dalal,,32 ,Gandhi Nursing Home - Speech N Sound Concepts,Santacruz,Mumbai,1000,100 
+732,Ms. Saradha,,10 ,Life Healthcare Multi Specialty Rehabilitation Centre,Mogappair East,Chennai,700,93 
+733,Mr. B. Vishnuram,,6 ,"Mom's Belief  Communi-Kare Speech, Hearing And Vestibular Rehabilitation Centre",Kundrathur,Chennai,300,100 
+734,Ms. Aishwarya.M,,3 ,iQu Clinic,Aminjikarai,Chennai,1400,100 
+735,Ms. Sornalatha,,10 ,Aural Speech And Hearing Clinic,Ambattur,Chennai,500,93 
+736,Ms. Nimisha Raj,,11 ,HEAL Multirehab Services,Madipakkam,Chennai,400,100 
+737,Mr. Deepak Sathyanarayanan,,15 ,Denoc Hearing Care Centre,Nungambakkam,Chennai,400,99 
+738,Ms. Indhu Mathi,,8 ,AUORAL Multi Rehab Centre,Mogappair,Chennai,400,100 
+739,Ms. Mangayarkarasi,,9 ,Life Healthcare Multi Specialty Rehabilitation Centre,Mogappair East,Chennai,500,100 
+740,Ms. Jeeja Ajith,,24 ,Priyaa Child Development Center,Saidapet,Chennai,500,89 
+741,Mr. Aravind Kannan,,23 ,Chitra Therapy Centre,Neelankarai,Chennai,400,75 
+742,Mr. Ashutosh Dubey,,16 ,Hearing Care Clinic ,Wakad,Pune,600,98 
+743,Ms. Dipti Samantaray,,10 ,Prudent International Health Clinic,Kalyani Nagar,Pune,500,100 
+744,Dr. Namita Joshi   (PhD),,5 ,Sampark Epolyclinic,Dhankawadi,Pune,1000,92 
+745,Mr. Piyush Sone,,12 ,ANRC,Kothrud,Pune,550,100 
+746,Ms. Neha J Nellangara,,6 ,KEM Hospital,Rasta Peth,Pune,600,100 
+747,Ms. Sakshi Pal,,6 ,Sakshi Speech Clinic,Kondhwa,Pune,800,100 
+748,Ms. Pushpa Dahat Salvi,,16 ,Blue Bell Plus Speech & Hearing Clinic,Sinhagad Road,Pune,600,100 
+749,Mr. Govind Ramchandra Rajopadhye,,11 ,"Rajopadhye's Hearing Aid Hub, Hearing And Speech Clinic",Bavdhan,Pune,400,100 
+750,Mr. Akshay Kamble,,7 ,Akshara Speech And Hearing Clinic,Baramati,Pune,500,100 
+751,Mr. Avichal Lalendra Ambulkar,,14 ,Ambulkar Speech And Hearing Clinic,Satara Road,Pune,800,100 
+753,Ms. Neevita Narayan,,28 ,SpHear - Speech & Hearing Clinic,Lajpat Nagar,Delhi,800,97 
+754,Ms. Barkha Gupta,,17 ,Hearsaywell Speech And Hearing Clinic,Preet Vihar,Delhi,800,91 
+755,Ms. Niyati Chopra,,17 ,UniCare Speech and Hearing Clinic,Vikas Puri,Delhi,1000,97 
+756,Ms. Sarika Chandel,,13 ,Ear & Hear Speech And Hearing Clinic,Rajouri Garden,Delhi,1000,96 
+757,Mr. Lovedeep Kholia,,14 ,UniCare Speech and Hearing Clinic,Vikas Puri,Delhi,1000,98 
+758,Mr. Dharmendra Kumar,,19 ,Chetna World of Therapeutic Services,Vasant Kunj,Delhi,1200,100 
+759,Dr. Ruchika Mittal   (PhD),,20 ,Mittal Clinic,Rajouri Garden,Delhi,900,97 
+760,Ms. Deepa Kumari,,7 ,Mom's Belief Samvedna,Anand Vihar,Delhi,700,50 
+761,Mr. Vijay Aggarwal,,31 ,Vijay Aggarwal (AIIMS) Speech & Hearing Clinic,Janakpuri,Delhi,800,99 
+763,Ms. Aswini Sagar,,12 ,AHAARVEDA By Aswini Sagar,Kompally,Hyderabad,5000,100 
+764,Ms. Shada Afreen,,5 ,Oliva Skin & Hair Clinic,Jubilee Hills,Hyderabad,600,100 
+765,Ms. Jyoti Chabria,,33 ,Nutriline - The Wellness Centre,Banjara Hills,Hyderabad,1000,86 
+766,Mr. Jagdish,,5 ,Unique Homeopathy and Diet Clinic,Manikonda,Hyderabad,800,100 
+767,Ms. Nousheen Khatoon,,6 ,Oliva Skin and Hair Clinic,Himayat Nagar,Hyderabad,600,100 
+768,Dr. Matheen Asrar   (PhD),,12 ,Shenoy Hospitals,East Marredpally,Hyderabad,700,100 
+769,Ms. Durga Kumari,,13 ,Advit Diet Clinic,Ecil,Hyderabad,700,95 
+770,Ms. Anju Katara,,19 ,Body Pulse Diet Clinic,Jubilee Hills,Hyderabad,1000,98 
+771,Ms. Bhumika Pasari,,12 ,The Nutrition Clinic,Kukatpally,Hyderabad,500,88 
+772,Ms. Lakshmi Tejasvi,,12 ,Vibgyor Nutri,Banjara Hills,Hyderabad,750,97 
+775,Ms. Vani Krishna,,11 ,Manipal Hospital Varthur Road,Whitefield,Bangalore,500,100 
+776,Dr. Sharmila Shankar,,23 ,Ayushya Ayurcare Clinic,Malleswaram,Bangalore,1000,100 
+777,Ms. Rohini Raghu,,18 ,Apollo Clinic,Basavanagudi,Bangalore,550,70 
+778,Dr. Bharathi AV   (PhD),,26 ,Fortis Hospital,Richmond Town,Bangalore,1500,92 
+779,Ms. Sushmaa Jaiswal,,37 ,Swasthya Nutrition,Whitefield,Bangalore,2000,93 
+780,Ms. Sonal Sureka,,8 ,Nutridiction,Ashoknagar,Bangalore,1500,98 
+781,Ms. Shikha Mishra,,15 ,More Than Diet,Sarjapur Road,Bangalore,500,95 
+782,Dr. Shailja Jain   (PhD),,18 ,Shailja's ProDiet,Whitefield,Bangalore,1500,100 
+783,Ms. Uma Trasi,,23 ,Manipal Hospital Malleshwaram,Malleswaram,Bangalore,610,100 
+784,Ms. Shalmali Sharma,,20 ,Re-vive,BTM Layout 2nd Stage,Bangalore,1500,87 
+787,Dr. Asmita Sawe,,16 ,Rejoice Wellness,Vileparle East,Mumbai,1500,97 
+788,Ms. Geetanjali,,19 ,Medical Nutrition Clinic,Bandra West,Mumbai,1500,99 
+789,Ms. Smita Nanda R D,,17 ,RD Smita Nanda Nutrition Consultant,Kandivali East,Mumbai,1200,97 
+790,Ms. Malika Kabra Rathi,,16 ,Malika Kabra Rathi's Nutrition Clinic,Lokhandwala,Mumbai,2500,99 
+791,Ms. Ushma Haria,,14 ,Sushrut Hospital and Research Center,Chembur East,Mumbai,800,100 
+792,Ms. Deepa Nandy,,16 ,Deepa Nandy's Nutriguide,Andheri West,Mumbai,2500,100 
+793,Dr. Zubeda Tumbi   (PhD),,34 ,Healthwatch Nutrition Clinic,Andheri West,Mumbai,1500,96 
+794,Ms. Sajida Shaikh,,5 ,NS Slim Fitness Studio,Mira Road,Mumbai,1000,98 
+795,Ms. Richa Doshi,,13 ,The Health Studio,Kandivali West,Mumbai,800,97 
+796,Ms. Dt Ruchita Maheshwari,,11 ,Healthy Mantra,Andheri East,Mumbai,850,94 
+798,Dr. Preeti Raj   (PhD),,15 ,Wootu Nutrition OMR,Perungudi,Chennai,3000,94 
+799,Dr. Anju Soni   (PhD),,10 ,COOLWITS,Choolai,Chennai,1300,100 
+800,Ms. Anuritha,,5 ,Oliva Skin & Hair Clinic,Anna Nagar,Chennai,600,100 
+801,Ms. Sangeetha G,,4 ,Oliva Skin And Hair Clinic,Alwarpet,Chennai,600,100 
+802,Ms. Jayavani.J,,26 ,Boston Brain and Spine Care,Anna Nagar,Chennai,700,100 
+803,Ms. Shail Yadav,,15 ,Infinity Diet Clinic,OMR Road,Chennai,1000,100 
+804,Ms. V.Geetha,,17 ,Wonder Diet Clinic,Medavakkam,Chennai,1000,100 
+805,Ms. MVL Sudharshana,,9 ,MVL Sudharshana Nutrition,T Nagar,Chennai,1000,100 
+806,Ms. Roshni S.V,,8 ,"Magna Clinics for Obesity, Diabetes & Endocrinology",Ashok Nagar,Chennai,500,96 
+807,Ms. Muthulakshmi,,19 ,Nutrizione,KK Nagar,Chennai,2000,91 
+809,Ms. Prachi Fotani,,15 ,Nutrify me,Kharadi,Pune,1000,99 
+810,Ms. Geeta Desai,,36 ,Geeta Desai Diet Consultant & Lifestyle Counsellor,Aundh,Pune,1500,97 
+811,Ms. Mrunal Deshpande,,10 ,Mrunal's Diet Clinic,Wakad,Pune,850,99 
+812,Ms. Roma Gupta,,15 ,Prudent International Health Clinic,Kalyani Nagar,Pune,700,91 
+813,Ms. Neha Pundir,,9 ,Nutrition With Neha,Dhanori,Pune,1000,100 
+814,Ms. Shruti Maheshwary,,13 ,Umarji Mother & Child Care,Baner,Pune,1300,97 
+815,Ms. Rizwana Sayed,,20 ,Apollo Clinic,Viman Nagar,Pune,600,100 
+816,Ms. Avanti Deshpande,,23 ,Avanti Deshpande Nutrition Clinic,Erandwane,Pune,3000,97 
+817,Ms. Rupal Jasani,,16 ,Rupal's Diet Clinic,Pimple Saudagar,Pune,500,95 
+818,Dr. Amita D Golande,,18 ,Oasis Counsellors,Aundh,Pune,700,100 
+820,Dr. Pankaj Kumar,,16 ,Diet Plus Minus,Dwarka Sector 9,Delhi,700,96 
+821,Dr. Anjana Kalia,,22 ,Dr Anjana Kalia's Diet clinic,Dwarka,Delhi,1000,99 
+822,Ms. Dt. Shilpa Chawla,,21 ,Shilpa Chawla's Health Clinic,Pitampura,Delhi,1500,99 
+823,Ms. Shweta,,15 ,The HealthMechanix,Punjabi Bagh,Delhi,1000,99 
+824,Ms. Rashima Chhabra,,14 ,Dr. Ajay's Dental and Nutrition Clinic,Rohini Sector 7,Delhi,800,97 
+825,Ms. Neha Agarwal,,20 ,Neha's Diet Center,Subhash Nagar,Delhi,1000,96 
+826,Dr. Sugeeta Mutreja,,23 ,Aarogya Diets & Nutrition Clinic,Dwarka,Delhi,1000,99 
+827,Ms. Priyanka Jaiswal,,12 ,Diet2nourish,Maharani Bagh,Delhi,450,94 
+828,Dr. Praveen Rustagi,,27 ,Adopt The Ayurveda,Malviya Nagar,Delhi,500,96 
+829,Ms. Rashmi Srivastava,,49 ,Dietician Healthy Living,Malviya Nagar,Delhi,1000,100 
+832,Dr. S Srikanth Reddy,,17 ,Medicover Hospitals,Hitech City,Hyderabad,500,98 
+833,Dr. Kaushal Ippili,,22 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1200,95 
+834,Dr. A.K. Purohit,,42 ,Aster Prime Hospital,Ameerpet,Hyderabad,800,100 
+835,Dr. Narreddy Manohar Reddy,,27 ,Apollo Hospital,Hyderguda,Hyderabad,500,100 
+836,Dr. S Rajesh Reddy,,18 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,100 
+837,Dr. Randhir Kumar,,27 ,Continental Hospitals,Gachibowli,Hyderabad,1000,75 
+838,Dr. M R C Naidu,,42 ,Continental Hospitals,Gachibowli,Hyderabad,1000,100 
+839,Dr. V Bramha Prasad,,20 ,Apollo Hospital,Secunderabad,Hyderabad,600,100 
+840,Dr. Rahul Lath,,30 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,100 
+841,Dr. R T S Naik,,31 ,Apollo Hospital,Hyderguda,Hyderabad,1000,80 
+843,Dr. Jagdish Chattnalli,,23 ,Aasra Hospital,Jayanagar,Bangalore,800,74 
+844,Dr. Umesh Srikantha,,22 ,Aster CMI Hospital,Hebbal,Bangalore,1000,88 
+845,Dr. Deepak Somasundar,,14 ,Prima Diagnostics Centre,Yelahanka New Town,Bangalore,700,99 
+846,Dr. Ganesh K Murthy,,33 ,Apollo Speciality Hospitals,Jayanagar,Bangalore,1000,100 
+847,Dr. Abhilash Bansal,,14 ,Apollo Hospital,Bannerghatta Road,Bangalore,1000,100 
+848,Dr. Ravi Gopal Varma,,32 ,Aster CMI Hospital,Hebbal,Bangalore,1000,98 
+849,Dr. Avinash K M,,16 ,Manipal Hospital,Hebbal,Bangalore,1090,91 
+850,Dr. Arun L Naik,,23 ,Apollo Hospital,Bannerghatta Road,Bangalore,1000,92 
+851,Dr. Akshay Hari,,13 ,Aster CMI Hospital,Hebbal,Bangalore,1000,98 
+852,Dr. Santhosh,,16 ,Aster CMI Hospital,Hebbal,Bangalore,1000,82 
+854,Dr. Nitin Dange,,28 ,Global Hospitals,Parel,Mumbai,5000,100 
+855,Dr. Suresh Sankla,,40 ,Global Hospitals,Parel,Mumbai,1850,100 
+856,Dr. Gurneet,,20 ,Fortis Hospital,Mulund West,Mumbai,2000,100 
+857,Dr. Ravi Balkrishna Sangle,,14 ,Krishna Clinic,Mulund West,Mumbai,1500,100 
+858,Dr. Aditya Patil,,14 ,Galaxy Multispeciality Hospital,Wadala,Mumbai,1500,100 
+859,Dr. Smita Thorve,,9 ,Sushrut Hospital and Research Center,Chembur East,Mumbai,1500,100 
+860,Dr. Kapil Khandelwal,,14 ,Fortis Hospital,Mulund West,Mumbai,2000,92 
+861,Dr. Vinod Rambal,,41 ,Wockhardt Hospitals,Mira Road,Mumbai,1000,95 
+862,Dr. Ashwin Borkar,,18 ,Wockhardt Hospitals,Mira Road,Mumbai,1000,100 
+863,Dr. Sachin Ashokrao Giri,,13 ,Dr L H Hiranandani Hospital,Powai,Mumbai,1600,100 
+865,Dr. Siddhartha Ghosh,,42 ,Apollo Speciality Hospital,Vanagaram,Chennai,2000,76 
+866,Dr. S. Selvapandian,,36 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+867,Dr. V.Soundappan,,43 ,Fortis Malar Hospital,Adyar,Chennai,800,99 
+868,Dr. Nigel Symss,,30 ,Gleneagles Global Health City,Perumbakkam,Chennai,1000,100 
+869,Dr. M. Kodeeswaran,,22 ,Boston Brain and Spine Care,Anna Nagar,Chennai,500,99 
+870,Dr. Chendilnathan,,37 ,Apollo Cancer Centres Chennai,Teynampet,Chennai,1000,89 
+871,Dr. Srinivasan Paramasivam,,23 ,Apollo Hospital,Greams Road,Chennai,1000,100 
+872,Dr. Paresh K Doshi,,38 ,Apollo Hospital,Greams Road,Chennai,1000,80 
+873,Dr. V R Roopesh Kumar,,25 ,Apollo Proton Cancer Centre,Tharamani,Chennai,2000,100 
+874,Dr. M. Balamurugan,,25 ,Apollo Cancer Centres Chennai,Teynampet,Chennai,1500,92 
+876,Dr. Sarang Gotecha,,16 ,Dr. Sarang Gotecha Clinic,Wakad,Pune,850,100 
+877,Dr. Sabnis Manish,,21 ,Sahyadri Super Speciality Hospital Hadapsar,Hadapsar,Pune,700,100 
+878,Dr. Mahajan Sachin D.,,13 ,Sahyadri Hospital,Nagar Road,Pune,850,100 
+879,Dr. Pravin Tukaram Survashe,,17 ,"Manipal Hospital, Kharadi - Pune",Kharadi,Pune,850,100 
+880,Dr. Amit Dhakoji,,13 ,Manipal Hospitals,Baner,Pune,900,100 
+881,Dr. Shrey Kumar Shah,,11 ,Manipal Hospitals,Baner,Pune,900,100 
+882,Dr. Rahul Patil,,17 ,Genesis Brain And Spine Clinic,Wakad,Pune,1000,100 
+883,Dr. Ranjitsingh Deshmukh Krantikumar,,19 ,Sahyadri Hospital,Deccan Gymkhana,Pune,750,100 
+884,Dr. Vishal Bhasme,,19 ,Lopmudra Multi-speciality Hospital,Pirangut,Pune,700,100 
+885,Dr. Tushar D Borde,,15 ,Apollo Clinic,Nigdi,Pune,700,50 
+887,Dr. Rahul Jain,,19 ,Practo Care Surgeries,Dwarka Sector 19,Delhi,1000,91 
+888,Dr. Ramandeep S. Dang,,28 ,Dr Dang's Brain & Spine Clinic,Greater Kailash Part 1,Delhi,1500,92 
+889,Dr. Shailesh Jain,,21 ,Arihant Neurospine Clinic,Pitampura,Delhi,1200,95 
+890,Dr. Sonal Gupta,,31 ,Fortis Hospital,Shalimar Bagh,Delhi,1500,91 
+891,Dr. Sudheer Kumar Tyagi,,34 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,2500,100 
+892,Dr. S K Sogani,,46 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,2000,83 
+893,Dr. Rajendra Prasad,,37 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,2000,50 
+894,Dr. Aditya Singh Bhati,,19 ,Brain And Spine Clinic,Vasant Kunj,Delhi,1000,88 
+895,Dr. Sanjeev Dua,,45 ,Max Super Speciality Hospital,Patparganj,Delhi,1000,91 
+896,Dr. Chander Mohan Malhotra,,32 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,1500,100 
+898,Dr. Subbaiah Naidu,Dentist,13 ,Indo American Dental Hospital,Ameerpet,Hyderabad,500,100 
+899,Dr. Deepak Pusa,Dentist,7 ,Padmavathi  Dental Clinic   & Maxillofacial Center,Kapra,Hyderabad,500,100 
+900,Dr. Sowjanya Kalwagadda,Dentist,13 ,Smile Makers International,Kondapur,Hyderabad,500,100 
+901,Dr. Sudhakar,Dentist,16 ,Galaxy Dental Care Creating Smiles,Kondapur,Hyderabad,500,100 
+902,Dr. J. Sanjeev,Dentist,18 ,Siri Dental-KARMANGHAT,LB Nagar,Hyderabad,500,100 
+903,Dr. Sukhvinder Bindra,Dentist,24 ,Apollo Hospital,Secunderabad,Hyderabad,1000,100 
+904,Dr. Jayaraj Pattela,Dentist,15 ,Jp Dental Experts,Jubilee Hills,Hyderabad,500,91 
+905,Dr. Surendra Kumar Alluri,Dentist,28 ,Shambhala Dental Spa and Wholeness,Kokapet,Hyderabad,500,99 
+906,Dr. Srinivas Gadipelly,Dentist,29 ,Apollo DRDO Hospital,Kanchanbagh,Hyderabad,500,98 
+907,Dr. Nagaraju Tanneru,Dentist,17 ,Veeras Clinic,Nagole,Hyderabad,500,100 
+909,Dr. T. Ramakrishna,Dentist,25 ,Dental Profiles Clinic,JP Nagar 7 Phase,Bangalore,500,95 
+910,Dr. K. Prapanna Arya,Dentist,19 ,Dental De Care,Domlur,Bangalore,500,100 
+911,Dr. Vinay Anvekar,Dentist,20 ,Vinayaka Sai Dental Clinic,BTM Layout 1st Stage,Bangalore,200,97 
+912,Dr. Manjunath G S,Dentist,21 ,Embassy Dental,Kalyan Nagar,Bangalore,500,99 
+913,Dr. Idris Md,Dentist,14 ,CLINIQUE - Internationale,Jayanagar,Bangalore,500,99 
+914,Dr. Anwar Syed,Dentist,14 ,Perfecto Dental and Implant Clinic,Panathur,Bangalore,500,99 
+915,Dr. Santosh B S,Dentist,20 ,Dental 32,Singasandra,Bangalore,500,99 
+916,Dr. Deepika Bartunia,Dentist,13 ,Reflection Dental Clinic,Whitefield,Bangalore,300,100 
+917,Dr. Prithvi Raj K,Dentist,11 ,Sri Aakrithi's Dental Lounge And Maxillo Facial Center,Sarjapur Road,Bangalore,500,95 
+918,Dr. Satish M S,Dentist,19 ,Aster CMI Hospital,Hebbal,Bangalore,1000,97 
+920,Dr. Abbasali Barodawala,Dentist,13 ,S&B Dental Specialities,Andheri West,Mumbai,500,100 
+921,Dr. Vividha Singhania,Dentist,14 ,Garden Multispeciality Dental Clinic,Mahim,Mumbai,500,100 
+922,Dr. Mayuri Jobanputra Shah,Dentist,13 ,ToothFix DentoFacial Clinic,Borivali West,Mumbai,300,97 
+923,Dr. Angad Shetye,Dentist,13 ,The Smile Hub Dental Orthodontic  And Maxillofacial Clinic,Kandivali West,Mumbai,500,100 
+924,Dr. Rahul N. Patil,Dentist,16 ,Om Dental Clinic,Chandivali,Mumbai,500,94 
+925,Dr. Adil Gandevivala,Dentist,15 ,Expressions Maxillofacial Surgery and Dentistry,Tardeo,Mumbai,500,99 
+926,Dr. Ankesh Jain,Dentist,13 ,Novadent Clinic,Mazgaon,Mumbai,800,100 
+927,Dr. Mangesh Govardhan Mohod,Dentist,11 ,Face 'n Dent,Kandivali East,Mumbai,500,100 
+928,Dr. Abhishek Ramesh Chauhan,Dentist,15 ,Sharan Hospital,Ghatkopar West,Mumbai,1000,98 
+929,Dr. Nitesh Motwani,Dentist,15 ,Smile Concepts Multi Speciality Dental Clinic,Andheri West,Mumbai,500,98 
+931,Dr. Ajay Mohan,Dentist,14 ,"Impressions Dental, Cosmetic, Craniofacial Centre",Mylapore,Chennai,500,100 
+932,Dr. Mathan Mohan,Dentist,24 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+933,Dr. Veeraragavan,Dentist,8 ,SmileMakers Multispeciality Dental Clinic and Implant Centre,Selaiyur,Chennai,500,100 
+934,Dr. K.R. ARUN VIGNESH,Dentist,9 ,Mesrad Dental Surgeon,Medavakkam,Chennai,150,100 
+935,Dr. Sujith Raj Stephen,Dentist,12 ,Dr. Steve's Dental Care,Valasaravakkam,Chennai,200,100 
+936,Dr. Jeffin Jacob,Dentist,12 ,Gladys Dental Care,Pallikaranai,Chennai,200,100 
+937,Dr. Ashwin Nehrudhas,Dentist,12 ,The Dental Office By LPM,Mylapore,Chennai,500,100 
+938,Dr. Pradeep S,Dentist,13 ,Oncodent,Teynampet,Chennai,500,100 
+939,Dr. Veerabahu,Dentist,35 ,The Head and Neck Centre & Hospital,Kilpauk,Chennai,500,100 
+940,Dr. Tariq Salam,Dentist,19 ,MGM Healthcare,Anna Nagar,Chennai,1200,100 
+942,Dr. Ankush R. Agrawal,Dentist,18 ,"Dentsee Dental Clinic, Laser and Implant Centre",Wakad,Pune,500,97 
+943,Dr. Anjali V. Mugal,Dentist,14 ,Divine Multispeciality Dental Clinic and Implant Centre,Kharadi,Pune,500,100 
+944,Dr. Vikram Deshmukh,Dentist,25 ,Shree Sai Samarth Dental Clinic & Implant Center,Nanded City,Pune,500,95 
+945,Dr. Prannoy Kunde,Dentist,13 ,Lifeberries Health,Viman Nagar,Pune,500,100 
+946,Dr. Rushikesh Desale,Dentist,20 ,Shree Samarth Krupa Dental Clinic and Implant Center and OPG Center,Vishrantwadi,Pune,500,93 
+947,Dr. Ashutosh Jaysing Thorat,Dentist,10 ,Platinum Smile Dental Clinic,Hadapsar,Pune,500,100 
+948,Dr. Tejashree Pangare,Dentist,13 ,Mankars Dental Clinic and Implant Centre,Lohegaon,Pune,500,94 
+949,Dr. Kushal Rathi,Dentist,13 ,DENTAL ROOTS,Bavdhan,Pune,300,99 
+950,Dr. Pratik Raut,Dentist,9 ,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,Kharadi,Pune,500,100 
+951,Dr. Sagar Jangam,Dentist,13 ,S.R Sun Dental (Orthodontics & Orofacial Surgery Centre),Sinhagad Road,Pune,500,100 
+953,Dr. Shiv P Mahapatra,Dentist,11 ,Gloire A Dieu Dental & Implant Clinic,Dwarka Sector 22,Delhi,500,94 
+954,Dr. Anuja,Dentist,25 ,"Agarwal Orthopaedic, Dental & Diagnostic Center",Chitra Vihar,Delhi,400,100 
+955,Dr. Rohit Yadav,Dentist,11 ,Cusp Dental,Dwarka Sector 23,Delhi,500,100 
+956,Dr. Janak Raj Sabharwal,Dentist,42 ,Dr. Sabharwal 's Dental Clinic & Surgical Center,Vikas Puri,Delhi,1000,96 
+957,Dr. Ramandeep Singh Chawla,Dentist,13 ,Chawla Dental Clinic & Surgical Center,Janakpuri,Delhi,500,100 
+958,Dr. Pallav Kinra,Dentist,14 ,Southpoint Dentistry,Sheikh Sarai,Delhi,500,98 
+959,Dr. Praveen Yadav,Dentist,12 ,Dentaris -A Specialist Dental Clinic,Uttam Nagar,Delhi,500,100 
+960,Dr. Jitender Dabas,Dentist,14 ,Dental Craft Multispeciality Dentistry,Dwarka Sector 6,Delhi,500,100 
+961,Dr. Manju Kaushik,Dentist,30 ,Dr. Soni's Dental Clinic,Lajpat Nagar,Delhi,500,99 
+962,Dr. Surya Prakash Bharadwaj,Dentist,18 ,Wisdom Dental Maxillofacial & Implant Clinic,Dwarka,Delhi,500,99 
+964,Dr. Harikiran Chekuri,,17 ,Practo Care Surgeries,Gachibowli,Hyderabad,699,97 
+965,Dr. Beena Valandi,,13 ,Practo Care Surgeries,SR Nagar,Hyderabad,699,100 
+966,Dr. Veena Priya D,,8 ,Practo Care Surgeries,Banjara Hills,Hyderabad,699,100 
+967,Dr. Venu Kumari,Dermatologist,18 ,Dr. Venus Insititue of Skin & Hair,Chanda Nagar,Hyderabad,500,86 
+968,Dr. Madhavi Pudi,,16 ,Dr. Madhavis Advanced Skin Hair and Laser Clinic,Balkampet,Hyderabad,800,91 
+969,Dr. Rajeshwari,,20 ,Dr.Rajeshwaris Skin Care And Hair Restoration Centre,Jubilee Hills,Hyderabad,750,83 
+970,Dr. Alekya Singapore,Dermatologist,10 ,The Skin Sense - Dr. Alekya,Banjara Hills,Hyderabad,1200,88 
+971,Dr. Shashikanth,,18 ,Hair Sure Hair Transplant Centre,Habsiguda,Hyderabad,600,99 
+972,Dr. Deepthi K,,15 ,23 Aesthetics Clinic,Kondapur,Hyderabad,700,98 
+973,Dr. Shravya G,Dermatologist,17 ,Anceita Skin and Hair Clinic,Jubilee Hills,Hyderabad,800,92 
+975,Dr. K. Prapanna Arya,,19 ,Dental De Care,Domlur,Bangalore,500,100 
+976,Dr. Suhas S,,13 ,Life Is Beautiful Clinic,Basavanagudi,Bangalore,700,100 
+977,Dr. Naveen Kumar,,19 ,BGS Gleneagles Global Hospital,Kengeri,Bangalore,700,99 
+978,Dr. K C Dharam Kumar,,9 ,Epiderma Skin and Hair Clinic,JP Nagar,Bangalore,750,99 
+979,Dr. Parthasarathi Dutta Roy,,20 ,Dr. Partha Sarathi's Asian Hair And Skin Hospitals,MG Road,Bangalore,700,89 
+980,Dr. Nithya Raghunath,,14 ,Contura Clinic,Kalyan Nagar,Bangalore,700,96 
+981,Dr. Shivashankar B. Sajjanshetty,,19 ,Tricho-Derma Hair & Skin Speciality Clinic,JP Nagar 2 Phase,Bangalore,750,97 
+982,Dr. Harish Prasad B.R,,16 ,Vitals Skin and Hair Klinic,BTM Layout,Bangalore,700,96 
+983,Dr. Sahebgowda Shetty,,22 ,Dr. Shetty's Cosmetic Centre,Rajajinagar,Bangalore,500,93 
+984,Dr. Anusha Akilesh,,9 ,Oliva Skin & Hair Clinic,HRBR Layout,Bangalore,600,96 
+987,Dr. Sujit Shanshanwal,,14 ,SkinAmour Clinic,Santacruz West,Mumbai,1000,99 
+988,Dr. Yogesh Kalyanpad,Dermatologist,13 ,SkinAmour Clinic,Santacruz West,Mumbai,1000,100 
+989,Dr. Ajay Nimbalkar,Dermatologist,12 ,Dermavenue Advanced Skin And Hair Clinic,Khar West,Mumbai,1200,95 
+990,Dr. Vikas Halwai,,14 ,Derma Dent Aesthetic clinic,Chinchpokli,Mumbai,800,91 
+991,Dr. Neha V Shah,,14 ,Skin Vogue Clinic,Ghatkopar East,Mumbai,1000,99 
+992,Dr. Raina Nahar,,15 ,Kaizen Skin Clinic,Andheri West,Mumbai,1000,92 
+993,Dr. Rameshwar Gutte,,19 ,Dr L H Hiranandani Hospital,Powai,Mumbai,1100,95 
+994,Dr. Bhushan S  Bawankar,,13 ,Skin Love Clinic,Matunga West,Mumbai,1200,96 
+995,Dr. Shaurya Rohatgi,,14 ,Dr Shaurya's Skin Clinic,Andheri West,Mumbai,1000,96 
+996,Dr. Meghna Mour,,24 ,Dr. Meghna Mour's Face & Skin Clinic,Vileparle East,Mumbai,1000,94 
+998,Dr. Rajeshwari,,20 ,Dr.Rajeshwari's Skin & Hair Care Private Limited,T Nagar,Chennai,750,83 
+999,Dr. Sasikumar Muthu,,22 ,Pearl Health,Alwarpet,Chennai,1000,99 
+1000,Dr. Ariganesh,,16 ,Derma Clinix,Mylapore,Chennai,500,89 
+1001,Dr. Ganga Ravikumar,,33 ,Dermis Skin & Hair Clinic,Adyar,Chennai,700,96 
+1002,Dr. Lakshmi Durga M,,18 ,Oliva Skin & Hair Clinic,Anna Nagar,Chennai,600,99 
+1003,Dr. Apoorva Raghavan,Dermatologist,10 ,Apollo First Med Hospitals,Kilpauk,Chennai,700,100 
+1004,Dr. Nidhi Dube,Homoeopath,14 ,Dr Batra's Positive Health Clinic Pvt Ltd,Velachery,Chennai,450,100 
+1005,Dr. Meenakshi M,,11 ,Oliva Skin And Hair Clinic,Alwarpet,Chennai,600,99 
+1006,Dr. Hari Priya A,,7 ,Oliva Skin & Hair Clinic,Anna Nagar,Chennai,600,100 
+1007,Dr. L Mathuvenkatesan,Homoeopath,24 ,Dr Batra's Positive Health Clinic Pvt Ltd,Ashok Nagar,Chennai,450,75 
+1010,Dr. Vasant Gholave,,23 ,Practo Care Surgeries,JM Road,Pune,800,98 
+1011,Dr. Swapna Athavale,,19 ,Practo Care Surgeries,Baner,Pune,999,100 
+1012,Dr. Vaseem Choudhary,,14 ,Homeo Care Clinic,Hadapsar,Pune,300,93 
+1013,Dr. Pradeep Kumari,,20 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Viman Nagar,Pune,700,96 
+1014,Dr. Sonal Chavan,,17 ,Dr. Sonnal Chavaan Aesthetic Clinic,Pimple Saudagar,Pune,700,90 
+1015,Dr. Nitin Jain,,21 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Kothrud,Pune,700,97 
+1016,Dr. Vijay Nagdev,,13 ,The Skin Doctors,Pimpri-Chinchwad,Pune,700,93 
+1017,Dr. Pallavi Ahire Shelke,,16 ,SkinEthics Skin Clinic & Dermatosurgery Center,Baner,Pune,600,97 
+1018,Dr. Sadhana Jadhavar,,16 ,"Radiance Skin,Hair, Laser & Wellness Center",Pimpri-Chinchwad,Pune,500,93 
+1019,Dr. Dhananjay Chavan,,37 ,HairMD - Hair Transplant Clinic,Kharadi,Pune,1500,85 
+1022,Dr. Tapeshwar Sehgal,,25 ,Practo Care Surgeries,Janakpuri,Delhi,699,75 
+1023,Dr. Ashutosh Mishra,,23 ,Practo Care Surgeries,Greater Kailash Part 1,Delhi,999,83 
+1024,Dr. Lokesh Handa,,13 ,Practo Care Surgeries,Greater Kailash Part 1,Delhi,699,90 
+1025,Dr. Shruti Gupta,,13 ,SKINOS,Kamla Nagar,Delhi,1000,99 
+1026,Dr. Navnit Haror,Dermatologist,10 ,Derma Miracle Skin And Hair Transplant Clinic,Greater Kailash Part 1,Delhi,1000,90 
+1027,Dr. Rahul Arora,,13 ,Max Super Speciality Hospital,Shalimar Bagh,Delhi,800,100 
+1028,Dr. Lipy Gupta,Dermatologist,18 ,Green Park Family Medicine Clinic,Green Park,Delhi,800,96 
+1029,Dr. Ranjan Upadhyay,,19 ,Desmoderm Skin & Laser Clinic,Vasant Kunj,Delhi,1500,97 
+1030,Dr. Mudasir Khan,,29 ,Lush Skin and Hair Clinic,Jasola,Delhi,800,94 
+1031,Dr. Anuj Saigal,,15 ,MedRootz Clinics,Green Park,Delhi,1000,97 
+1033,Dr. Mohd Ilyas,,15 ,Practo Care Surgeries,Himayat Nagar,Hyderabad,499,91 
+1034,Dr. CH. Venkata Pavan Kumar,,18 ,Practo Care Surgeries,Kukatpally,Hyderabad,600,88 
+1035,Dr. Talluri Suresh Babu,,18 ,Practo Care Surgeries,Kukatpally,Hyderabad,500,98 
+1036,Dr. Yasaswini Hemaeshwara Raju,,13 ,Practo Care Surgeries,Kondapur,Hyderabad,499,91 
+1037,Dr. Rajeshwar Kamineni,,25 ,Practo Care Surgeries,Kukatpally,Hyderabad,600,100 
+1038,Dr. Prashant Hegde,,22 ,Hegde Hospital,Madhapur,Hyderabad,750,96 
+1039,Dr. B Varun Rao,,18 ,Medicover Hospitals,Hitech City,Hyderabad,650,92 
+1040,Dr. Kiran Peddi,,27 ,Gastro Care Clinics,Gachibowli,Hyderabad,800,97 
+1041,Dr. Suraj Uppalapati,,11 ,Gastro 360,Kondapur,Hyderabad,700,94 
+1042,Dr. Nandakishore Dukkipati,,29 ,Livlife Hospitals,Jubilee Hills,Hyderabad,850,100 
+1045,Dr. Prof. Shiva Kumar,,22 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,75 
+1046,Dr. Venkataramana,,53 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,93 
+1047,Dr. Parameshwara C M,,29 ,Smiles Institute of Gastroenterology,Mathikere - BEL,Bangalore,1000,97 
+1048,Dr. Gautham S L,,15 ,Practo Care Surgeries,Arekere,Bangalore,500,99 
+1049,Dr. Yuvrajsingh,,22 ,Practo Care Surgeries,HAL 2nd Stage,Bangalore,950,100 
+1050,Dr. Priyanka Akhilesh Sali,,15 ,Practo Care Surgeries,Indiranagar,Bangalore,699,92 
+1051,Dr. Sujeev,,21 ,Smiles Institute of Gastroenterology,Mathikere - BEL,Bangalore,1000,75 
+1052,Dr. Aditya V Naragund,,12 ,Aasra Hospital,Jayanagar,Bangalore,800,100 
+1053,Dr. Shiva Kumar,,15 ,Trust-In  Hospital,Ramamurthy Nagar,Bangalore,700,95 
+1054,Dr. Vikram Belliappa,,22 ,Vydehi Super Speciality Hospital(Mallya Hospital),Ashoknagar,Bangalore,800,100 
+1057,Dr. Vishal Diddi,,17 ,Practo Care Surgeries,Andheri West,Mumbai,700,100 
+1058,Dr. Samir Bagadia,,9 ,Practo Care Surgeries,Andheri West,Mumbai,1000,93 
+1059,Dr. Jeetendra Jadhav,,23 ,Practo Care Surgeries,Borivali West,Mumbai,799,93 
+1060,Dr. Kukreja A. Kalani,Homoeopath,26 ,Kent Homeopathy Clinic,Powai,Mumbai,500,98 
+1061,Dr. Nitin Aherrao,,16 ,Gastrohub,Andheri West,Mumbai,2000,97 
+1062,Dr. Vasudev,,24 ,Liver Gastro Endoscopy Centre,Bhandup West,Mumbai,2000,87 
+1063,Dr. Keyur A Sheth,,21 ,Apollo Spectra Hospitals,Chembur,Mumbai,1500,88 
+1064,Dr. Bhooshan Pandit,,21 ,Dr L H Hiranandani Hospital,Powai,Mumbai,1600,89 
+1065,Dr. Hardik Shah,,14 ,Shah Superspeciality Clinic,Gamdevi,Mumbai,2000,98 
+1066,Dr. Purushottam Vashistha,,21 ,Dr L H Hiranandani Hospital,Powai,Mumbai,1600,88 
+1068,Dr. M.S.Kalyan Kumar,,15 ,Practo Care Surgeries,Adyar,Chennai,500,98 
+1069,Dr. Sujith Kumar,,22 ,Practo Care Surgeries,Chromepet,Chennai,700,88 
+1070,Dr. Kamal Raj,,20 ,Practo Care Surgeries,Anna Nagar,Chennai,499,96 
+1071,Dr. T.S.Chandrasekar,,28 ,Sanjeevani Clinic,Perungudi,Chennai,700,94 
+1072,Dr. Deepak Subramanian,,20 ,Chennai Gastro Care,Alwarpet,Chennai,750,96 
+1073,Dr. R. Kamalakannan,,25 ,Padma Jayaram Gastro And Liver  Speciality Clinic,Purasawakkam,Chennai,600,99 
+1074,Dr. Mahesh Sundaram,,25 ,Progress Speciality Clinic,Madipakkam,Chennai,500,97 
+1075,Dr. Anisha Ashok,,17 ,Laser and Laparoscopic Hospital,T Nagar,Chennai,800,93 
+1076,Dr. Prabudoss,,22 ,Chennai Obesity & Gastro Surgeons Centre,Velachery,Chennai,700,96 
+1077,Dr. Satish Devakumar,,21 ,Goals Clinic,Velachery,Chennai,500,97 
+1080,Dr. Avishkar Barase,,17 ,Practo Care Surgeries,Wakad,Pune,500,100 
+1081,Dr. Shashank Adgudwar,,10 ,Practo Care Surgeries,Baner,Pune,500,100 
+1082,Dr. Abhijit A Whatkar,,14 ,Practo Care Surgeries,Kharadi,Pune,700,99 
+1083,Dr. Rahul Kothari,,19 ,Kothari Endoscopy Centre,Aundh,Pune,700,91 
+1084,Dr. Nitin Pai,,28 ,Pai Clinic and Diagnostic Centre,Shivajinagar,Pune,1000,81 
+1085,Dr. Prakash D Valse,,22 ,Tummy Clinic,Pimple Saudagar,Pune,1000,97 
+1086,Dr. Kunal Oswal,,21 ,Paarasmani Hospital,Hadapsar,Pune,700,83 
+1087,Dr. Lalit Shimpi,,30 ,The Cedar Clinics,Deccan Gymkhana,Pune,1200,98 
+1088,Dr. Vaseem Choudhary,Homoeopath,14 ,Homeo Care Clinic,Hadapsar,Pune,300,93 
+1089,Dr. Deepesh Gaikwad,Homoeopath,16 ,Healthmate Homeopathy,Pimple Saudagar,Pune,600,98 
+1091,Dr. Raj Kumar Singh,,10 ,Practo Care Surgeries,Green Park,Delhi,700,98 
+1092,Dr. Saurabh Kumar Goyal,,15 ,Practo Care Surgeries,Greater Kailash Part 2,Delhi,799,86 
+1093,Dr. Rajneesh Gulati,,31 ,S R Liver & Gastro Clinic,Vikas Puri,Delhi,1000,65 
+1094,Dr. Vibhu V Mittal,,21 ,Max Super Speciality Hospital,Patparganj,Delhi,1200,86 
+1095,Dr. Manoj Kumar,,36 ,Amar Medical Centre,Saket,Delhi,1200,48 
+1096,Dr. Ashish Sachan,,12 ,Gynaecology Gastro Liver and Laparoscopic Surgery Centre,Dilshad Garden,Delhi,800,99 
+1097,Dr. Piyush Gupta,,13 ,CK Birla Hospital,Punjabi Bagh,Delhi,1500,95 
+1098,Dr. Amit Javed,,22 ,CK Birla Hospital,Punjabi Bagh,Delhi,1000,99 
+1099,Dr. Amit Jain,,19 ,Max Super Speciality Hospital,Patparganj,Delhi,1000,88 
+1100,Dr. Rohan Mahajan,,12 ,Mahajan Hospital,Uttam Nagar,Delhi,1100,100 
+1102,Dr. Jagadeesh Kumar Kanukuntla,General Physician,16 ,Continental Hospitals,Gachibowli,Hyderabad,800,86 
+1103,Dr. Vinod Kumar Bhargava,,58 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1500,100 
+1104,Dr. S.Bhattacharjee,General Physician,44 ,Apollo Hospital,Secunderabad,Hyderabad,600,89 
+1105,Dr. Jaganmani Sreekanth,General Physician,29 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,100 
+1106,Dr. K Sandeep Reddy,General Physician,15 ,Pro Health Multispecialty Clinic,Manikonda,Hyderabad,500,78 
+1107,Dr. Naveen Polavarapu,General Physician,22 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1200,93 
+1108,Dr. S. Ananth Kumar,General Physician,38 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,33 
+1109,Dr. Lakshmikanth Reddy,,17 ,Medicover Hospitals,Hitech City,Hyderabad,500,79 
+1110,Dr. Usha Rani,,32 ,Aster Prime Hospital,Ameerpet,Hyderabad,600,91 
+1111,Dr. Surya Pavan Reddy,General Physician,26 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,100 
+1114,Dr. Venkataramana,General Physician,53 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,93 
+1115,Dr. Raja Selvarajan,,17 ,Kaveri Healthcare,Domlur,Bangalore,750,95 
+1116,Dr. Neelam Vasudeva,General Physician,11 ,Svasthya Health,HSR Layout,Bangalore,600,94 
+1117,Dr. Anusha N D,,12 ,Shanta Practo Centre for Diabetes & Endocrinology,HSR Layout,Bangalore,700,98 
+1118,Dr. Shambulingaiah S. Hiremath,Ayurveda,38 ,Shree  Dhanvantari Ayurveda Hospital,Rajajinagar,Bangalore,250,98 
+1119,Dr. Anuja Marawar,Ayurveda,23 ,Keva Ayurveda,Whitefield,Bangalore,450,95 
+1120,Dr. Tejas Suresh Rao,,13 ,Manipal Hospitals Yeshwanthpur,Yeshwanthpur,Bangalore,850,95 
+1121,Dr. Vinay,Ayurveda,14 ,Varaprada Ayurvedic Centre,Basavanagudi,Bangalore,300,99 
+1122,Dr. S M Fayaz,,12 ,Hopewell Multispeciality Clinic,Kadugodi,Bangalore,600,97 
+1123,Dr. Prabha Ramadorai,General Physician,25 ,Nano Hospitals,Hulimavu,Bangalore,500,89 
+1125,Dr. Nitin R Kochar,Ayurveda,28 ,Gurukrupa Ayurvedic Clinic,Goregaon West,Mumbai,2000,96 
+1126,Dr. Sunita Jonwal,Ayurveda,15 ,Dr. Jonwal's NapAyurVeda Panchkarm & Wellness,Borivali West,Mumbai,800,90 
+1127,Dr. Manasi Shreyas Joshi,,12 ,Maple Polyclinic,Mulund West,Mumbai,500,100 
+1128,Dr. Sanjay Shah,General Physician,38 ,Fortis Hospital,Mulund West,Mumbai,1500,88 
+1129,Dr. Ram Krishna Modi,General Physician,45 ,Fortis Hospital,Mulund West,Mumbai,1500,69 
+1130,Dr. Pradip Padamsi Shah,General Physician,43 ,Fortis Hospital,Mulund West,Mumbai,1500,69 
+1131,Dr. Raman Shenoy,General Physician,24 ,Fortis Hospital,Mulund West,Mumbai,1500,100 
+1132,Dr. Shilpa Nayak,,20 ,Asthma Allergy Clinic - Siddhi Polyclinic,Andheri West,Mumbai,1500,98 
+1133,Dr. Rajshree Chavan,Ayurveda,14 ,Sahastram Ayurveda Panchkarma Center,Dadar East,Mumbai,600,97 
+1134,Dr. Anshudeep Dodake,General Physician,12 ,Health Omega Clinic,Parel,Mumbai,500,100 
+1137,Dr. Kavitha G,General Physician,37 ,Nannalam,Anna Nagar,Chennai,500,98 
+1138,Dr. Rajesh Verma,General Physician,28 ,Bliss Medicare Centre,Vadapalani,Chennai,600,95 
+1139,Dr. Pravin K Aggarwal,General Physician,42 ,Fortis Malar Hospital,Adyar,Chennai,700,86 
+1140,Dr. Poonam Verma,Ayurveda,27 ,Bliss Medicare Centre,Vadapalani,Chennai,600,96 
+1141,Dr. Sheethal Suresh,General Physician,30 ,Fortis Malar Hospital,Adyar,Chennai,500,82 
+1142,Dr. D Srikrishna,Ayurveda,12 ,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,500,98 
+1143,Dr. Subramony H,,31 ,Apollo Hospital,Greams Road,Chennai,500,100 
+1144,Dr. Lalith Narayan,General Physician,14 ,MGM Healthcare,Anna Nagar,Chennai,800,96 
+1145,Dr. Rajkumar V S,,29 ,Apollo Medical Center,Anna Nagar,Chennai,500,100 
+1146,Dr. P Sivaraj,,20 ,MGM Healthcare,Anna Nagar,Chennai,1000,87 
+1148,Dr. Prashant Daundkar Patil,Ayurveda,18 ,Shree Ayurved and Panchakarma Hospital,Chandan Nagar,Pune,500,88 
+1149,Dr. Pradeep R Chaudhari,Ayurveda,15 ,Sai Sparsh Aayurved Clinic and Panchakarma Therapies,Baner,Pune,400,100 
+1150,Dr. Adesh Karwa,Ayurveda,20 ,Ayurveda Clinic,Aundh,Pune,500,99 
+1151,Dr. Deepa Karwa,Ayurveda,15 ,Ayurveda Clinic,Aundh,Pune,500,99 
+1152,Dr. Gopal Jaju,General Physician,12 ,Om Clinic,Kharadi,Pune,500,98 
+1153,Dr. Jyoti Gulati,General Physician,38 ,Gulati's Clinic,Aundh,Pune,900,96 
+1154,Dr. Pramod B. Umarji,General Physician,46 ,Umarji Mother & Child Care,Baner,Pune,600,88 
+1155,Dr. Vandana Wankhade,Ayurveda,18 ,Pradnya Ayurveda & Panchakarma Clinic,Hadapsar,Pune,300,100 
+1156,Dr. Amita Patil,Ayurveda,13 ,Sevanjali -  Ayurvedic Clinic,Dhanori,Pune,200,86 
+1157,Dr. Reshu Agrawal,General Physician,16 ,Manipal Hospitals,Baner,Pune,550,80 
+1159,Dr. Jay Kirtani,General Physician,26 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,1000,90 
+1160,Dr. Ashok Damir,,34 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1200,73 
+1161,Dr. Amarpreet Singh Riar,General Physician,10 ,Aman Medical Clinic,Dwarka,Delhi,1000,96 
+1162,Dr. Gagan Anand,General Physician,8 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1100,100 
+1163,Dr. Atul Arora,General Physician,31 ,Dr Atul Arora Clinic,Kalkaji,Delhi,1000,98 
+1164,Dr. Monica Mahajan,,29 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,2000,98 
+1165,Dr. Sudha Asokan,Ayurveda,44 ,Dr. Sudha's Ayurveda Kendra,Safdarjung Enclave,Delhi,1200,96 
+1166,Dr. Ritesh Gupta,,28 ,Fortis C-DOC Hospital,Nehru Place,Delhi,1500,95 
+1167,Dr. Anupama Singh,,23 ,Apollo Spectra Hospital,Greater Kailash Part 1,Delhi,1200,96 
+1168,Dr. Hari Kumar Yadav,General Physician,16 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,800,100 
+1169,Ms. Priyanka Gupta,,17 ,RK Hear Now Rehabilitation Center,Manikonda,Hyderabad,1000,100 
+1170,Mr. Samraj,,22 ,Serena Rehab Centre,Ecil,Hyderabad,1500,100 
+1172,Ms. Geetika Sood,,24 ,Apollo Cradle & Children’s Hospital,Whitefield,Bangalore,800,83 
+1173,Ms. Hiral Divyansh Mishra,,13 ,Rise And Shine,Kundalahalli,Bangalore,700,100 
+1174,Ms. sakshi bhatia,,9 ,Tender Dental & Health Care,Kundalahalli,Bangalore,750,100 
+1175,Ms. Neha Rastogi,,11 ,Bridge Pediatric Therapy Center,HSR Layout,Bangalore,1000,82 
+1176,Ms. Patricia,,19 ,Cornerstone Therapy Solutions,Kalyan Nagar,Bangalore,800,100 
+1177,Ms. Twinkle Mohanty,,1 year experience,City Hearing Aids,Banashankari 2nd Stage,Bangalore,600,100 
+1179,Ms. Deesha Ponda,,16 ,Visha Therapy and Consulting Centre,Malad West,Mumbai,1000,100 
+1180,Mr. Vilas Jambhulkar,,17 ,V Care Clinic,Andheri West,Mumbai,1500,95 
+1181,Ms. Disha Sanghvi,,9 ,Dr. Disha Sanghvi's Occupational Therapy Clinic,Vileparle East,Mumbai,1000,100 
+1182,Ms. Sneha Sanap,,10 ,The Occupational Therapy Clinic,Wadala,Mumbai,2500,100 
+1183,Ms. Mamata Kemkar,,21 ,Dr. Kiran's Mind Centre,Kandivali West,Mumbai,800,100 
+1184,Ms. Reena Singh,,23 ,Khushi Therapy Center,Andheri,Mumbai,1600,50 
+1185,Ms. Sunita Subhash,,19 ,Sunshine Child Development Centre,Anushakti Nagar,Mumbai,350,100 
+1186,Ms. Pooja Mehta,,14 ,Anmol Child Development Clinic,Kandivali West,Mumbai,2000,100 
+1187,Ms. Sayli Vishwas Ainapure,,10 ,Healing Touch,Vikhroli East,Mumbai,500,100 
+1188,Ms. Vanessa Fernandes,,5 ,Sopan Trust,Jogeshwari East,Mumbai,800,100 
+1190,Mr. B.Balaji,,22 ,Buds To Blossom,Choolaimedu,Chennai,750,97 
+1191,Mr. Aaditya,,1 year experience,Dr. Aaditya's Rehab Centre,Ashok Nagar,Chennai,700,100 
+1192,Ms. Geeva Kamal Raj,,22 ,Chaitanya Speech And Occupational Therapy Centre,Mogappair East,Chennai,500,95 
+1193,Ms. K Bowya,,15 ,SENN-SO Paediatric Therapy Centre,Thirumullaivoyal,Chennai,500,100 
+1194,Mr. Narasimaraju.R,,15 ,Paramount Therapy Clinic,Pallikaranai,Chennai,400,100 
+1195,Dr. M. Anbu (OPT)   (Physiotherapist),,24 ,NESAN Institute for Rehabilitation,Selaiyur,Chennai,500,100 
+1196,Ms. P. Sivasankari,,18 ,Mother's Pediatric Therapy Center,Perungalathur,Chennai,300,100 
+1197,Ms. Nithya Kalyani,,14 ,Stepping Stones Rehab Centre,Perambur,Chennai,500,100 
+1198,Ms. R.Revathi Christi,,14 ,Occupational Therapy Clinic,Kolathur,Chennai,500,100 
+1199,Ms. Hema Rajinikanth,,22 ,Sun Occupational Therapy Centre,Alwarthirunagar,Chennai,500,100 
+1200,Mr. Ravikant Chole,,9 ,Spandan Rehabilitation Centre,Somwar Peth,Pune,300,100 
+1201,Ms. Deepa Dharam Bhand,,11 ,ioCare Rehabilitation Centre,Pimple Saudagar,Pune,800,100 
+1202,Ms. Rashmi Shende,,7 ,Khushi Therapy Clinic,Karve Nagar,Pune,500,100 
+1204,Mr. Santosh Kumar,,16 ,Chetna World of Therapeutic Services,Vasant Kunj,Delhi,1000,100 
+1205,Ms. Kalpana Singh,,15 ,"Rollick n Frolic, Child Development Clinic",Dwarka,Delhi,800,100 
+1206,Mr. Joginder Singh,,22 ,Ayush Rehabilitation & Research Centre,Bhajanpura,Delhi,700,100 
+1207,Ms. Neha Naaz,,2 ,Rehave Yourself  Therapy Centre,Laxmi Nagar,Delhi,200,100 
+1208,Mr. Arpan Kumar,,21 ,Ot4kids,Greater Kailash Part 1,Delhi,800,100 
+1209,Ms. Rashmi Beriwal,,10 ,Udaan-A Life Ahead,Pitampura,Delhi,500,100 
+1210,Ms. Shikha  Sharma,,7 ,Learning Ladder,Greater Kailash Part 1,Delhi,1000,100 
+1211,Ms. Archna Gupta,,8 ,Amulya Rehabilitation Center,Yamuna Vihar,Delhi,500,100 
+1212,Mr. Jitendra,,6 ,Swasambhav compelet rehabilitation,Shahdara,Delhi,600,100 
+1213,Mr. Rajesh Singh Nayal,,13 ,Shristi Child Development And Learning Institute,Vivek Vihar,Delhi,500,100 
+1216,Dr. Neelwanti Soni,General Physician,20 ,Apollo Medical  Centre,Kondapur,Hyderabad,600,88 
+1217,Dr. P. Ramu,General Physician,27 ,Jayaa Hospital,Miyapur,Hyderabad,500,93 
+1218,Dr. Vikram Cheryala,General Physician,12 ,Vicinity Clinics,Kokapet,Hyderabad,600,99 
+1219,Dr. N.V. Ramana Rao,General Physician,26 ,Revive Clinics & Fertility Center,Nallagandla,Hyderabad,1000,99 
+1220,Dr. Shaeq Mirza,General Physician,17 ,Apollo Hospital,Hyderguda,Hyderabad,600,98 
+1221,Dr. Jagadeesh Kumar Kanukuntla,General Physician,16 ,Continental Hospitals,Gachibowli,Hyderabad,800,86 
+1222,Dr. Srinivas Jakkinaboina,General Physician,25 ,MedSurge Clinics,Narsingi,Hyderabad,500,75 
+1223,Dr. Indira Ramasahayam Reddy,General Physician,36 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,100 
+1224,Dr. Sharath Chandra,General Physician,11 ,Health Care 360 Clinics,Santosh Nagar,Hyderabad,800,100 
+1225,Dr. S.Bhattacharjee,General Physician,44 ,Apollo Hospital,Secunderabad,Hyderabad,600,89 
+1227,Dr. Venkataramana,General Physician,53 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,93 
+1228,Dr. Raja Selvarajan,General Physician,17 ,Kaveri Healthcare,Domlur,Bangalore,750,95 
+1229,Dr. Neelam Vasudeva,General Physician,11 ,Svasthya Health,HSR Layout,Bangalore,600,94 
+1230,Dr. Anusha N D,General Physician,12 ,Shanta Practo Centre for Diabetes & Endocrinology,HSR Layout,Bangalore,700,98 
+1231,Dr. Prashant Dinesh,General Physician,21 ,Dr. Prashant's Clinic,Ulsoor,Bangalore,600,98 
+1232,Dr. Shivaram HR,General Physician,22 ,Viveks Multi Speciality Clinic & Diagnostics,Kanakpura Road,Bangalore,600,96 
+1233,Dr. Leelamohan PVR,General Physician,14 ,Padithem Health Care,HSR Layout,Bangalore,750,90 
+1234,Dr. Sunil Havannavar,General Physician,20 ,Manipal Hospital,Sarjapur Road,Bangalore,700,88 
+1235,Dr. Dwijendra Prasad,General Physician,22 ,Prakriya Hospitals,Nagasandra,Bangalore,550,81 
+1236,Dr. Dhananjay Bhaskarachrar,General Physician,22 ,Dinka Multispeciality Clinic and Center for Diabetes,Bommanahalli,Bangalore,500,96 
+1238,Dr. Kalpana B Tiwari,General Physician,12 ,Dr. Tiwari's Clinic,Chembur,Mumbai,700,100 
+1239,Dr. Akshay Jain,General Physician,9 ,Health & Beyond,Lower Parel,Mumbai,500,99 
+1240,Dr. Rajanshu Tiwari,General Physician,13 ,Dr. Tiwari's Clinic,Chembur,Mumbai,800,94 
+1241,Dr. Seema S. Masrani,General Physician,30 ,Dr. Seema S. Masrani's Clinic,Kandivali West,Mumbai,1000,91 
+1242,Dr. Rekha Kadam,General Physician,25 ,Docville,Andheri West,Mumbai,800,100 
+1243,Dr. Samvaad Shetty,General Physician,11 ,Dr.Samvaad Shetty's Clinic,Andheri East,Mumbai,1200,100 
+1244,Dr. Anita Mathew Davis,General Physician,26 ,Fortis Hospital,Mulund West,Mumbai,1500,100 
+1245,Dr. Sanjay Shah,General Physician,38 ,Fortis Hospital,Mulund West,Mumbai,1500,88 
+1246,Dr. Pankaj Mistry,General Physician,41 ,Keep Fit Clinic,Vileparle East,Mumbai,2000,98 
+1247,Dr. Ram Krishna Modi,General Physician,45 ,Fortis Hospital,Mulund West,Mumbai,1500,69 
+1250,Dr. Magdum Bathusha,General Physician,9 ,Dr.Rohith's clinic,Pallavaram,Chennai,300,100 
+1251,Dr. T. Vijay,General Physician,25 ,Dr. Vijay's Hospital,Mogappair East,Chennai,400,99 
+1252,Dr. Kavitha G,General Physician,37 ,Nannalam,Anna Nagar,Chennai,500,98 
+1253,Dr. Janani Karthik,General Physician,12 ,Dr. Janani'S Diabetes Clinic,Alwarpet,Chennai,400,98 
+1254,Dr. Hariharan V.S,General Physician,20 ,Gleneagles Global Health City,Perumbakkam,Chennai,500,86 
+1255,Dr. Thomas George,General Physician,45 ,Chennai Medical Centre,KK Nagar,Chennai,800,92 
+1256,Dr. Sridevi Anantharaman,General Physician,23 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+1257,Dr. Anand Gnanaraj,General Physician,31 ,Apollo Speciality Hospital,Vanagaram,Chennai,1200,100 
+1258,Dr. T K Shanmugaraj,General Physician,31 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+1259,Dr. Jayashree Sharma,General Physician,26 ,Quality Qure Ladies Speciality Clinic,Kodambakkam,Chennai,650,99 
+1261,Dr. Amit Sakaria,General Physician,19 ,Prudent International Health Clinic,Kalyani Nagar,Pune,600,94 
+1262,Dr. Avdhut G. Bodamwad,General Physician,11 ,Lopmudra Multi-speciality Hospital,Pirangut,Pune,400,97 
+1263,Dr. Manisha A Gosavi,General Physician,32 ,Arogya Clinic,Vishrantwadi,Pune,500,97 
+1264,Dr. Pankaj Changedia,General Physician,24 ,"Mamata Maternity & Heart , Diabetis Care Center",Kharadi,Pune,500,92 
+1265,Dr. Nachiket Mahindrakar,General Physician,16 ,We Heal Clinic,Baner,Pune,1100,95 
+1266,Dr. Shruti Goswami,General Physician,11 ,Shree Ram Clinic,Haveli,Pune,500,98 
+1267,Dr. Ravindra Chhajed,General Physician,28 ,Harsh Hospital,Market Yard,Pune,700,98 
+1268,Dr. Shilpa Dane,General Physician,18 ,Dev Clinic,Pimpri-Chinchwad,Pune,500,83 
+1269,Dr. Amol L Dange,General Physician,19 ,Lifetree Healthcare And  Diagnostics,Wakad,Pune,600,90 
+1270,Dr. Milind Kulkarni,General Physician,18 ,Kulkarni Clinic,Vishrantwadi,Pune,600,95 
+1272,Dr. Amarpreet Singh Riar,General Physician,10 ,Aman Medical Clinic,Dwarka,Delhi,1000,96 
+1273,Dr. Sunny Sehgal,General Physician,13 ,People's Health Care,Laxmi Nagar,Delhi,500,95 
+1274,Dr. Pankaj Kumar,General Physician,16 ,Diet Plus Minus,Dwarka Sector 9,Delhi,700,96 
+1275,Dr. Pramila Srivastava,General Physician,42 ,Dr. Srivastava's Clinic,Defence Colony,Delhi,500,88 
+1276,Dr. Yatin Kukreja,General Physician,20 ,Kukreja Healthcare Clinic,Lajpat Nagar 4,Delhi,700,98 
+1277,Dr. Sanchayan Roy,General Physician,25 ,Health First Wellness Centre,CR Park,Delhi,800,90 
+1278,Dr. Rachna Kucheria,General Physician,31 ,Kucheria Clinic,Greater Kailash Part 1,Delhi,1600,95 
+1279,Dr. Paru Sharma,General Physician,31 ,Dr. Paru Sharma's Clinic,Dwarka Sector 13,Delhi,600,98 
+1280,Dr. Jay Kirtani,General Physician,26 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,1000,90 
+1281,Dr. K.S. Walia,General Physician,49 ,Walia Medical and Maternity Centre,Sarita Vihar,Delhi,600,90 
+1284,Dr. Chetan Raj,Homoeopath,12 ,Dr. Chetan's Homeo Clinics,Begumpet,Hyderabad,51,97 
+1285,Dr. Srinivas Jakkinaboina,General Physician,25 ,MedSurge Clinics,Narsingi,Hyderabad,500,75 
+1286,Dr. Mithil B Ghushe,,20 ,Medicover Hospitals,Hitech City,Hyderabad,500,92 
+1287,Dr. K Sandeep Reddy,General Physician,15 ,Pro Health Multispecialty Clinic,Manikonda,Hyderabad,500,78 
+1288,Dr. Usha Rani,,32 ,Aster Prime Hospital,Ameerpet,Hyderabad,600,91 
+1289,Dr. Taheer Shaik,,17 ,Apollo Cradle & Children’s Hospital,Kondapur,Hyderabad,700,100 
+1290,Dr. L Sunandhini,General Physician,26 ,Aster Prime Hospital,Ameerpet,Hyderabad,600,94 
+1291,Dr. Suneetha Narreddy,,26 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1500,100 
+1292,Dr. Ravinder Raju,Homoeopath,25 ,Positive Homeopathy,Kukatpally,Hyderabad,300,71 
+1293,Dr. Panchagnula Satyanarayana Murthy,Homoeopath,30 ,Positive Homeopathy,Kachiguda,Hyderabad,300,100 
+1295,Dr. Venkataramana,General Physician,53 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,93 
+1296,Dr. Raja Selvarajan,,17 ,Kaveri Healthcare,Domlur,Bangalore,750,95 
+1297,Dr. Neelam Vasudeva,General Physician,11 ,Svasthya Health,HSR Layout,Bangalore,600,94 
+1298,Dr. Anusha N D,,12 ,Shanta Practo Centre for Diabetes & Endocrinology,HSR Layout,Bangalore,700,96 
+1299,Dr. Sharat Honnatti,General Physician,20 ,United Medical Center,HSR Layout,Bangalore,750,96 
+1300,Dr. Tejas Suresh Rao,,13 ,Manipal Hospitals Yeshwanthpur,Yeshwanthpur,Bangalore,850,95 
+1301,Dr. B Rajashekar,,36 ,Six Face Clinic,Indiranagar,Bangalore,600,84 
+1302,Dr. S M Fayaz,,12 ,Hopewell Multispeciality Clinic,Kadugodi,Bangalore,600,97 
+1303,Dr. Munavvar Sultana Shaikh,Homoeopath,29 ,MS Homeopathic Medical Centre,Koramangala 6 Block,Bangalore,650,96 
+1304,Dr. Prabha Ramadorai,General Physician,25 ,Nano Hospitals,Hulimavu,Bangalore,500,89 
+1306,Dr. Vilas Kulkarni,,53 ,Kulkarni Hospital,Andheri West,Mumbai,1000,97 
+1307,Dr. Yuvaraja S Shetty,,18 ,Dr. Yuvaraja S Shetty Child Health Center and Polyclinic,Mulund West,Mumbai,1000,99 
+1308,Dr. Saadan  Shahid,Homoeopath,25 ,Dr Batra's Positive Health Clinic Pvt Ltd,Lokhandwala,Mumbai,450,100 
+1309,Dr. Anita Mathew Davis,General Physician,26 ,Fortis Hospital,Mulund West,Mumbai,1500,100 
+1310,Dr. Bhupendra S Avasthi,,43 ,Surya Hospitals,Santacruz West,Mumbai,2000,92 
+1311,Dr. Sanjay Shah,General Physician,38 ,Fortis Hospital,Mulund West,Mumbai,1500,88 
+1312,Dr. Ram Krishna Modi,General Physician,45 ,Fortis Hospital,Mulund West,Mumbai,1500,69 
+1313,Dr. Pradip Padamsi Shah,General Physician,43 ,Fortis Hospital,Mulund West,Mumbai,1500,69 
+1314,Dr. Jesal Seth,,24 ,Fortis Hospital,Mulund West,Mumbai,1300,100 
+1315,Dr. Sameer Sadawarte,,23 ,Fortis Hospital,Mulund West,Mumbai,1300,100 
+1318,Dr. Kavitha G,General Physician,37 ,Nannalam,Anna Nagar,Chennai,500,98 
+1319,Dr. B Benjamin,,50 ,Fortis Malar Hospital,Adyar,Chennai,600,100 
+1320,Dr. Vinod Prem Anand,,23 ,Fortis Malar Hospital,Adyar,Chennai,700,100 
+1321,Dr. Pravin K Aggarwal,General Physician,42 ,Fortis Malar Hospital,Adyar,Chennai,700,86 
+1322,Dr. M Divya,,12 ,Dr. Mehta's Hospitals,Chetpet,Chennai,500,100 
+1323,Dr. Sheethal Suresh,General Physician,30 ,Fortis Malar Hospital,Adyar,Chennai,500,82 
+1324,Dr. Vincent Thamburaj,General Physician,47 ,Apollo Cancer Centres Chennai,Teynampet,Chennai,1000,100 
+1325,Dr. Radhalakshmi,,25 ,Apollo Children's Hospitals,Thousand Lights,Chennai,700,99 
+1326,Dr. G. Prabhakaran,,50 ,Fortis Malar Hospital,Adyar,Chennai,600,86 
+1327,Dr. Nidhi Dube,Homoeopath,14 ,Dr Batra's Positive Health Clinic Pvt Ltd,Velachery,Chennai,450,100 
+1329,Dr. Sumedh Giri,,21 ,G K Care Clinic,Kharadi,Pune,500,97 
+1330,Dr. Mahesh M Lakhe,General Physician,20 ,Dr Lakhe's Healthcare and Research Centre,Kharadi,Pune,999,92 
+1331,Dr. Vaseem Choudhary,Homoeopath,14 ,Homeo Care Clinic,Hadapsar,Pune,300,93 
+1332,Dr. Deepesh Gaikwad,Homoeopath,16 ,Healthmate Homeopathy,Pimple Saudagar,Pune,600,98 
+1333,Dr. Chandrashekhar Vasant Phadnis,,25 ,AV Children and Multispeciality Clinic,Aundh,Pune,500,94 
+1334,Dr. Amol L Dange,General Physician,19 ,Lifetree Healthcare And  Diagnostics,Wakad,Pune,600,90 
+1335,Dr. Rutika Khelkar,Homoeopath,31 ,Dr Rutika Khelkar Homeopathy Clinic,Aundh,Pune,500,93 
+1336,Dr. Neelam Gote,,12 ,HealthyBuds - Children Clinic and Vaccination Centre,Pimple Saudagar,Pune,400,98 
+1337,Dr. Jyoti Gulati,General Physician,38 ,Gulati's Clinic,Aundh,Pune,900,96 
+1338,Dr. Amit Sakaria,,19 ,Prudent International Health Clinic,Kalyani Nagar,Pune,600,94 
+1340,Dr. Manish Chopra,,23 ,Chopra Child Clinic,Janakpuri,Delhi,800,98 
+1341,Dr. K.S. Walia,General Physician,49 ,Walia Medical and Maternity Centre,Sarita Vihar,Delhi,600,90 
+1342,Dr. Tina Goel,,22 ,Kare N Kure Child Clinic,Dwarka,Delhi,700,97 
+1343,Dr. Vishal Vaidya,,23 ,The Milestone Child Clinic,Dwarka,Delhi,800,98 
+1344,Dr. Pankaj Kumar,General Physician,16 ,Diet Plus Minus,Dwarka Sector 9,Delhi,700,96 
+1345,Dr. Monica Mahajan,,29 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,2000,98 
+1346,Dr. Jeevanjyot Bahia,General Physician,31 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,800,86 
+1347,Dr. Ritesh Gupta,,28 ,Fortis C-DOC Hospital,Nehru Place,Delhi,1500,95 
+1348,Dr. Saumya Rathi,General Physician,11 ,Dr. Saumya Rathi Clinic,Shakti Nagar,Delhi,600,100 
+1349,Dr. Pawan Kumar,,22 ,Rainbow Hospitals - Malviya Nagar,Malviya Nagar,Delhi,1200,99 
+1350,Dr. Sashikanth.J,Ear-Nose-Throat (ENT),23 ,Citizens Speciality Hospitals,Lingampally,Hyderabad,800,88 
+1352,Dr. Anithakumari AM,Ear-Nose-Throat (ENT),27 ,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,900,93 
+1353,Dr. Prateek Nayak,Ear-Nose-Throat (ENT),19 ,Aster CMI Hospital,Hebbal,Bangalore,1000,83 
+1354,Dr. Girish Rai B,Ear-Nose-Throat (ENT),33 ,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,900,34 
+1355,Dr. Sunil Narayan Dutt,Ear-Nose-Throat (ENT),34 ,Apollo Hospital,Bannerghatta Road,Bangalore,850,84 
+1356,Dr. Shalina Ray,Ear-Nose-Throat (ENT),24 ,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,900,88 
+1357,Dr. Sumit Kumar Gaur,Ear-Nose-Throat (ENT),13 ,Apollo Hospital,Bannerghatta Road,Bangalore,850,67 
+1358,Dr. Bathi Reddy,Ear-Nose-Throat (ENT),41 ,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,900,45 
+1359,Dr. Manohar Shaan,Ear-Nose-Throat (ENT),32 ,Nanavati Super Speciality Hospital,Vileparle West,Mumbai,1200,95 
+1360,Dr. Agneesh Patial,Ear-Nose-Throat (ENT),20 ,Nanavati Super Speciality Hospital,Vileparle West,Mumbai,1300,84 
+1361,Dr. Amol Patil,Ear-Nose-Throat (ENT),19 ,Nanavati Super Speciality Hospital,Vileparle West,Mumbai,1000,97 
+1362,Dr. Tejas Baijal,Ear-Nose-Throat (ENT),18 ,Sahyadri Hospital,Kothrud,Pune,300,90 
+1364,Dr. Anurag Tandon,Ear-Nose-Throat (ENT),34 ,Max Super Speciality Hospital,Patparganj,Delhi,1200,56 
+1365,Dr. Anuj Singhal,Ear-Nose-Throat (ENT),31 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,1500,83 
+1366,Dr. Gita Gangadharan Shrivastav,Ear-Nose-Throat (ENT),35 ,Max Super Speciality Hospital,Patparganj,Delhi,1000,80 
+1367,Dr. Sumit Mrig,Ear-Nose-Throat (ENT),21 ,Max Smart Superspeciality Hospital,Saket,Delhi,1500,85 
+1368,Dr. Vineet Narula,Ear-Nose-Throat (ENT),16 ,Max Smart Superspeciality Hospital,Saket,Delhi,1300,91 
+1369,Dr. Mala Bhattacharjee,Ear-Nose-Throat (ENT),28 ,Max Super Speciality Hospital,Patparganj,Delhi,800,100 
+1370,Dr. Deepti Sinha,Ear-Nose-Throat (ENT),23 ,Max Super Speciality Hospital,Shalimar Bagh,Delhi,1000,100 
+1371,Dr. D Jijina,Ear-Nose-Throat (ENT),43 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,1500,94 
+1372,Dr. Ashok Singh,Ear-Nose-Throat (ENT),21 ,Max Super Speciality Hospital,Patparganj,Delhi,700,82 
+1373,Dr. Sharad Maheswari,Ear-Nose-Throat (ENT),41 ,Max Super Speciality Hospital,Patparganj,Delhi,800,63 
+1376,Dr. Arun Kumar Nadimpalli,,24 ,Practo Care Surgeries,Somajiguda,Hyderabad,700,94 
+1377,Dr. Kaushik B K,,10 ,Practo Care Surgeries,SR Nagar,Hyderabad,500,67 
+1378,Dr. Ajay Kumar Tiwari,,21 ,Practo Care Surgeries,Somajiguda,Hyderabad,600,100 
+1379,Dr. Mir Jawad Zar Khan,,22 ,Germanten Hospitals,Attapur,Hyderabad,750,97 
+1380,Dr. Smaranika Das   (Physiotherapist),,13 ,Curamos Physiotherapy-Diet Clinic,Nallagandla,Hyderabad,500,98 
+1381,Dr. Anjali Agarwal   (Physiotherapist),,24 ,Ambicare Clinics,Kondapur,Hyderabad,300,96 
+1382,Dr. M.Ranganath Reddy,,20 ,Neo Asian Clinics,Kondapur,Hyderabad,700,95 
+1383,Dr. Bharath Gandhi Reddy J   (Physiotherapist),,13 ,Allocare Physiotherapy,Gachibowli,Hyderabad,700,97 
+1384,Dr. Anusha Tanagala   (Physiotherapist),,7 ,Activelife Physiotherapy And Rehabilitation Centre,KPHB,Hyderabad,300,100 
+1385,Dr. M Naveen Chandar Reddy,,23 ,Dr Naveen Reddy's Orthopedic Clinic,Kondapur,Hyderabad,600,96 
+1388,Dr. B A Gopala Krishna,,22 ,Practo Care Surgeries,Banashankari 2nd Stage,Bangalore,600,97 
+1389,Dr. Shashidhar V.,,19 ,Practo Care Surgeries,Yelenahalli,Bangalore,1000,96 
+1390,Dr. Sharath Kumar Shetty,,22 ,Practo Care Surgeries,HSR Layout,Bangalore,999,89 
+1391,Dr. Saraswati Viswanathan,,15 ,Brains Super Speciality Hospital,Jayanagar,Bangalore,750,100 
+1392,Dr. Srivatsa Subramanya,,16 ,Vasavi Hospital,Kumaraswamy Layout,Bangalore,650,100 
+1393,Dr. Radhakrishna V N,,17 ,People Tree Hospitals,Yeshwanthpur,Bangalore,500,97 
+1394,Dr. Srikanth K P,,20 ,People Tree Hospitals,Yeshwanthpur,Bangalore,500,99 
+1395,Dr. Jagadeesh,,25 ,Aasra Hospital,Jayanagar,Bangalore,800,89 
+1396,Dr. Ravi Prakash Y,,18 ,People Tree Hospitals,Yeshwanthpur,Bangalore,500,99 
+1397,Dr. Archita Tiwari   (Physiotherapist),,6 ,Rehabics Physiotherapy,Koramangala 6 Block,Bangalore,500,99 
+1400,Dr. Nikhil Agrawal,,21 ,Practo Care Surgeries,Malad West,Mumbai,1000,67 
+1401,Dr. Santosh Patil,,20 ,Practo Care Surgeries,Tilak Nagar,Mumbai,1000,100 
+1402,Dr. Sanjeed C Pujary,,16 ,Practo Care Surgeries,Andheri West,Mumbai,1500,100 
+1403,Dr. Kruti Harsh Mehta   (Physiotherapist),,14 ,Healing Hands Physiotherapy,Vikhroli,Mumbai,400,100 
+1404,Dr. Pooja Vora Jhonsa   (Physiotherapist),,22 ,Physigo,Ghatkopar East,Mumbai,700,100 
+1405,Dr. Zahabia Basrai   (Physiotherapist),,14 ,Enliven Therapy Centre,Hajiali,Mumbai,1500,100 
+1406,Dr. Priyanka Sukthankar   (Physiotherapist),,15 ,Dr Priyanka's Physiowellness Physiotherapy clinic.,Andheri East,Mumbai,700,99 
+1407,Dr. Dinesh Kumar Joshi   (Physiotherapist),,7 ,Dr. joshi's Physiotherapy clinic,Goregaon West,Mumbai,800,100 
+1408,Dr. Priya Karande   (Physiotherapist),,11 ,Dr. Priya's Walk Again Neuro Rehab Center,Parel,Mumbai,500,100 
+1409,Dr. Ushma Bhojani   (Physiotherapist),,13 ,World Of Wellness,Malad West,Mumbai,1000,100 
+1411,Dr. Ramkumar Ponraj,,12 ,Practo Care Surgeries,Neelankarai,Chennai,600,100 
+1412,Dr. Dinesh Mohan Choudary,,15 ,Practo Care Surgeries,Aminjikarai,Chennai,500,100 
+1413,Dr. Ranjith,,21 ,Apollo Speciality Hospital,Vanagaram,Chennai,1000,96 
+1414,Dr. R. Harish Kumar   (Physiotherapist),,18 ,Sai Healthcare Foundation,Mylapore,Chennai,500,99 
+1415,Dr. K. Sivaramakrishnan   (Physiotherapist),,13 ,Energy Clinic (Formerly Re-Align Clinic),Alwarthirunagar,Chennai,300,99 
+1416,Dr. S Devarajan   (Physiotherapist),,28 ,Sri Krishna Physiotherapy Centre,Adyar,Chennai,500,100 
+1417,Dr. S Sivabalan   (Physiotherapist),,15 ,BEE Health Studio,Thiruvanmiyur,Chennai,500,98 
+1418,Dr. Senthil Kamalasekaran,,28 ,CHENNAI ORTHO CLINIC,Thoraipakkam,Chennai,1000,98 
+1419,Dr. K P Kosygan,,31 ,Apollo Hospital,Greams Road,Chennai,1000,98 
+1420,Dr. Sudha   (Physiotherapist),,14 ,Bhavisha Physiotherapy Clinic,Porur,Chennai,250,98 
+1423,Dr. Swaroop Solunke,,14 ,Practo Care Surgeries,Wakad,Pune,800,98 
+1424,Dr. Soumya Suravita Nanda   (Physiotherapist),,9 ,Dr Soumya's Physiotherapy & Rehab,Wakad,Pune,500,99 
+1425,Dr. Naziya Bagwan   (Physiotherapist),,16 ,Impact Physiotherapy and Weight Loss Clinic,Viman Nagar,Pune,600,100 
+1426,Dr. Shruti Rajore   (Physiotherapist),,13 ,Dr Shruti's Realign Physiotherapy Clinic,Kharadi,Pune,500,99 
+1427,Dr. Anuja Reddy   (Physiotherapist),,14 ,Dr. Anuja's Physiotherapy Clinic,Kharadi,Pune,400,96 
+1428,Dr. Megha Mehta   (Physiotherapist),,8 ,HighWorth,Hadapsar,Pune,600,99 
+1429,Dr. Alifia Cementwala   (Physiotherapist),,26 ,Healing Touch Multispeciality Clinic ,Viman Nagar,Pune,800,97 
+1430,Dr. Jagdish Dhake,,10 ,Asperia Specialty Clinic,Bibvewadi,Pune,600,100 
+1431,Dr. Preeti Dubbewar   (Physiotherapist),,18 ,Ashtavinayak Physiotherapy Clinic,Hinjewadi,Pune,250,97 
+1432,Dr. Shashank Behere,,23 ,Lifeline Hospital,Aundh,Pune,600,98 
+1435,Dr. Madhur Mahna,,13 ,Practo Care Surgeries,Rajouri Garden,Delhi,600,89 
+1436,Dr. Parvinder Singh Arora,,17 ,Practo Care Surgeries,Dwarka Sector 19,Delhi,1000,100 
+1437,Dr. Om Prakash Gupta,,18 ,Practo Care Surgeries,Dwarka Sector 19,Delhi,1000,73 
+1438,Dr. Vimal Kumar Dakour,,19 ,Practo Care Surgeries,Lajpat Nagar,Delhi,600,97 
+1439,Dr. Sumit Thapar   (Physiotherapist),,9 ,Back in Motion Physiotherapy and Chiropractor Clinic,Greater Kailash Part 1,Delhi,1200,94 
+1440,Dr. Ashish Taneja,,19 ,Delhi Bone And Joint Clinic,Janakpuri,Delhi,800,97 
+1441,Dr. Deepak Arora,,17 ,Max Super Speciality Hospital,Patparganj,Delhi,800,100 
+1442,Dr. Amite Pankaj Aggarwal,,26 ,Fortis Hospital,Shalimar Bagh,Delhi,1200,96 
+1443,Dr. G K Agarwal,,49 ,Fortis Hospital,Shalimar Bagh,Delhi,1200,100 
+1444,Dr. Puneet Mishra,,23 ,Fortis Hospital,Shalimar Bagh,Delhi,1000,100 
+1446,Dr. Sameer A.Mahendra,Dentist,24 ,Udai Omni Hospital,Chapel Road,Hyderabad,700,100 
+1447,Dr. Sushma Reddy,Dentist,22 ,Clove Dental,Jubilee Hills,Hyderabad,750,86 
+1448,Dr. Jahnavi,Dentist,7 ,Clove Dental,Kukatpally,Hyderabad,500,100 
+1449,Dr. Sneha Mary Mathew,Dentist,13 ,Clove Dental,Vikrampuri Colony,Hyderabad,500,100 
+1450,Dr. P.Vijaya Kumar,Dentist,15 ,Clove Dental,Vikrampuri Colony,Hyderabad,500,100 
+1451,Dr. Vadiraj,Dentist,15 ,Clove Dental,Vikrampuri Colony,Hyderabad,500,67 
+1452,Dr. Velide Sharada,Dentist,10 ,Clove Dental,AS Rao Nagar,Hyderabad,500,100 
+1453,Dr. Shehnaz Banu,Dentist,14 ,Clove Dental,Attapur,Hyderabad,500,100 
+1454,Dr. Divya,Dentist,10 ,Clove Dental,Miyapur,Hyderabad,500,100 
+1455,Dr. Bilquis Begum,Dentist,13 ,Clove Dental,Manikonda,Hyderabad,500,100 
+1457,Dr. T. Ramakrishna,Dentist,25 ,Dental Profiles Clinic,JP Nagar 7 Phase,Bangalore,500,95 
+1458,Dr. Sumanth Shetty,Dentist,24 ,Chisel Dental,Koramangala,Bangalore,500,97 
+1459,Dr. Rashmi Shetty,Dentist,18 ,Chisel Dental,Koramangala,Bangalore,500,99 
+1460,Dr. Pramod,Dentist,19 ,Dental De Care,Domlur,Bangalore,500,98 
+1461,Dr. Jaswanth Reddy,Dentist,17 ,SSR Multispeciality Dental Clinic,Marathahalli,Bangalore,500,96 
+1462,Dr. Krishnanand,Dentist,12 ,Royal Smiles Multi Speciality Dental and Facial Aesthetics Centre,Varthur,Bangalore,200,100 
+1463,Dr. Mallayya R. Pujari,Dentist,17 ,I Smile Dental Care - Mahadevapura,Mahadevapura,Bangalore,500,96 
+1464,Dr. Subash,Dentist,30 ,Achala Dental Clinic & Implant Centre,Sarjapur Road,Bangalore,500,92 
+1465,Dr. Arati Sundar Rajan,Dentist,27 ,Toothwala,Basavanagudi,Bangalore,500,97 
+1466,Dr. Sujay Gopal,Dentist,16 ,Sujay's Dental Care,Banashankari 3rd Stage,Bangalore,500,97 
+1468,Dr. Ankita Chauhan,Dentist,12 ,Sharan Hospital,Ghatkopar West,Mumbai,600,100 
+1469,Dr. Deepkriti Gupta,Dentist,15 ,Shreeji Eye Clinic & Dental Care Centre,Mira Road,Mumbai,500,95 
+1471,Dr. Aarthi Praveen,Dentist,17 ,Dr Aarthi Dental Care Medinspire,Navalur,Chennai,500,100 
+1472,Dr. M.Srikanth,Dentist,22 ,Smile Solutions Family Dentistry,Chromepet,Chennai,500,98 
+1473,Dr. Prem Kumar,Dentist,16 ,Just Smile Dental & ENT Specialities,Madipakkam,Chennai,500,97 
+1474,Dr. M. Suresh,Dentist,11 ,M.S Multi Speciality Dental Clinic,Perumbakkam,Chennai,500,99 
+1475,Dr. Balajee. J,Dentist,11 ,Elite Dentistry,Anna Nagar West,Chennai,500,100 
+1476,Dr. Mareeswari,Dentist,15 ,A2Z Dental Care,Pallikaranai,Chennai,500,99 
+1477,Dr. Sunil Chandy,Dentist,15 ,Kings Dental Care,Rajakilpakkam,Chennai,500,100 
+1478,Dr. V.K.Vignesh,Dentist,7 ,VIGNESH'S DENTAL ZONE,Gowrivakkam,Chennai,150,100 
+1479,Dr. D.Ramyaa Karthies,Dentist,11 ,Confi Dental Smilez,Keelkattalai,Chennai,500,99 
+1480,Dr. Ajay Mohan,Dentist,14 ,"Impressions Dental, Cosmetic, Craniofacial Centre",Mylapore,Chennai,500,100 
+1481,Dr. Meru Sethi,Dentist,23 ,Clove Dental,Viman Nagar,Pune,500,100 
+1482,Dr. Desh Dixchha,Dentist,10 ,Clove Dental,Wanowrie,Pune,500,100 
+1483,Dr. Akshay Raut,Dentist,16 ,Noble Hospital,Hadapsar,Pune,150,100 
+1484,Dr. Dayanand Shirol,Dentist,25 ,Noble Hospital,Hadapsar,Pune,300,100 
+1485,Dr. Jeena Nair,Dentist,25 ,Noble Hospital,Hadapsar,Pune,300,100 
+1486,Dr. Girish Bykod,Dentist,25 ,Noble Hospital,Hadapsar,Pune,200,100 
+1487,Dr. Gawande Pushkar,Dentist,22 ,Noble Hospital,Hadapsar,Pune,200,100 
+1488,Dr. Nishu Bansal,Dentist,11 ,Clove Dental,Adarsh Nagar,Delhi,500,100 
+1489,Dr. Sakshi Sharma,Dentist,18 ,Clove Dental,Model Town 2,Delhi,500,100 
+1490,Dr. Sujit Pradhan,Dentist,11 ,Clove Dental,Shivalik,Delhi,500,100 
+1491,Dr. Smriti Mehrotra,Dentist,10 ,Clove Dental,Kailash Colony,Delhi,500,100 
+1492,Dr. Bhavani Ramesh Nair,Dentist,27 ,Clove Dental,Safdarjung Development Area,Delhi,500,100 
+1493,Dr. Manish Kaushik,Dentist,10 ,Clove Dental,Dwarka Sector 7,Delhi,500,88 
+1494,Dr. Ruchika Agarwal,Dentist,16 ,Clove Dental,IP Extension,Delhi,500,100 
+1495,Dr. Geetika Maan,Dentist,17 ,Clove Dental,Dwarka Sector 5,Delhi,500,100 
+1496,Dr. Nitika Bangia,Dentist,16 ,Clove Dental,Paschim Vihar,Delhi,500,100 
+1497,Dr. Prerna Beniwal,Dentist,11 ,Clove Dental,Safdarjung Enclave,Delhi,500,100 
+1499,Dr. Syed Siddique Hussain,,30 ,Practo Care Surgeries,Santosh Nagar,Hyderabad,499,100 
+1500,Dr. Sushanth Bachu,,13 ,Practo Care Surgeries,Secunderabad,Hyderabad,499,100 
+1501,Dr. N V R Murthy,,24 ,Dr. Murthy Eye Hospital,KPHB,Hyderabad,400,99 
+1502,Dr. Indumathy T Ramachandran,,34 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,100 
+1503,Dr. Shikha Fogla,,31 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,100 
+1504,Dr. Sivarekha L,,18 ,Xenia Hospital,Ecil,Hyderabad,400,100 
+1505,Dr. M Deepika Reddy,,26 ,Avani Laser Eye Hospital,Nagole,Hyderabad,400,98 
+1506,Dr. Chandra Shekhar Reddy,,27 ,Avani Laser Eye Hospital,Nagole,Hyderabad,400,100 
+1507,Dr. Sree Kumar Reddy,,40 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,95 
+1508,Dr. Rajesh Fogla,,30 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,95 
+1510,Dr. Yogesh D,,22 ,Practo Care Surgeries,Rajarajeshwarinagar,Bangalore,499,100 
+1511,Dr. M B Trishala,,33 ,Manipal Hospital,Jayanagar 9 Block,Bangalore,650,100 
+1512,Dr. Shalini Shetty,,30 ,Apollo Speciality Hospitals,Jayanagar,Bangalore,630,92 
+1513,Dr. Pinto Kiran,,12 ,Samarth Nethralaya,Vijayanagar,Bangalore,500,76 
+1514,Dr. Sanghamitra Burman,,24 ,SightYears Eye Clinic,Indiranagar,Bangalore,750,99 
+1515,Dr. Sheetal Ballal,,22 ,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,900,100 
+1516,Dr. Mahabaleswar,,45 ,Apollo Medical Centre,Koramangala 5 Block,Bangalore,700,75 
+1517,Dr. Rekha B Patil,,18 ,Fortis Hospital,Cunningham Road,Bangalore,700,100 
+1518,Dr. Preeti G Kale,,12 ,Trustwell Hospitals,Sampangiramnagar,Bangalore,800,100 
+1519,Dr. Ruchita Falera,,12 ,"Mirlay Eye Care, A Unit Of Dr. Agarwal's Eye Hospital Ltd",Shivaji Nagar,Bangalore,500,100 
+1521,Dr. Saumil Sheth,,23 ,Practo Care Surgeries,Jogeshwari West,Mumbai,499,97 
+1522,Dr. Sachin V Shah,,24 ,Practo Care Surgeries,Mulund East,Mumbai,799,80 
+1523,Dr. Bulchandani Santosh Kumar Kamal,,23 ,Practo Care Surgeries,Bandra West,Mumbai,299,100 
+1524,Dr. Pranay Kapadia,,24 ,Practo Care Surgeries,Bandra West,Mumbai,799,100 
+1525,Dr. Prachi Parmar,,13 ,Practo Care Surgeries,Ghatkopar,Mumbai,499,100 
+1526,Dr. Vishal Maniar,,17 ,Practo Care Surgeries,Dadar West,Mumbai,1000,100 
+1527,Dr. P Suresh,,35 ,Fortis Hospital,Mulund West,Mumbai,1200,100 
+1528,Dr. Girija Suresh,,24 ,Fortis Hospital,Mulund West,Mumbai,1200,100 
+1529,Dr. Rajesh Mishra,,17 ,R AND R EYE CARE HOSPITAL,Matunga East,Mumbai,1500,100 
+1530,Dr. Prathmesh Mehta,,16 ,Precision Eye Hospital,Andheri West,Mumbai,650,98 
+1532,Dr. J. Arun Kumar,,23 ,Practo Care Surgeries,Ashok Nagar,Chennai,500,80 
+1533,Dr. Shanmuga Priya,,13 ,Practo Care Surgeries,Ashok Nagar,Chennai,500,100 
+1534,Dr. P.Geetha,,29 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+1535,Dr. P. Kumaravel,,46 ,Kumaran Eye Care,West Mambalam,Chennai,500,100 
+1536,Dr. E Ravindra Mohan,,34 ,MGM Healthcare,Anna Nagar,Chennai,1200,100 
+1537,Dr. Sherren Raveendran,,19 ,Udhi Eye Hospitals,Alwarpet,Chennai,600,100 
+1538,Dr. Raveendran,,39 ,Udhi Eye Hospitals,Alwarpet,Chennai,600,100 
+1539,Dr. M. Chockalingam,,25 ,Apollo Hospital,Greams Road,Chennai,1000,100 
+1540,Dr. Allen S Raveendran,,9 ,Udhi Eye Hospital LLP,Velachery,Chennai,400,100 
+1541,Dr. Srikanth R,,17 ,Leela Eye Clinic,Thiruvanmiyur,Chennai,700,100 
+1543,Dr. Vimal Parmar,,20 ,Practo Care Surgeries,MG Road,Pune,499,97 
+1544,Dr. Jeevan Kale,,20 ,Practo Care Surgeries,Erandwane,Pune,500,100 
+1545,Dr. Akanksha Batra,,13 ,Practo Care Surgeries,Erandwane,Pune,500,100 
+1546,Dr. Anand Palimkar,,26 ,Dr Agarwals Eye Hospital,Viman Nagar,Pune,600,96 
+1547,Dr. Baban C Dolas,,26 ,Dr Agarwals Eye Hospital,Pimple Saudagar,Pune,500,85 
+1548,Dr. Pratibha Patil Chumbale,,18 ,Horizon Hospital,Kharadi,Pune,600,100 
+1549,Dr. Ashwini Mahajan,,10 ,Absolute Vision Eye Clinic,Kothrud,Pune,500,95 
+1550,Dr. Shilpa Patil,,20 ,Icon Clinic,Pimple Saudagar,Pune,400,98 
+1551,Dr. Vijay Parbatani,,23 ,Dr. Parbatani's Eye Laser Centre,Viman Nagar,Pune,500,95 
+1552,Dr. Aarati Desai,,18 ,Shriram Eye Care And Polyclinic,Erandwane,Pune,500,100 
+1554,Dr. Ankush Mutreja,,15 ,Practo Care Surgeries,Dwarka,Delhi,699,91 
+1555,Dr. Lagan Paul Mutreja,,13 ,Practo Care Surgeries,Dwarka,Delhi,500,100 
+1556,Dr. Rajat Jain,,16 ,Practo Care Surgeries,Delhi,Delhi,599,89 
+1557,Dr. Shweta Jain,,11 ,Practo Care Surgeries,Paschim Vihar,Delhi,499,98 
+1558,Dr. Robin Aggarwal,,13 ,Practo Care Surgeries,Panchsheel Park,Delhi,699,100 
+1559,Dr. Manik Mittal,,13 ,Practo Care Surgeries,Paschim Vihar,Delhi,699,98 
+1560,Dr. Saurabh Singh,,21 ,Practo Care Surgeries,Panchsheel Park,Delhi,699,80 
+1561,Dr. Rakesh Mahajan,,37 ,Practo Care Surgeries,Pitampura,Delhi,500,100 
+1562,Dr. Ashiwini Seth,,39 ,Apollo Spectra Hospitals,Karol Bagh,Delhi,750,25 
+1563,Dr. Lubat Seth,,37 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,2000,100 
+1565,Dr. Mohd Ilyas,,15 ,Practo Care Surgeries,Himayat Nagar,Hyderabad,499,91 
+1566,Dr. CH. Venkata Pavan Kumar,,18 ,Practo Care Surgeries,Kukatpally,Hyderabad,600,88 
+1567,Dr. Talluri Suresh Babu,,18 ,Practo Care Surgeries,Kukatpally,Hyderabad,500,98 
+1568,Dr. Yasaswini Hemaeshwara Raju,,13 ,Practo Care Surgeries,Kondapur,Hyderabad,499,91 
+1569,Dr. Rajeshwar Kamineni,,25 ,Practo Care Surgeries,Kukatpally,Hyderabad,600,100 
+1570,Dr. Kembavi Srinivas,,37 ,Dr Kembavi Srinivas's Mens Clinic,KPHB,Hyderabad,800,96 
+1571,Dr. Prashant Hegde,,22 ,Hegde Hospital,Madhapur,Hyderabad,750,96 
+1572,Dr. Ramesh Vasudevan,,25 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,95 
+1573,Dr. KVR Prasad,,35 ,Medicover Hospitals,Hitech City,Hyderabad,500,89 
+1574,Dr. Pinjala Ramakrishna,,40 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,89 
+1576,Dr. Venkataramana,,53 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,93 
+1577,Dr. Prof. Shiva Kumar,,22 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,74 
+1578,Dr. Parameshwara C M,,29 ,Smiles Institute of Gastroenterology,Mathikere - BEL,Bangalore,1000,97 
+1579,Dr. Gautham S L,,15 ,Practo Care Surgeries,Arekere,Bangalore,500,99 
+1580,Dr. Sujeev,,21 ,Smiles Institute of Gastroenterology,Mathikere - BEL,Bangalore,1000,75 
+1581,Dr. Yuvrajsingh,,22 ,Practo Care Surgeries,HAL 2nd Stage,Bangalore,950,100 
+1582,Dr. Priyanka Akhilesh Sali,,15 ,Practo Care Surgeries,Indiranagar,Bangalore,699,92 
+1583,Dr. Shiva Kumar,,15 ,Trust-In  Hospital,Ramamurthy Nagar,Bangalore,700,95 
+1584,Dr. Vikram Belliappa,,22 ,Vydehi Super Speciality Hospital(Mallya Hospital),Ashoknagar,Bangalore,800,100 
+1585,Dr. Nanda Rajaneesh,,28 ,Apollo Spectra Hospitals,Koramangala 5 Block,Bangalore,600,84 
+1587,Dr. Vishal Diddi,,17 ,Practo Care Surgeries,Andheri West,Mumbai,700,100 
+1588,Dr. Jeetendra Jadhav,,23 ,Practo Care Surgeries,Borivali West,Mumbai,799,93 
+1589,Dr. Shrikant Badwe,,45 ,BK Kidney and GI Centre,Goregaon West,Mumbai,1500,91 
+1590,Dr. Rajshree Murudkar,,26 ,Cloudnine Hospital,Malad West,Mumbai,1000,99 
+1591,Dr. Hemant A Patil,,22 ,Fortis Hospital,Mulund West,Mumbai,1300,100 
+1592,Dr. Pankaj Maheshwari N,,34 ,Fortis Hospital,Mulund West,Mumbai,2000,89 
+1593,Dr. Kiran Shah,,37 ,Apollo Spectra Hospitals,Tardeo,Mumbai,1500,33 
+1594,Dr. Gaurav Gupta,,20 ,Fortis Hospital,Mulund West,Mumbai,2000,100 
+1595,Dr. Jiten Chowdhry,,30 ,Ruby Hospital - Venture Of Arogyam Hospital,Bhandup West,Mumbai,1000,94 
+1596,Dr. Abhijit Joshi,,26 ,Dr L H Hiranandani Hospital,Powai,Mumbai,1100,100 
+1598,Dr. M.S.Kalyan Kumar,,15 ,Practo Care Surgeries,Adyar,Chennai,500,98 
+1599,Dr. Sujith Kumar,,22 ,Practo Care Surgeries,Chromepet,Chennai,700,88 
+1600,Dr. Kamal Raj,,20 ,Practo Care Surgeries,Anna Nagar,Chennai,499,96 
+1601,Dr. R Shanmugasundaram,,25 ,SS Urology Centre,Arumbakkam,Chennai,800,98 
+1602,Dr. T.S.Chandrasekar,,28 ,Sanjeevani Clinic,Perungudi,Chennai,700,94 
+1603,Dr. Deepak Subramanian,,20 ,Chennai Gastro Care,Alwarpet,Chennai,750,96 
+1604,Dr. Winston Noronha,,36 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+1605,Dr. A P Subash Kumar,,40 ,Apollo Spectra Hospital,Alwarpet,Chennai,1000,100 
+1606,Dr. Mahesh Sundaram,,25 ,Progress Speciality Clinic,Madipakkam,Chennai,500,97 
+1607,Dr. Amilthan,,14 ,Dr. Mehta's Hospitals,Chetpet,Chennai,500,98 
+1609,Dr. Avishkar Barase,,17 ,Practo Care Surgeries,Wakad,Pune,500,100 
+1610,Dr. Shashank Adgudwar,,10 ,Practo Care Surgeries,Baner,Pune,500,100 
+1611,Dr. Abhijit A Whatkar,,14 ,Practo Care Surgeries,Kharadi,Pune,700,99 
+1612,Dr. Kunal Oswal,,21 ,Paarasmani Hospital,Hadapsar,Pune,700,89 
+1613,Dr. Anand  V Ghiya,,27 ,Swastik Hospital & Clinic,Karve Nagar,Pune,400,91 
+1614,Dr. Mustafa  Shakir,,23 ,Safe Surgical Center,Undri,Pune,600,100 
+1615,Dr. Shrihari Dhorepatil,,42 ,Shree Hospital,Kharadi,Pune,600,77 
+1616,Dr. Sandeep Agarwal,,10 ,Atharv Hospital,Camp,Pune,650,64 
+1617,Dr. Ajay Devershi,,13 ,Solskin - Professional Dermacare and Surgicare,Kharadi,Pune,600,100 
+1618,Dr. Vinod Gore,,24 ,Sahyadri Hospital,Deccan Gymkhana,Pune,900,100 
+1620,Dr. Raj Kumar Singh,,10 ,Practo Care Surgeries,Green Park,Delhi,700,98 
+1621,Dr. Saurabh Kumar Goyal,,15 ,Practo Care Surgeries,Greater Kailash Part 2,Delhi,799,86 
+1622,Dr. Ashish Pitale,,32 ,Yogashish Clinic,Dwarka,Delhi,700,97 
+1623,Dr. Ranendra Chaudhry,,53 ,Doctors' Hub,Dwarka Sector 12,Delhi,800,100 
+1624,Dr. Saket Goel,,31 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,2000,98 
+1625,Dr. Saurabh Bansal,,17 ,The Clinics By Surgeons House,Green Park,Delhi,1000,100 
+1626,Dr. Amit Agarwal,,20 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1800,100 
+1627,Dr. Jotinder Khanna,,26 ,Apollo Spectra Hospital,Greater Kailash Part 1,Delhi,1000,100 
+1628,Dr. Pradeep Chowbey,,48 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,1200,88 
+1629,Dr. Sandeep Bhasin,,28 ,Care Well Medical Centre,CR Park,Delhi,1000,90 
+1632,Dr. Chetan Raj,Homoeopath,12 ,Dr. Chetan's Homeo Clinics,Begumpet,Hyderabad,51,97 
+1633,Dr. Namita Singh   (PhD),,32 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1700,100 
+1634,Mr. Srikanth Majjiga,,7 ,HTA Psychological Counseling Center,Quthbullapur,Hyderabad,2000,100 
+1635,Dr. Puli Vanaja Reddy,,19 ,Apollo Hospitals,Jubilee Hills,Hyderabad,2000,67 
+1636,Mr. B. Lakshman Sharma,,9 ,Dawn Org,Saroor Nagar,Hyderabad,2000,95 
+1637,Dr. Venkateshwar Rao Deshineni   (PhD),,21 ,Smart Minds Centre for Positive  Psychology,Nacharam,Hyderabad,2000,100 
+1638,Mr. Karthik Madugula,,6 ,Sakar Counselling Centre,Madhapur,Hyderabad,5000,98 
+1639,Dr. P. Madhurima Reddy (PhD)   (PhD),,20 ,La Winspire International Training & Solutions LLP,Kokapet,Hyderabad,2500,92 
+1640,Ms. Sneha Khelani,,6 ,Retrospect Counselling,Manikonda,Hyderabad,1500,100 
+1641,Ms. M B Vishnu Priya,,1 year experience,Hegde Hospital,Madhapur,Hyderabad,1000,100 
+1643,Ms. Nitu Tiwary,,13 ,Manipal Hospital Whitefield,Whitefield,Bangalore,1500,93 
+1644,Mr. C.R Satish Kumar,,9 ,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,2000,85 
+1645,Mr. Chetan Manjalekar,,7 ,Asvasana,Sarjapur Road,Bangalore,1200,97 
+1646,Ms. Sheetal N Chauhan,,4 ,Mindful TMS Neurocare,Sahakaranagar,Bangalore,1000,100 
+1647,Ms. Navya Sree Nambiar,,6 ,Mindful TMS Neurocare ,Whitefield,Bangalore,800,100 
+1648,Dr. Rachna Sharma   (PhD),,13 ,The Body Cliinic,Whitefield,Bangalore,2100,93 
+1649,Ms. Arunita Biswas,,15 ,Manipal Hospital Varthur Road,Whitefield,Bangalore,1700,73 
+1650,Ms. Sucheta Mishra,,6 ,Maarga,Yelahanka,Bangalore,1500,100 
+1651,Dr. Aarushi Dewan (Phd)   (PhD),,1 year experience,Maarga,Yelahanka,Bangalore,1500,67 
+1652,Mr. Sudarshan Hegde,,12 ,Manospandana,Banashankari 2nd Stage,Bangalore,1999,50 
+1654,Dr. Ketan Parmar,,35 ,Dr Ketan Parmar psychiatrist center,Borivali East,Mumbai,1200,77 
+1655,Dr. Naazneen Ladak,,17 ,BHN Elder Care,Andheri West,Mumbai,2000,91 
+1656,Ms. Kausar S,,25 ,Wellbeing Counselling services,Khar West,Mumbai,2500,88 
+1657,Ms. Riddhi Sagar,,10 ,Psychoknowmics Educational And Counseling Services,Vileparle West,Mumbai,1800,97 
+1658,Ms. Anushree Lokhande,,9 ,Evolving Together,Kemps Corner,Mumbai,2000,96 
+1659,Ms. Nipa Sanghavi,,13 ,Evolve - The Mind Center,Worli,Mumbai,2000,86 
+1660,Ms. Mithila Desai,,35 ,Dr Mithila Desai's Power Of Mind Clinic,Borivali West,Mumbai,2850,94 
+1661,Ms. Khushboo Jain,,8 ,Seabird Medicare,Andheri East,Mumbai,1800,100 
+1662,Dr. Shyam Mithiya,,16 ,Dr. Mithiya's Clinic,Ghatkopar West,Mumbai,1750,96 
+1663,Ms. Purvi Palvia,,6 ,Matunga Clinic & Hospital,Matunga,Mumbai,1500,94 
+1665,Dr. Hema Karthik   (PhD),,21 ,Nirnay Consulting Services,Anna Nagar,Chennai,1500,94 
+1666,Dr. Getsy Solomon   (PhD),,18 ,Jedidiah Counseling,Avadi,Chennai,1000,99 
+1667,Dr. Khushali Manikandan   (PhD),,17 ,Gee Ve Polyclinic,Adambakkam,Chennai,1000,89 
+1668,Mr. B. Elayaraja,,21 ,Kavithalayaa Counseling Centre,Ambattur,Chennai,2500,97 
+1669,Ms. Sangareswari,,5 ,Psychological Care,Tambaram West,Chennai,1200,100 
+1670,Mr. Rohit Ramachandran,,5 ,Retract Center,Adyar,Chennai,2000,100 
+1671,Mr. Saravanan,,15 ,Tranzend Clinic,Valasaravakkam,Chennai,2000,100 
+1672,Dr. Anju Soni   (PhD),,10 ,COOLWITS,Choolai,Chennai,1300,100 
+1673,Dr. D.Senthil Kumar,Homoeopath,23 ,Vivekanantha Homeo Clinic & Psychological Counseling Center,Velachery,Chennai,600,95 
+1674,Mr. Kumaran .K,,12 ,K Point,Ashok Nagar,Chennai,1000,100 
+1677,Ms. Vaishali Girme,,12 ,Sahyadri Hospital,Deccan Gymkhana,Pune,700,67 
+1678,Dr. Varsha Choudhari,,12 ,Awakened Living Counseling Center,Sinhagad Road,Pune,1500,91 
+1679,Dr. Trupti Siddhesh Gurav,,15 ,Dr. Trupti's Counselling Clinic,Pimpri-Chinchwad,Pune,650,93 
+1680,Mr. Sandip Shobha,,16 ,Neogenesis Indica,Pashan,Pune,2000,99 
+1681,Ms. Usha Gokhale,,23 ,Usha Gokhale Counselling Clinic,Ambegaon,Pune,1500,100 
+1682,Ms. Seema Jathar,,4 ,Sanwad Psychological Counselling Centre,Kothrud,Pune,1500,96 
+1683,Mr. Omkar Naik,,8 ,Cinq In,Baner Road,Pune,1500,100 
+1684,Dr. Poonam Solanki,Homoeopath,13 ,Deep Homoeopathic Clinic,Hadapsar,Pune,500,99 
+1685,Ms. Piyusha Pande,,4 ,Cinq In,Baner Road,Pune,1500,100 
+1686,Ms. Shamira Pujani,,18 ,Olive Health Center,Viman Nagar,Pune,2000,100 
+1689,Dr. Shailaja Pokhriyal   (PhD),,14 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1600,60 
+1690,Mr. Rajpal Kaushik,,19 ,Kaushik Clinic,Janakpuri,Delhi,1500,90 
+1691,Dr. (Prof) RK Suri,,39 ,Psychowellness Center,Dwarka,Delhi,4000,96 
+1692,Dr. Vikas Khanna,,22 ,Orange Pines Counseling & Hypnosis Center,Rajouri Garden,Delhi,1800,98 
+1693,Ms. Mala Vohra Khanna,,8 ,Raj Psychological Services,Shahdara,Delhi,1000,98 
+1694,Ms. Neha Gupta,,14 ,AntarMan Healthy mind,Vijaynagar,Delhi,1700,100 
+1695,Ms. Ashita Mahendru,,11 ,Mind Healing Clinic,Naraina,Delhi,3200,96 
+1696,Ms. Neelima Dhawan,,6 ,The Happy Tree - De-addiction And Mental Health Hospital,Vivek Vihar,Delhi,1000,100 
+1697,Dr. Abha Arora,,43 ,Prakashwati   Clinic,Mayur Vihar Ph-III,Delhi,1100,82 
+1698,Ms. Aishwarya Kumar,,3 ,Mind Vriksha,CR Park,Delhi,2000,100 
+1701,Dr. R. Balaji,,34 ,Medicover Hospitals,Hitech City,Hyderabad,700,97 
+1702,Dr. Nithin Annarapu,,17 ,Medicover Hospitals,Hitech City,Hyderabad,500,98 
+1703,Dr. Panduranga,,14 ,Shri Siddhi Vinayaka Super Speciality Heart Care Centre,Sun city,Hyderabad,600,99 
+1704,Dr. Lanka Krishna,,42 ,Aster Prime Hospital,Ameerpet,Hyderabad,900,94 
+1705,Dr. Ravi Kumar Aluri,,25 ,Sreya Cardiology Clinics,Banjara Hills,Hyderabad,750,100 
+1706,Dr. Meeraji Rao D,,32 ,Continental Hospitals,Gachibowli,Hyderabad,900,92 
+1707,Dr. K.M.K Reddy P,,25 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,81 
+1708,Dr. K. Sarat Chandra,,41 ,Tx Hospitals,Banjara Hills,Hyderabad,600,91 
+1709,Dr. Sunil Kapoor,,41 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,71 
+1710,Dr. Karunakar Rapolu,,16 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,33 
+1712,Dr. Srinivas V K,,39 ,Vydehi Super Speciality Hospital(Mallya Hospital),Ashoknagar,Bangalore,800,100 
+1713,Dr. Durga Prasad Reddy,,26 ,Vydehi Super Speciality Hospital(Mallya Hospital),Ashoknagar,Bangalore,800,100 
+1714,Dr. Shivanand S Patil,,24 ,Fortis Hospital,Bannerghatta Road,Bangalore,900,95 
+1715,Dr. Sandesh Prabhu,,18 ,Asian Health Clinic,B Narayanapura,Bangalore,650,99 
+1716,Dr. Pradeep Haranahalli,,21 ,Manipal Hospital Whitefield,Whitefield,Bangalore,700,98 
+1717,Dr. Prabhakar C Koregol,,24 ,Bengaluru Superspeciality Clinics,Malleswaram,Bangalore,700,97 
+1718,Dr. B. Ramesh,,37 ,Apollo Hospital,Bannerghatta Road,Bangalore,1000,98 
+1719,Dr. Ramnaresh Soudri,,6 ,Apollo Clinic,HSR Layout,Bangalore,800,97 
+1720,Dr. Nataraja Setty,,20 ,Sapphire Heart Care Clinic,JP Nagar 6 Phase,Bangalore,700,99 
+1721,Dr. Sreekanth B. Shetty,,26 ,Svasti Heart and Dental Care,HSR Layout,Bangalore,750,97 
+1723,Dr. Surinder Hansra,,24 ,Dr. Hansra's Clinic,Kandivali East,Mumbai,1000,95 
+1724,Dr. Ashish Agrawal,,20 ,The Heart Clinic,Mulund West,Mumbai,1500,98 
+1725,Dr. Patil Amit,,12 ,Apollo Spectra Hospitals,Chembur,Mumbai,1500,88 
+1726,Dr. Anup Taksande,,20 ,Wockhardt Hospitals,Mira Road,Mumbai,750,100 
+1727,Dr. C. B. Munjewar,,17 ,FirstHeart Cardiac Super Speciality Centre,Ghatkopar,Mumbai,1500,98 
+1728,Dr. Suresh Vijan,,32 ,Fortis Hospital,Mulund West,Mumbai,1500,60 
+1729,Dr. Hasmukh Ravat,,41 ,Fortis Hospital,Mulund West,Mumbai,1500,75 
+1730,Dr. Irfan Khan,,20 ,Dr L H Hiranandani Hospital,Powai,Mumbai,2600,100 
+1731,Dr. Harin Vyas,,17 ,Fortis Hospital,Mulund West,Mumbai,2000,100 
+1732,Dr. Atul Limaye,,22 ,Fortis Hospital,Mulund West,Mumbai,1500,80 
+1735,Dr. Harikrishnan Parthasarathy,,27 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,99 
+1736,Dr. Bharath Kumar. G,,17 ,Gleneagles Global Health City,Perumbakkam,Chennai,1000,80 
+1737,Dr. G. Manohar,,34 ,Fortis Malar Hospital,Adyar,Chennai,500,100 
+1738,Dr. B. Madan Mohan,,30 ,MGM Healthcare,Anna Nagar,Chennai,1200,95 
+1739,Dr. Asha Mahilmaran,,33 ,Apollo Hospital,Greams Road,Chennai,800,100 
+1740,Dr. Madhu Prabhu Doss,,23 ,Apollo Speciality Hospitals O M R,OMR Road,Chennai,700,100 
+1741,Dr. Sandhya S,,14 ,Dr Sandhya Heart & Diabetes Clinic,Anna Nagar,Chennai,500,100 
+1742,Dr. Ravi Kumar,,34 ,MGM Healthcare,Anna Nagar,Chennai,1200,100 
+1743,Dr. I Sathyamurthy,,51 ,Apollo Spectra Hospital,Alwarpet,Chennai,1000,88 
+1744,Dr. Deepesh Venkatraman,,16 ,Apollo Hospital,Greams Road,Chennai,1000,100 
+1747,Dr. Abhijeet Palshikar,,26 ,Sahyadri Hospital,Deccan Gymkhana,Pune,750,77 
+1748,Dr. Sandeep J Kadam,,16 ,Dr Kadam Heart Clinic and Diagnostic Centre,Baner,Pune,900,96 
+1749,Dr. Abhijeet Joshi,,33 ,Joshi Polyclinic Heart Care & Shruti Pathology Lab,Shivajinagar,Pune,1000,99 
+1750,Dr. Priya Palimkar,,26 ,Sahyadri Hospital,Nagar Road,Pune,1000,94 
+1751,Dr. Manohar Sakhare,,26 ,Yashica Heart Care Centre,Viman Nagar,Pune,1000,96 
+1752,Dr. Suryawanshi Satyajeet,,20 ,The Heart Clinic,Aundh,Pune,700,97 
+1753,Dr. Kanhaiya Jeswani,,26 ,Divine Care Multispeciality Clinic,Hadapsar,Pune,600,100 
+1754,Dr. Abhay Khode,,28 ,Cardio Vision Heart Specialty Clinic,Baner,Pune,800,97 
+1755,Dr. Kartik Bhosale,,10 ,Dr Kartik Bhosale's Cardiology Clinic,Wakad,Pune,800,100 
+1756,Dr. Bhushan Bari,,20 ,Apollo Clinic,Wanowrie,Pune,800,100 
+1758,Dr. Ashish Agarwal,,19 ,Healthy Hearts Clinic,Dwarka,Delhi,800,98 
+1759,Dr. Rajesh Madan,,18 ,Aanya Skin Care Cosmetic and Cardio Diabetic Centre,Dwarka,Delhi,700,88 
+1760,Dr. Umesh Gupta,,52 ,MP Heart Clinic,Greater Kailash Part 1,Delhi,2000,100 
+1761,Dr. Nishith Chandra,,29 ,Fortis Escorts and Heart Institute,Okhla,Delhi,2000,98 
+1762,Dr. Aparna Jaswal,,28 ,Fortis Escorts and Heart Institute,Okhla,Delhi,2000,98 
+1763,Dr. Naveen Bhamri,,24 ,Max Super Speciality Hospital,Shalimar Bagh,Delhi,1500,97 
+1764,Dr. Nityanand Tripathi,,31 ,Fortis Hospital,Shalimar Bagh,Delhi,1500,87 
+1765,Dr. Sameer Shrivastava,,37 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,2000,93 
+1766,Dr. Pradeep Jain,,40 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,2000,100 
+1767,Dr. Rajeev Rathi,,37 ,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,1200,86 
+1770,Dr. Satish Erra,Homoeopath,14 ,Dr. Satish Erra's Homeopathy Clinic,Dilsukhnagar,Hyderabad,500,98 
+1771,Dr. G L Sitara,Dermatologist,13 ,Dr Sitara Advanced Skin And Hair Clinic,Madinaguda,Hyderabad,500,97 
+1772,Dr. Saguna Puttoo,,20 ,Oliva Skin & Hair Clinic,Jubilee Hills,Hyderabad,600,94 
+1773,Dr. Ravindranath Reddy V,,35 ,Clinic 2000,Himayat Nagar,Hyderabad,500,94 
+1774,Dr. Neena Kondapally,,15 ,Avah Skin Hair Aesthetics,Gachibowli,Hyderabad,800,88 
+1775,Dr. Brahmananda Reddy,Dermatologist,11 ,Vernon Skin Laser Slimming Hair Clinic,Banjara Hills,Hyderabad,800,94 
+1776,Dr. Y Nikhil Kumar Reddy,,12 ,IRA Clinic,Suchitra Circle,Hyderabad,500,93 
+1777,Dr. Spoorthy Nagineni,Dermatologist,10 ,Ambrosia Clinic,Banjara Hills,Hyderabad,700,99 
+1778,Dr. Alekya Singapore,Dermatologist,10 ,The Skin Sense - Dr. Alekya,Banjara Hills,Hyderabad,1200,88 
+1779,Dr. Sirisha Yanegalla,Dermatologist,13 ,Derma 360,Kondapur,Hyderabad,600,96 
+1782,Dr. Naveen Kumar,,19 ,BGS Gleneagles Global Hospital,Kengeri,Bangalore,700,99 
+1783,Dr. Kisalay Saurav,,20 ,Manipal Hospital,Hebbal,Bangalore,1090,93 
+1784,Dr. Radhika S R,,8 ,Skin Xperts Super Speciality Skin Hair and Laser Clinics,Mahalakshmi Layout,Bangalore,600,96 
+1785,Dr. Rajdeep,,14 ,Chirag Hospital,JP Nagar 2 Phase,Bangalore,750,96 
+1786,Dr. Phanindra V V,Ayurveda,15 ,Narayana Ayurveda Kuteeram,Banashankari,Bangalore,400,99 
+1787,Dr. Parthasarathi Dutta Roy,,20 ,Dr. Partha Sarathi's Asian Hair And Skin Hospitals,MG Road,Bangalore,700,89 
+1788,Dr. Jaya Sharma,Dermatologist,21 ,Specialist Hospital,Kalyan Nagar,Bangalore,650,89 
+1789,Dr. Bhavyashree U G,Dermatologist,12 ,Specialist Hospital,Kalyan Nagar,Bangalore,650,86 
+1790,Dr. Amrutha,,14 ,Skin Revitalize ,Vijayanagar,Bangalore,1000,70 
+1791,Dr. Nithya Raghunath,,14 ,Contura Clinic,Kalyan Nagar,Bangalore,700,96 
+1794,Dr. Sonia Tekchandani,,37 ,Tender Skin International,Malad West,Mumbai,2000,93 
+1795,Dr. Mohd Asif,,11 ,Cara Hair Transplant and Aesthetic Center,Santacruz West,Mumbai,1000,100 
+1796,Dr. Ujjvala Jadhav,,24 ,The Skin Clinic,Goregaon East,Mumbai,1000,93 
+1797,Dr. Neha V Shah,,14 ,Skin Vogue Clinic,Ghatkopar East,Mumbai,1000,99 
+1798,Dr. Sujit Shanshanwal,Dermatologist,14 ,SkinAmour Clinic,Santacruz West,Mumbai,1000,99 
+1799,Dr. Prachi Saraogi,Dermatologist,15 ,Saraogi Healthcare,Malad East,Mumbai,900,99 
+1800,Dr. Sejal Saheta,,19 ,Inurskn - Skin & Hair Clinic,Powai,Mumbai,1000,95 
+1801,Dr. Mithali Jage,Dermatologist,9 ,SkinAmour Clinic,Sion,Mumbai,1000,98 
+1802,Dr. Niketa Sonavane,Dermatologist,18 ,Ambrosia Aesthetics,Andheri West,Mumbai,3000,93 
+1803,Dr. Priyanka Ghuge Avhad,,13 ,Surana Sethia Hospital and Research Center,Chembur,Mumbai,1000,95 
+1806,Dr. Ganga Ravikumar,,33 ,Dermis Skin & Hair Clinic,Adyar,Chennai,700,96 
+1807,Dr. Meenakshi M,,11 ,Oliva Skin And Hair Clinic,Alwarpet,Chennai,600,99 
+1808,Dr. Sindhura Mandava,,13 ,AESTIQ Skin Laser and spine Clinic,T Nagar,Chennai,500,89 
+1809,Dr. Suryaprabha P,,10 ,Oliva Skin & Hair Clinic,Adyar,Chennai,600,100 
+1810,Dr. Bhuvanashree N,,9 ,BUVIIS DERMAGICALZ,Adyar,Chennai,700,100 
+1811,Dr. Jyothsna,Dermatologist,12 ,"Curves Cosmetic Surgery, Skin & Laser Clinic",Saligramam,Chennai,700,96 
+1812,Dr. Monisha,,10 ,"Armoraa Skin, Hair And Laser Clinic",Alwarpet,Chennai,700,99 
+1813,Dr. Nivedita Raveendran,,9 ,Dr. Nivedita Skin and Hair Clinic,Adyar,Chennai,600,97 
+1814,Dr. Snehalatha,Dermatologist,18 ,Nila Skin Care Clinic,Tambaram East,Chennai,750,92 
+1815,Dr. B.Sindhu Raaghavi,,13 ,Carves Skin Clinic,Velachery,Chennai,700,98 
+1818,Dr. Swapna Athavale,,19 ,Practo Care Surgeries,Baner,Pune,999,100 
+1819,Dr. Vasant Gholave,,23 ,Practo Care Surgeries,JM Road,Pune,800,98 
+1820,Dr. Vaseem Choudhary,,14 ,Homeo Care Clinic,Hadapsar,Pune,300,93 
+1821,Dr. Pradeep Kumari,,20 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Viman Nagar,Pune,700,96 
+1822,Dr. Ravi Kothari,,20 , Sparsh Skin Hair Laser Clinic,Aundh,Pune,500,86 
+1823,Dr. Sushil Chaudhary,,13 ,Skinovate Laser & Cosmetic Surgery Center LLP,Pimple Saudagar,Pune,600,92 
+1824,Dr. Pooja Tilwani,Dermatologist,14 ,The Skin Doctors,Pimple Saudagar,Pune,700,94 
+1825,Dr. Rohan Anand,,11 ,Skin World Clinic,Koregaon Park,Pune,500,91 
+1826,Dr. Poonam Patil,Dermatologist,11 ,Dermaspace Skin Hair & Laser Clinic,Koregaon Park,Pune,600,93 
+1827,Dr. Shuhaib MP,Dermatologist,13 ,Milagro Med,Baner,Pune,500,98 
+1829,Dr. Deepti  Shrivastava,,28 ,Skin Hair & You,Anand Vihar,Delhi,800,95 
+1830,Dr. Jalpa Jani,,21 ,Klarity Skin Clinic,Greater Kailash Part 2,Delhi,1000,96 
+1831,Dr. Sandeep Gupta,,19 ,Balaji Skin Clinic,Hari Nagar,Delhi,700,95 
+1832,Dr. Anuj Saigal,,15 ,MedRootz Clinics,Green Park,Delhi,1000,97 
+1833,Dr. Syed Nazim Hussain,Dermatologist,18 ,Royal Lush Skin Hair & Laser Clinic,Saket,Delhi,1500,86 
+1834,Dr. Aamir Siddiqui,,15 ,Dr. Siddiqui's Skin Clinic,New Friends Colony,Delhi,2000,96 
+1835,Dr. Bhavna Mangla,,21 ,Skin Mantraa,Pitampura,Delhi,1000,99 
+1836,Dr. Jai Dhingra,Dermatologist,12 ,D'Care Skin & Dental Centre,Pitampura,Delhi,600,99 
+1837,Dr. Lipy Gupta,Dermatologist,18 ,Green Park Family Medicine Clinic,Green Park,Delhi,800,96 
+1838,Dr. Prateek Sondhi,Dermatologist,13 ,Derma Circles: Doctors from AIIMS,South Extension 2,Delhi,1200,97 
+1841,Dr. Venu Kumari,Dermatologist,18 ,Dr. Venus Insititue of Skin & Hair,Chanda Nagar,Hyderabad,500,86 
+1842,Dr. G L Sitara,Dermatologist,13 ,Dr Sitara Advanced Skin And Hair Clinic,Madinaguda,Hyderabad,500,97 
+1843,Dr. Saguna Puttoo,Dermatologist,20 ,Oliva Skin & Hair Clinic,Jubilee Hills,Hyderabad,600,94 
+1844,Dr. Meghana,Dermatologist,20 ,Oliva Skin & Hair Clinic,Banjara Hills,Hyderabad,600,99 
+1845,Dr. Lavanya Dudi,Dermatologist,16 ,Oliva Skin and Hair Clinic,Gachibowli,Hyderabad,600,92 
+1846,Dr. Spoorthy Nagineni,Dermatologist,10 ,Ambrosia Clinic,Banjara Hills,Hyderabad,700,99 
+1847,Dr. Shalini Patodiya,Dermatologist,16 ,Amber Skin & Hair Clinics,Nallagandla,Hyderabad,800,87 
+1848,Dr. U Brahmaiah,Dermatologist,10 ,Oliva Skin & Hair Clinic,Secunderabad,Hyderabad,600,100 
+1849,Dr. B. Ashwini,Dermatologist,9 ,Oliva Skin & Hair Clinic,KPHB,Hyderabad,600,100 
+1850,Dr. Divya Venkumahanty Suma,Dermatologist,12 ,Oliva Skin & Hair Clinic,Secunderabad,Hyderabad,600,100 
+1853,Dr. Parthasarathi Dutta Roy,Dermatologist,20 ,Dr. Partha Sarathi's Asian Hair And Skin Hospitals,MG Road,Bangalore,700,89 
+1854,Dr. Sheelavathi Natraj,Dermatologist,19 ,Sapphire Skin and Aesthetics Clinic,JP Nagar,Bangalore,700,94 
+1855,Dr. Praveen Bhardwaj,Dermatologist,13 ,Manipal Hospital Whitefield,Whitefield,Bangalore,600,94 
+1856,Dr. Nithya Raghunath,Dermatologist,14 ,Contura Clinic,Kalyan Nagar,Bangalore,700,96 
+1857,Dr. Janet Alexander Castelino,Dermatologist,30 ,DermaZeal Clinic,HSR Layout,Bangalore,2000,92 
+1858,Dr. Kavya Nayak,Dermatologist,15 ,Skinray Skin Hair & Laser Clinic,Sarjapur Road,Bangalore,700,96 
+1859,Dr. Shiny T.N,Dermatologist,14 ,IDHA Skin Clinic,Jayanagar,Bangalore,750,91 
+1860,Dr. Veena Rao,Dermatologist,24 ,Oliva Skin And Hair Clinic,Jayanagar 5 Block,Bangalore,600,96 
+1861,Dr. Hema S,Dermatologist,13 ,Oliva Skin & Hair Clinic,Sadashivanagar,Bangalore,600,98 
+1862,Dr. Shruthi M K,Dermatologist,14 ,Oliva Skin And Hair Clinic,Jayanagar 5 Block,Bangalore,600,98 
+1865,Dr. Deepam J. Shah,Dermatologist,13 ,Viva Aesthetic Clinic,Opera House,Mumbai,1500,96 
+1866,Dr. Pratik Thacker,Dermatologist,13 ,CODE by Dr. Pratik Thacker,Borivali West,Mumbai,800,94 
+1867,Dr. Pallavi Sule,Dermatologist,13 ,Dr. Pallavi Sule's Skin Hair Aesthetics Clinic,Powai,Mumbai,1000,95 
+1868,Dr. Kiran Katkar,Dermatologist,38 ,Dr Kiran Katkar's Dermis Skin Wellness Clinic Lase,Dadar West,Mumbai,1200,93 
+1869,Dr. Sonia Tekchandani,Dermatologist,37 ,Tender Skin International,Malad West,Mumbai,2000,93 
+1870,Dr. Vikas Halwai,Dermatologist,14 ,Derma Dent Aesthetic clinic,Chinchpokli,Mumbai,800,91 
+1871,Dr. Mohd Asif,Dermatologist,11 ,Cara Hair Transplant and Aesthetic Center,Santacruz West,Mumbai,1000,100 
+1872,Dr. Minal M Thamke Pawar,Dermatologist,17 ,Wellness Clinic,Mulund East,Mumbai,800,99 
+1873,Dr. Ujjvala Jadhav,Dermatologist,24 ,The Skin Clinic,Goregaon East,Mumbai,1000,93 
+1874,Dr. Kaleem Khan,Dermatologist,14 ,Surya Hospitals,Santacruz West,Mumbai,1500,97 
+1877,Dr. Lakshmi Durga M,Dermatologist,18 ,Oliva Skin & Hair Clinic,Anna Nagar,Chennai,600,99 
+1878,Dr. Meenakshi M,Dermatologist,11 ,Oliva Skin And Hair Clinic,Alwarpet,Chennai,600,99 
+1879,Dr. Hari Priya A,Dermatologist,7 ,Oliva Skin & Hair Clinic,Anna Nagar,Chennai,600,100 
+1880,Dr. Azra Fatima N,Dermatologist,11 ,Oliva Skin & Hair Clinic,Adyar,Chennai,600,99 
+1881,Dr. Suryaprabha P,Dermatologist,10 ,Oliva Skin & Hair Clinic,Adyar,Chennai,600,100 
+1882,Dr. Lakshmi M,Dermatologist,19 ,Oliva Skin & Hair Clinic,Anna Nagar,Chennai,600,98 
+1883,Dr. Nivethitha S,Dermatologist,7 ,Oliva Skin And Hair Clinic,Alwarpet,Chennai,600,99 
+1884,Dr. Sukanya Mathupal,Dermatologist,23 ,Dr. Rela Institute & Medical Centre,Chromepet,Chennai,600,94 
+1885,Dr. Jyothsna,Dermatologist,12 ,"Curves Cosmetic Surgery, Skin & Laser Clinic",Saligramam,Chennai,700,96 
+1886,Dr. Nivedita Raveendran,Dermatologist,9 ,Dr. Nivedita Skin and Hair Clinic,Adyar,Chennai,600,97 
+1889,Dr. Nitin Jain,Dermatologist,21 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Kothrud,Pune,700,97 
+1890,Dr. Pradeep Kumari,Dermatologist,20 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Viman Nagar,Pune,700,96 
+1891,Dr. Mohan Darbastwar,Dermatologist,16 ,The Skin Hair Laser & Cosmetology Clinic,Koregaon Park,Pune,600,97 
+1892,Dr. Pooja Tilwani,Dermatologist,14 ,The Skin Doctors,Pimple Saudagar,Pune,700,94 
+1893,Dr. Hetal Jobanputra,Dermatologist,18 ,Radiant Skin and Hair Clinic,Baner,Pune,600,97 
+1894,Dr. Renuka Vinod Nalawade,Dermatologist,10 ,Reeva Skin Clinic,Kothrud,Pune,600,100 
+1895,Dr. Madhavi Krishnarao Salunkhe,Dermatologist,21 ,Oliva Skin and Hair Clinic,Shivajinagar,Pune,600,100 
+1896,Dr. Amrin Jibrail Diwan,Dermatologist,11 ,Oliva Skin and Hair Clinic,Kalyani Nagar,Pune,600,96 
+1897,Dr. Karuna Soni,Dermatologist,17 ,Allure Aesthetics Clinic,Baner,Pune,600,98 
+1898,Dr. Vanishree S. V,Dermatologist,14 ,Skinarina,Nigdi,Pune,700,83 
+1900,Dr. Shruti Gupta,Dermatologist,13 ,SKINOS,Kamla Nagar,Delhi,1000,99 
+1901,Dr. Syed Nazim Hussain,Dermatologist,18 ,Royal Lush Skin Hair & Laser Clinic,Saket,Delhi,1500,86 
+1902,Dr. Navnit Haror,Dermatologist,10 ,Derma Miracle Skin And Hair Transplant Clinic,Greater Kailash Part 1,Delhi,1000,90 
+1903,Dr. Sonia Mangal,Dermatologist,14 ,MYRA Skin & Hair Solutions,Panchsheel Park,Delhi,1500,96 
+1904,Dr. Lipy Gupta,Dermatologist,18 ,Green Park Family Medicine Clinic,Green Park,Delhi,800,96 
+1905,Dr. Tapesh Sharma,Dermatologist,25 ,Twacha Skin Clinic,Dwarka,Delhi,1500,97 
+1906,Dr. Vijay Singhal,Dermatologist,18 ,Zenith Skin Hair & Dental Centre,Punjabi Bagh,Delhi,800,94 
+1907,Dr. Hemant Sharma,Dermatologist,48 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1500,95 
+1908,Dr. Pallav S Kishanpuria,Dermatologist,19 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1100,95 
+1909,Dr. Tanvi Pal,Dermatologist,19 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1500,97 
+1911,Dr. Harikiran Chekuri,,17 ,Practo Care Surgeries,Gachibowli,Hyderabad,699,97 
+1912,Dr. Anurag Chitranshi,,13 ,Practo Care Surgeries,Kukatpally,Hyderabad,499,100 
+1913,Dr. Beena Valandi,,13 ,Practo Care Surgeries,SR Nagar,Hyderabad,699,100 
+1914,Dr. Veena Priya D,,8 ,Practo Care Surgeries,Banjara Hills,Hyderabad,699,100 
+1915,Dr. Venu Kumari,Dermatologist,18 ,Dr. Venus Insititue of Skin & Hair,Chanda Nagar,Hyderabad,500,86 
+1916,Dr. K Swaroopa,Dermatologist,22 ,Ritu's Advanced Skin Care,Gachibowli,Hyderabad,500,86 
+1917,Dr. Ridhima Yadava,,12 ,Oliva Skin & Hair Clinic,Banjara Hills,Hyderabad,600,100 
+1918,Dr. Pilli  Manasa Veena,,11 ,Oliva Skin and Hair Clinic,Himayat Nagar,Hyderabad,600,93 
+1919,Dr. Srushanth Mukka,Dermatologist,11 ,Euderm Skin and Hair Clinic,Kokapet,Hyderabad,600,100 
+1920,Dr. Veman Enthangi,,18 ,Ellora Skin & Cosmetology Clinic,Kondapur,Hyderabad,600,96 
+1922,Dr. K. Prapanna Arya,,19 ,Dental De Care,Domlur,Bangalore,500,100 
+1923,Dr. Kiran Petkar,,21 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,97 
+1924,Dr. Suhas S,,13 ,Life Is Beautiful Clinic,Basavanagudi,Bangalore,700,100 
+1925,Dr. Naveen Kumar,,19 ,BGS Gleneagles Global Hospital,Kengeri,Bangalore,700,99 
+1926,Dr. Deepak Devakar,,19 ,Dermasculpt Hair Transplant and Skin Clinic,JP Nagar,Bangalore,600,98 
+1927,Dr. Idris Md,,14 ,CLINIQUE - Internationale,Jayanagar,Bangalore,500,99 
+1928,Dr. K C Dharam Kumar,,9 ,Epiderma Skin and Hair Clinic,JP Nagar,Bangalore,750,99 
+1929,Dr. Kisalay Saurav,,20 ,Manipal Hospital,Hebbal,Bangalore,1090,93 
+1930,Dr. Parthasarathi Dutta Roy,,20 ,Dr. Partha Sarathi's Asian Hair And Skin Hospitals,MG Road,Bangalore,700,89 
+1931,Dr. Sandeep Mahapatra,,18 ,Neo Follicle Transplant Clinic,Marathahalli,Bangalore,800,90 
+1934,Dr. Vicky Jain,,17 ,Practo Care Surgeries,Borivali West,Mumbai,999,99 
+1935,Dr. Kiran Katkar,,38 ,Dr Kiran Katkar's Dermis Skin Wellness Clinic Lase,Dadar West,Mumbai,1200,93 
+1936,Dr. Vikas Halwai,,14 ,Derma Dent Aesthetic clinic,Chinchpokli,Mumbai,800,91 
+1937,Dr. Mohd Asif,,11 ,Cara Hair Transplant and Aesthetic Center,Santacruz West,Mumbai,1000,100 
+1938,Dr. Angad Shetye,,13 ,The Smile Hub Dental Orthodontic  And Maxillofacial Clinic,Kandivali West,Mumbai,500,100 
+1939,Dr. Sujit Shanshanwal,Dermatologist,14 ,SkinAmour Clinic,Santacruz West,Mumbai,1000,99 
+1940,Dr. Haresh  Timbadia,Dermatologist,42 ,Bienaura Clinic,Borivali West,Mumbai,1200,95 
+1941,Dr. Sumit Agrawal,,22 ,Harleys Cosmetic & Women Clinic,Andheri West,Mumbai,1500,98 
+1942,Dr. Raina Nahar,,15 ,Kaizen Skin Clinic,Andheri West,Mumbai,1000,92 
+1943,Dr. Suraj Shetty,Dermatologist,14 ,Tvaksh Advanced Skin And Hair Clinic,Andheri West,Mumbai,900,98 
+1945,Dr. Charan J C,,14 ,Practo Care Surgeries,Anna Nagar,Chennai,499,100 
+1946,Dr. K A Balasundaram,,18 ,Practo Care Surgeries,Velachery,Chennai,500,100 
+1947,Dr. Ariganesh,,16 ,Derma Clinix,Mylapore,Chennai,500,89 
+1948,Dr. Lakshmi Durga M,,18 ,Oliva Skin & Hair Clinic,Anna Nagar,Chennai,600,99 
+1949,Dr. Azra Fatima N,,11 ,Oliva Skin & Hair Clinic,Adyar,Chennai,600,99 
+1950,Dr. Sasikumar Muthu,,22 ,Pearl Health,Alwarpet,Chennai,1000,99 
+1951,Dr. Sindhura Mandava,,13 ,AESTIQ Skin Laser and spine Clinic,T Nagar,Chennai,500,89 
+1952,Dr. Rajeshwari,,20 ,Dr.Rajeshwari's Skin & Hair Care Private Limited,T Nagar,Chennai,750,83 
+1953,Dr. R. Sowmiya,,21 ,Dr. Vijay's Hospital,Mogappair East,Chennai,300,97 
+1954,Dr. Nidhi Singh,,18 ,Gleneagles Global Health City,Perumbakkam,Chennai,800,100 
+1957,Dr. Swapna Athavale,,19 ,Practo Care Surgeries,Baner,Pune,999,100 
+1958,Dr. Vasant Gholave,,23 ,Practo Care Surgeries,JM Road,Pune,800,98 
+1959,Dr. Sonal Chavan,Dermatologist,17 ,Dr. Sonnal Chavaan Aesthetic Clinic,Pimple Saudagar,Pune,700,90 
+1960,Dr. L K Desai,,28 ,"Dr. Desai Dermacare- Skin, Hair & Laser Clinic",Sopan Baug,Pune,500,94 
+1961,Dr. Hitesh Laad,,23 ,Authentic Hair Transplant and Cosmetic Centre,Baner,Pune,600,96 
+1962,Dr. Bhushan Patil,,16 ,Miracle Touch Cosmetic Surgery & Laser Clinic,Pimple Saudagar,Pune,800,97 
+1963,Dr. Nitin Jain,,21 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Kothrud,Pune,700,97 
+1964,Dr. Ajinkya S. Patil,,8 ,Clinique Internationale,Baner,Pune,400,100 
+1965,Dr. Pallavi Ahire Shelke,,16 ,SkinEthics Skin Clinic & Dermatosurgery Center,Baner,Pune,600,97 
+1966,Dr. Pradeep Kumari,,20 ,Skin And Surgery International & Asia Institute Of Hair Transplant,Viman Nagar,Pune,700,96 
+1969,Dr. Tapeshwar Sehgal,,25 ,Practo Care Surgeries,Janakpuri,Delhi,699,75 
+1970,Dr. Ashutosh Mishra,,23 ,Practo Care Surgeries,Greater Kailash Part 1,Delhi,999,83 
+1971,Dr. Lokesh Handa,,13 ,Practo Care Surgeries,Greater Kailash Part 1,Delhi,699,90 
+1972,Dr. Vijay Singhal,,18 ,Zenith Skin Hair & Dental Centre,Punjabi Bagh,Delhi,800,94 
+1973,Dr. Arihant Surana,Dermatologist,23 ,Monaris Skin and Hair Clinic,Defence Colony,Delhi,1000,96 
+1974,Dr. Anuj Saigal,,15 ,MedRootz Clinics,Green Park,Delhi,1000,98 
+1975,Dr. Navnit Haror,Dermatologist,10 ,Derma Miracle Skin And Hair Transplant Clinic,Greater Kailash Part 1,Delhi,1000,90 
+1976,Dr. Aamir Siddiqui,,15 ,Dr. Siddiqui's Skin Clinic,New Friends Colony,Delhi,2000,96 
+1977,Dr. Sonia Mangal,,14 ,MYRA Skin & Hair Solutions,Panchsheel Park,Delhi,1500,96 
+1978,Dr. Lipy Gupta,Dermatologist,18 ,Green Park Family Medicine Clinic,Green Park,Delhi,800,96 
+1980,Dr. Harikiran Chekuri,,17 ,Practo Care Surgeries,Gachibowli,Hyderabad,699,97 
+1981,Dr. Beena Valandi,,13 ,Practo Care Surgeries,SR Nagar,Hyderabad,699,100 
+1982,Dr. Vemuru sudhakar Prasad,,42 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1500,64 
+1983,Dr. V.K.Srinagesh,,37 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,71 
+1984,Dr. Venu Kumari,Dermatologist,18 ,Dr. Venus Insititue of Skin & Hair,Chanda Nagar,Hyderabad,500,86 
+1985,Dr. Guru Karna Vemula,,20 ,Personiks,Manikonda,Hyderabad,1000,100 
+1986,Dr. Saguna Puttoo,,20 ,Dr. Saguna's Premier Dermatology Clinic,Kukatpally,Hyderabad,600,94 
+1987,Dr. Shridharan,,23 ,Apollo Hospital,Hyderguda,Hyderabad,1000,94 
+1988,Dr. Madhavi Pudi,Dermatologist,16 ,Dr. Madhavis Advanced Skin Hair and Laser Clinic,Balkampet,Hyderabad,800,91 
+1989,Dr. Ravichander Rao A,,18 ,Hair Sure Hair Transplant Centre,Habsiguda,Hyderabad,600,100 
+1991,Dr. Naveen Kumar,,19 ,BGS Gleneagles Global Hospital,Kengeri,Bangalore,700,99 
+1992,Dr. Deepak Devakar,Dermatologist,19 ,Dermasculpt Hair Transplant and Skin Clinic,JP Nagar,Bangalore,600,98 
+1993,Dr. Idris Md,,14 ,CLINIQUE - Internationale,Jayanagar,Bangalore,500,99 
+1994,Dr. Kiran Prasad N V,,18 ,K S Multispeciality Clinic,Bannerghatta Road,Bangalore,500,99 
+1995,Dr. Ranganath v s,,21 ,SurgiDerma Hospital,HRBR Layout,Bangalore,750,100 
+1996,Dr. Kisalay Saurav,,20 ,Manipal Hospital,Hebbal,Bangalore,1090,93 
+1997,Dr. Parthasarathi Dutta Roy,,20 ,Dr. Parthasarathi's Hair and Skin Hospitals,Indiranagar,Bangalore,700,89 
+1998,Dr. Rajdeep,Dermatologist,14 ,Chirag Hospital,JP Nagar 2 Phase,Bangalore,750,96 
+1999,Dr. Priyadarshan K,,33 ,Manipal Hospital,Hebbal,Bangalore,980,86 
+2000,Dr. Sandeep Mahapatra,Dermatologist,18 ,Derma Solutions,Marathahalli,Bangalore,800,90 
+2003,Dr. Kiran Katkar,,38 ,Dr Kiran Katkar's Dermis Skin Wellness Clinic Lase,Dadar West,Mumbai,1200,93 
+2004,Dr. Mohd Asif,Dermatologist,11 ,Cara Hair Transplant and Aesthetic Center,Santacruz West,Mumbai,1000,100 
+2005,Dr. Mukund Jaganathan,,30 ,Apollo Spectra Hospitals,Chembur,Mumbai,1200,100 
+2006,Dr. Sujit Shanshanwal,Dermatologist,14 ,SkinAmour Clinic,Santacruz West,Mumbai,1000,99 
+2007,Dr. Abhishek Ramesh Chauhan,,15 ,Sharan Hospital,Ghatkopar West,Mumbai,1000,98 
+2008,Dr. Haresh  Timbadia,Dermatologist,42 ,Bienaura Clinic,Borivali West,Mumbai,1200,95 
+2009,Dr. Sumit Agrawal,,22 ,Harleys Cosmetic & Women Clinic,Andheri West,Mumbai,1500,98 
+2010,Dr. Yogesh Kalyanpad,Dermatologist,13 ,SkinAmour Clinic,Santacruz West,Mumbai,1000,100 
+2011,Dr. Raina Nahar,,15 ,Kaizen Skin Clinic,Andheri West,Mumbai,1000,92 
+2012,Dr. Suraj Shetty,Dermatologist,14 ,Tvaksh Advanced Skin And Hair Clinic,Andheri West,Mumbai,900,98 
+2014,Dr. Ganga Ravikumar,Dermatologist,33 ,Dermis Skin & Hair Clinic,Adyar,Chennai,700,96 
+2015,Dr. Sasikumar Muthu,,22 ,Pearl Health,Alwarpet,Chennai,1000,99 
+2016,Dr. Rajkumar Kannan,Dermatologist,17 ,Fortis Malar Hospital,Adyar,Chennai,500,100 
+2017,Dr. V.Purushothaman,,33 ,Fortis Malar Hospital,Adyar,Chennai,500,100 
+2018,Dr. Ariganesh,Dermatologist,16 ,Derma Clinix,Mylapore,Chennai,500,89 
+2019,Dr. Meenakshi M,,11 ,Oliva Skin And Hair Clinic,Alwarpet,Chennai,600,99 
+2020,Dr. A.Selvam,Dermatologist,28 ,Fortis Malar Hospital,Adyar,Chennai,500,67 
+2021,Dr. Amudha,Dermatologist,28 ,Amudha's Skin Care Clinic,Velachery,Chennai,350,96 
+2022,Dr. Narayanamurthy,General Physician,39 ,Vbn Murthy,Alwarpet,Chennai,750,99 
+2023,Dr. Renita Rajan,,18 ,Render Skin & Hair,Egmore,Chennai,1200,96 
+2026,Dr. Vasant Gholave,,23 ,Practo Care Surgeries,JM Road,Pune,800,98 
+2027,Dr. Sonal Chavan,Dermatologist,17 ,Dr. Sonnal Chavaan Aesthetic Clinic,Pimple Saudagar,Pune,700,90 
+2028,Dr. L K Desai,,28 ,"Dr. Desai Dermacare- Skin, Hair & Laser Clinic",Sopan Baug,Pune,500,94 
+2029,Dr. Hitesh Laad,,23 ,Authentic Hair Transplant and Cosmetic Centre,Baner,Pune,600,96 
+2030,Dr. Vijay Nagdev,,13 ,The Skin Doctors,Pimpri-Chinchwad,Pune,700,93 
+2031,Dr. Sushil Chaudhary,,13 ,Skinovate Laser & Cosmetic Surgery Center LLP,Pimple Saudagar,Pune,600,92 
+2032,Dr. Pushkar Deshpande,,22 ,Perfection Plastic Surgery Clinic,Kothrud,Pune,1000,96 
+2033,Dr. Ashutosh Shende,,16 ,"Root Care Dental, Skin & Hair Clinic",Kothrud,Pune,600,98 
+2034,Dr. Shreyans Sankhala,,9 ,Skin Mantra & Hair transplant centre,Koregaon Park,Pune,400,99 
+2035,Dr. M. Sajid Mughal,,14 ,"Zayn Skin, Hair & Laser Clinic",BT Kawade Road,Pune,600,98 
+2038,Dr. Tapeshwar Sehgal,,25 ,Practo Care Surgeries,Janakpuri,Delhi,699,75 
+2039,Dr. Ashutosh Mishra,,23 ,Practo Care Surgeries,Greater Kailash Part 1,Delhi,999,83 
+2040,Dr. Lokesh Handa,,13 ,Practo Care Surgeries,Greater Kailash Part 1,Delhi,699,90 
+2041,Dr. Lokesh,,37 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,2000,91 
+2042,Dr. Shruti Gupta,Dermatologist,13 ,SKINOS,Kamla Nagar,Delhi,1000,99 
+2043,Dr. Nikhil Mehta,,17 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1000,94 
+2044,Dr. Anuj Saigal,,15 ,MedRootz Clinics,Green Park,Delhi,1000,97 
+2045,Dr. Sajal Halder,,27 ,Orange Tree - Aesthetic & Hair Restoration Centre,Defence Colony,Delhi,2000,96 
+2046,Dr. Gaurav Garg,Dermatologist,16 ,Dermalife Skin Hair Clinic,Green Park,Delhi,1200,92 
+2047,Dr. Navnit Haror,Dermatologist,10 ,Derma Miracle Skin And Hair Transplant Clinic,Greater Kailash Part 1,Delhi,1000,90 
+2050,Dr. Sahaja Reddy,Dentist,13 ,Sahaja Dental Clinic,Mansoorabad,Hyderabad,500,99 
+2051,Dr. Manchana Ashok Kumar,Dentist,17 ,Eledent International Dental Hospital,Kondapur,Hyderabad,300,98 
+2052,Dr. S Sreedhar Reddy,Dentist,24 ,Esthetix Dental ,West Marredpally,Hyderabad,500,100 
+2053,Dr. Ravindra Ratolikar,Dentist,40 ,Dr. Ravindra Ratolikar's Dental Clinic,Narayanguda,Hyderabad,500,98 
+2054,Dr. Anil Kumar Reddy K,Dentist,24 ,I Dental,Alwal,Hyderabad,400,96 
+2055,Dr. Srinivas R Bogavalli,Dentist,18 ,Clips & Implants Dental Studio,Manikonda,Hyderabad,500,98 
+2056,Dr. Srikanth Guduguntla,Dentist,26 ,Smile Miles Dental Hospital,Begumpet,Hyderabad,500,92 
+2057,Dr. Swetha Moravineni,Dentist,7 ,Ekadanta Dental Care,Kondapur,Hyderabad,500,100 
+2058,Dr. Siva Srinivas,Dentist,19 ,Anandbagh Super Speciality Dental Hospital,Malkajgiri,Hyderabad,500,94 
+2059,Dr. Udayagiri Gopi,Dentist,18 ,LN Dental,KPHB,Hyderabad,500,98 
+2062,Dr. Rashmi Shetty,Dentist,18 ,Chisel Dental,Koramangala,Bangalore,500,99 
+2063,Dr. Sumanth Shetty,Dentist,24 ,Chisel Dental,Koramangala,Bangalore,500,97 
+2064,Dr. Anjali Shetty,Dentist,21 ,Dental and Orthodontic Clinic,Kalyan Nagar,Bangalore,500,99 
+2065,Dr. Ganesh Shetty,Dentist,25 ,Dental and Orthodontic Clinic,Kalyan Nagar,Bangalore,500,98 
+2066,Dr. T. Ramakrishna,Dentist,25 ,Dental Profiles Clinic,JP Nagar 7 Phase,Bangalore,500,95 
+2067,Dr. Jnanesha H.C,Dentist,21 ,Excel Dental Care,Jayanagar 4 Block,Bangalore,500,98 
+2068,Dr. K B Shilpashree,Dentist,21 ,Dental Profiles Clinic,JP Nagar 7 Phase,Bangalore,500,94 
+2069,Dr. Sindhu S Kumar,Dentist,14 ,Excel Dental Care,Jayanagar 4 Block,Bangalore,500,100 
+2070,Dr. K.A. Mohan,Dentist,54 ,Dental De Care,Domlur,Bangalore,500,100 
+2071,Dr. Parul Shrivastav,Dentist,17 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,100 
+2074,Dr. Rajesh Shetty,Dentist,27 ,Dazzle Dental Clinic,Bandra West,Mumbai,500,99 
+2075,Dr. Ashitesh Kumar,Dentist,12 ,Dental Home-A Multi-Specialty Dental Clinic,Chembur East,Mumbai,500,100 
+2076,Dr. Rajiv Rajan,Dentist,24 ,Raj Dental Clinic,Chembur East,Mumbai,500,100 
+2077,Dr. Darshan Hiralal Vora,Dentist,25 ,Dr. Vora's Dental Care,Mulund West,Mumbai,500,99 
+2078,Dr. Nikhil Surana,Dentist,14 ,Bright 32 Dental Care & Orthodontic Centre,Kandivali East,Mumbai,500,96 
+2079,Dr. Suhani Talesara,Dentist,14 ,Dr. Suhani's Dr. Dentist Multispeciality Dental Clinic,Jogeshwari,Mumbai,500,100 
+2080,Dr. Priyanka Deshpande,Dentist,20 ,Vitalis Dental Care,Borivali West,Mumbai,600,99 
+2081,Dr. Alok Shah,Dentist,12 ,Smile Plus Dental Clinic,Powai,Mumbai,200,98 
+2082,Dr. Sandhya Biyani,Dentist,13 ,Divine Smiles Dental Care,Bandra West,Mumbai,500,99 
+2083,Dr. Reshma Phulwar,Dentist,26 ,32 Pearls Dental Clinic,Chembur,Mumbai,700,96 
+2086,Dr. Subashini,Dentist,18 ,Dew Cosmetic Clinic,Valasaravakkam,Chennai,500,100 
+2087,Dr. Roshan Rayen,Dentist,23 ,Rayen Dental Care Center,Nungambakkam,Chennai,500,98 
+2088,Dr. Vivek Pandian,Dentist,11 ,Dr Vivek's MSRam's Dentistry,Chromepet,Chennai,500,98 
+2089,Dr. N. Nanda Kumar,Dentist,28 ,Sai Faciomaxillary & Dental Center,KK Nagar,Chennai,300,91 
+2090,Dr. P.Uma Devi,Dentist,18 ,Uma's Dental Care,Valasaravakkam,Chennai,250,99 
+2091,Dr. T. Sivasankari,Dentist,20 ,Harsini Dental Clinic,Mogappair,Chennai,500,90 
+2092,Dr. Balaji K,Dentist,27 ,KB DENTAL CLINIC ORTHODONTIC AND IMPLANT CENTER,Anna Nagar,Chennai,600,100 
+2093,Dr. Aarthi Praveen,Dentist,17 ,Dr Aarthi Dental Care Medinspire,Navalur,Chennai,500,100 
+2094,Dr. M.Srikanth,Dentist,22 ,Smile Solutions Family Dentistry,Chromepet,Chennai,500,98 
+2095,Dr. Prem Kumar,Dentist,16 ,Just Smile Dental & ENT Specialities,Madipakkam,Chennai,500,97 
+2098,Dr. Hemant Patil,Dentist,16 ,Laconic Dental Studio,Pimple Saudagar,Pune,500,93 
+2099,Dr. Surbhi Bhatia L,Dentist,18 ,Lifeberries Health,Viman Nagar,Pune,500,97 
+2100,Dr. Rohit Jethale,Dentist,13 ,Dentalist - The Smile Experts,Kharadi,Pune,500,100 
+2101,Dr. Anjali V. Mugal,Dentist,14 ,Divine Multispeciality Dental Clinic and Implant Centre,Kharadi,Pune,500,100 
+2102,Dr. Shardul Sontakke,Dentist,23 ,Smile Gallery Dental Care Centre,Kothrud,Pune,500,99 
+2103,Dr. Vishal S Mugal,Dentist,15 ,Divine Multispeciality Dental Clinic and Implant Centre,Kharadi,Pune,500,99 
+2104,Dr. Ganesh,Dentist,14 ,DentalTree (Implants - Cosmetics - Lasers),Aundh,Pune,500,97 
+2105,Dr. Puja Bansal,Dentist,24 ,Prudent International Health Clinic,Kalyani Nagar,Pune,500,97 
+2106,Dr. Gaurav Gupta,Dentist,19 ,Fresh Smiles,Wanowrie,Pune,500,99 
+2107,Dr. Ashish Gupta,Dentist,18 ,Acme Dental Lounge,Aundh,Pune,500,98 
+2110,Dr. Pankaj Rao,Dentist,17 ,Oraa Care Smile Dental Clinic,Dwarka,Delhi,500,97 
+2111,Dr. Rajat Sachdeva,Dentist,17 ,Dr. Sachdeva's Dental Aesthetic & Implant Centre,Ashok Vihar,Delhi,500,95 
+2112,Dr. Ravneet Kaur,Dentist,14 ,Dr Sharma’s Dental Clinic,Vasant Vihar,Delhi,1000,100 
+2113,Dr. Harveen Nakra,Dentist,23 ,Dental World,Punjabi Bagh,Delhi,500,100 
+2114,Dr. Shivani Agarwal,Dentist,23 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,700,99 
+2115,Dr. Mayank Mukhi,Dentist,15 ,Max Smart Superspeciality Hospital,Saket,Delhi,600,97 
+2116,Dr. Aval Luthra,Dentist,22 ,Dental Arche,Vasant Kunj,Delhi,700,97 
+2117,Dr. Harleen Gandhi Kalsi,Dentist,14 ,Meraki Dental Studio,South Extension 2,Delhi,700,100 
+2118,Dr. Vinod Khanna,Dentist,14 ,Complete Dental Care,Ramesh Nagar,Delhi,500,98 
+2119,Dr. Manreet Sidhu,Dentist,12 ,The Dental Experience,Greater Kailash Part 2,Delhi,1000,100 
+2121,Dr. Syed Siddique Hussain,,30 ,Practo Care Surgeries,Santosh Nagar,Hyderabad,499,100 
+2122,Dr. Sushanth Bachu,,13 ,Practo Care Surgeries,Secunderabad,Hyderabad,499,100 
+2123,Dr. Harikrishnan V,,16 ,Eyeris Eye Care,Sainikpuri,Hyderabad,500,100 
+2124,Dr. Sucharitha,,20 ,Eyeris Eye Care Nagaram,Ecil,Hyderabad,800,80 
+2125,Dr. N V R Murthy,,24 ,Dr. Murthy Eye Hospital,KPHB,Hyderabad,400,99 
+2126,Dr. Sree Kumar Reddy,,40 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,95 
+2127,Dr. Indumathy T Ramachandran,,34 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,100 
+2128,Dr. Rajesh Fogla,,30 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,95 
+2129,Dr. Shikha Fogla,,31 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,100 
+2130,Dr. Rachna Vinaya Kumar,,19 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,100 
+2132,Dr. Yogesh D,,22 ,Practo Care Surgeries,Rajarajeshwarinagar,Bangalore,499,100 
+2133,Dr. Pinto Kiran,,12 ,Samarth Nethralaya,Vijayanagar,Bangalore,500,76 
+2134,Dr. Prashant Singh,,24 ,New Vision Care,Kammana Halli,Bangalore,200,100 
+2135,Dr. Vinay Patil,,21 ,Sankalp Nethralaya and PolyClinic,HSR Layout,Bangalore,500,89 
+2136,Dr. M B Trishala,,33 ,Manipal Hospital,Jayanagar 9 Block,Bangalore,650,100 
+2137,Dr. Shalini Shetty,,30 ,Apollo Speciality Hospitals,Jayanagar,Bangalore,630,92 
+2138,Dr. Sanghamitra Burman,,24 ,SightYears Eye Clinic,Indiranagar,Bangalore,750,99 
+2139,Dr. Rajesh Parekh,,27 ,"Manipal Hospital, Millers Road",Millers Road,Bangalore,1000,100 
+2140,Dr. Deepa M,,16 ,Manipal Hospital,Hebbal,Bangalore,800,92 
+2141,Dr. Devaraj M,,21 ,Dr. Agarwal's Eye Hospital,Rajajinagar,Bangalore,400,100 
+2144,Dr. Saumil Sheth,,23 ,Practo Care Surgeries,Jogeshwari West,Mumbai,499,97 
+2145,Dr. Vishal Maniar,,17 ,Practo Care Surgeries,Dadar West,Mumbai,1000,100 
+2146,Dr. Sachin V Shah,,24 ,Practo Care Surgeries,Mulund East,Mumbai,799,80 
+2147,Dr. Bulchandani Santosh Kumar Kamal,,23 ,Practo Care Surgeries,Bandra West,Mumbai,299,100 
+2148,Dr. Pranay Kapadia,,24 ,Practo Care Surgeries,Bandra West,Mumbai,799,100 
+2149,Dr. Prachi Parmar,,13 ,Practo Care Surgeries,Ghatkopar,Mumbai,499,100 
+2150,Dr. Bhavesh Gohil,,23 ,Clear Vision Eye Clinic,Wadala,Mumbai,600,99 
+2151,Dr. Rajesh Mishra,,17 ,R AND R EYE CARE HOSPITAL,Matunga East,Mumbai,1500,100 
+2152,Dr. Shalomith Uppapalli,,15 ,Arohi Eye Hospital,Andheri West,Mumbai,1000,100 
+2153,Dr. Priti H Nirmal,,10 ,Dr. Priti's Eye Clinic,Malad West,Mumbai,500,100 
+2155,Dr. Shanmuga Priya,,13 ,Practo Care Surgeries,Ashok Nagar,Chennai,500,100 
+2156,Dr. J. Arun Kumar,,23 ,Practo Care Surgeries,Ashok Nagar,Chennai,500,80 
+2157,Dr. Naveen Narendranath,,17 ,R.K. Eye Centre,T Nagar,Chennai,500,100 
+2158,Dr. Major Raghavan,,49 ,Apollo Cancer Centres Chennai,Teynampet,Chennai,1000,100 
+2159,Dr. Allen S Raveendran,,9 ,Udhi Eye Hospital LLP,Velachery,Chennai,400,100 
+2160,Dr. Lakshmi,,9 ,Udhi Eye Hospitals,Alwarpet,Chennai,600,100 
+2161,Dr. Uma Devi,,8 ,Udhi Eye Hospitals,Alwarpet,Chennai,600,100 
+2162,Dr. Soundaram,,18 ,Apollo Spectra Hospital,Alwarpet,Chennai,800,100 
+2163,Dr. Ashok Rangarajan,,32 ,Apollo Spectra Hospital,Alwarpet,Chennai,700,95 
+2164,Dr. Radhi Malar,,20 ,Fortis Malar Hospital,Adyar,Chennai,500,99 
+2167,Dr. Akanksha Batra,,13 ,Practo Care Surgeries,Erandwane,Pune,500,100 
+2168,Dr. Jeevan Kale,,20 ,Practo Care Surgeries,Erandwane,Pune,500,100 
+2169,Dr. Vimal Parmar,,20 ,Practo Care Surgeries,MG Road,Pune,499,97 
+2170,Dr. Aarati Desai,,18 ,Shriram Eye Care And Polyclinic,Erandwane,Pune,500,100 
+2171,Dr. Kaushik Shah,,24 ,Ashwini Netralaya,Pimpri-Chinchwad,Pune,500,97 
+2172,Dr. Dipti Murkute (Pansare),,20 ,O2 Eye Care,Kharadi,Pune,600,97 
+2173,Dr. Bhagwan Jogdand,,18 ,Jyoti Eye Clinic,Pimpri-Chinchwad,Pune,400,100 
+2174,Dr. Vitthal Satav,,26 ,Aakash Eye Clinic & Laser Centre,Viman Nagar,Pune,500,96 
+2175,Dr. Anagha Behere,,28 ,Lifeline Hospital,Aundh,Pune,600,99 
+2176,Dr. Anand Palimkar,,26 ,Dr Agarwals Eye Hospital,Viman Nagar,Pune,600,96 
+2178,Dr. Ankush Mutreja,,15 ,Practo Care Surgeries,Dwarka,Delhi,699,91 
+2179,Dr. Lagan Paul Mutreja,,13 ,Practo Care Surgeries,Dwarka,Delhi,500,100 
+2180,Dr. Rajat Jain,,16 ,Practo Care Surgeries,Delhi,Delhi,599,89 
+2181,Dr. Shweta Jain,,11 ,Practo Care Surgeries,Paschim Vihar,Delhi,499,98 
+2182,Dr. Robin Aggarwal,,13 ,Practo Care Surgeries,Panchsheel Park,Delhi,699,100 
+2183,Dr. Manik Mittal,,13 ,Practo Care Surgeries,Paschim Vihar,Delhi,699,98 
+2184,Dr. Saurabh Singh,,21 ,Practo Care Surgeries,Panchsheel Park,Delhi,699,80 
+2185,Dr. Rakesh Mahajan,,37 ,Practo Care Surgeries,Pitampura,Delhi,500,100 
+2186,Dr. SK Khanna,,48 ,Khanna Medicare Centre,Patel Nagar West,Delhi,800,98 
+2187,Dr. Vaibhav Khanna,,8 ,Khanna Medicare Centre,Patel Nagar West,Delhi,600,100 
+2190,Dr. Sunitha Kayidhi,,10 ,Continental Hospitals,Gachibowli,Hyderabad,800,100 
+2191,Dr. Dheeraj Kondagari,,20 ,Endorheuma Care,Dilsukhnagar,Hyderabad,1200,96 
+2192,Dr. Mohammad Irfan,,9 ,Medicover Cancer Hospital,Hitech City,Hyderabad,500,83 
+2193,Dr. Jugal Kishore Kadel,,27 ,Care Hospitals,Banjara Hills,Hyderabad,500,82 
+2194,Dr. Sagar Bhattad,,14 ,Ankura Hospital for Women & Children- kukatpally,Kukatpally,Hyderabad,800,100 
+2195,Dr. Raj Kiran,,18 ,Hyderabad Rheumatology Centre,Begumpet,Hyderabad,500,93 
+2196,Dr. Sarvajeet Pal,,33 ,Advance Rheumatology Center,Somajiguda,Hyderabad,800,95 
+2197,Dr. U R K Rao,,44 ,Sri Deepti Rheumatology Center,Lakdikapul,Hyderabad,500,91 
+2198,Dr. Sravan Kumar Appani,,14 ,Virinchi Hospitals,Banjara Hills,Hyderabad,500,100 
+2199,Dr. A N Roy,,19 ,Arthritis & Osteoporosis Clinic,Habsiguda,Hyderabad,600,97 
+2202,Dr. Vijay Rao K R,,21 ,Divisha Arthritis and Medical Center,Basaveshwaranagar,Bangalore,1200,97 
+2203,Dr. Chethana Dharmapalaiah,,18 ,Aster CMI Hospital,Hebbal,Bangalore,1000,97 
+2204,Dr. Uma Karjigi,,22 ,Apollo Speciality Hospitals,Jayanagar,Bangalore,1000,82 
+2205,Dr. Srinivasa.C,,20 ,Fortis Hospital,Bannerghatta Road,Bangalore,850,98 
+2206,Dr. Abhishek Patil,,12 ,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,900,81 
+2207,Dr. Prashant Bafna,,9 ,Manipal Hospital,Jayanagar 9 Block,Bangalore,900,100 
+2208,Dr. Sagar Bhattad,,14 ,Aster RV Hospital,JP Nagar,Bangalore,950,100 
+2209,Dr. Raghavendra H,,11 ,Specialist Hospital,Kalyan Nagar,Bangalore,850,100 
+2210,Dr. Harshini A S,,12 ,SS Sparsh Hospital,Rajarajeshwarinagar,Bangalore,850,98 
+2211,Dr. Roopa T,,21 ,Aster RV Hospital,JP Nagar,Bangalore,1050,94 
+2214,Dr. Samir Rajadhyaksha,,30 ,Global Hospitals,Parel,Mumbai,2100,100 
+2215,Dr. Neena Singh Chitnis,,19 ,S L Raheja Fortis Hospital,Mahim,Mumbai,1800,100 
+2216,Dr. Dipti Patel,,20 ,Wockhardt Hospitals,Mumbai Central,Mumbai,1250,100 
+2217,Dr. Aneesa Kapadia,,15 ,Saifee Hospital,Charni Road,Mumbai,1500,100 
+2218,Dr. S.M.Akerkar,,19 ,Dr. Akerkar's Mumbai Arthritis Clinic & Research Centre,Bhandup West,Mumbai,800,94 
+2219,Dr. Nilesh Nolkha,,13 ,Prince Aly Khan Hospital,Mazgaon,Mumbai,2000,90 
+2220,Dr. Nitesh Jain,,21 ,Ortho Center,Kandivali East,Mumbai,500,89 
+2221,Dr. Nimish Nanawati,,41 ,Nanavati Super Speciality Hospital,Vileparle West,Mumbai,3000,92 
+2222,Dr. RPS Hasija,,8 ,Harrison Pediatric Rheumatology and Autoimmunity Clinic,Andheri East,Mumbai,1500,100 
+2223,Dr. Tushar Tanaji Telvekar,,9 ,Dr Tushar Telvekar Clinic,Mazgaon,Mumbai,400,100 
+2225,Dr. Ramakrishnan S,,43 ,Apollo Hospital,Greams Road,Chennai,1500,86 
+2226,Dr. Tamil Selvam,,16 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+2227,Dr. Mathai Thomas,,26 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,22 
+2228,Dr. Sriram.S,,18 ,Apollo Hospital,Greams Road,Chennai,1000,67 
+2229,Dr. M Hema,,22 ,MIOT International Hospital,Manapakkam,Chennai,800,86 
+2230,Dr. Viswanath Kaushik,,23 ,Apollo Hospital,Greams Road,Chennai,1200,98 
+2231,Dr. Bala Meena S,,34 ,Apollo Clinic,Velachery,Chennai,700,100 
+2232,Dr. Krishnamurthy,,42 ,Apollo Cancer Centres Chennai,Teynampet,Chennai,1000,100 
+2233,Dr. T Aarthi Priya,,25 ,Apollo Medical Center,Anna Nagar,Chennai,700,78 
+2234,Dr. Koushik V V,,28 ,Apollo Hospital,Greams Road,Chennai,1000,33 
+2237,Dr. Girish Kakade,,15 ,Sahyadri Hospital,Deccan Gymkhana,Pune,500,83 
+2238,Dr. Pravin Patil,,15 ,Apex Institute Of Child Neurology,FC Road,Pune,1000,96 
+2239,Dr. Nilesh S Patil Magar,,14 ,Sancheti Hospital,Shivajinagar,Pune,950,95 
+2240,Dr. B. B. Kumar,,20 ,Wellness Plus - Polyclinic & Diagnostics,Viman Nagar,Pune,500,100 
+2241,Dr. Abhishek Zanwar,,9 ,Poona Superspeciality Clinic,Viman Nagar,Pune,800,87 
+2244,Dr. Sajal Ajmani,,12 ,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1400,98 
+2245,Dr. Sundeep Kumar Upadhyaya,,31 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,2500,89 
+2246,Dr. Rohini Handa,,35 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,3000,80 
+2247,Dr. Prasan Deep Rath,,23 ,Max Smart Superspeciality Hospital,Saket,Delhi,1500,81 
+2248,Dr. Himanshu Aggarwal,,19 ,Max Super Speciality Hospital,Patparganj,Delhi,1400,92 
+2249,Dr. Atul Kakar,,33 ,Sir Ganga Ram Hospital,Old Rajendra Nagar,Delhi,1500,77 
+2250,Dr. (Col.) O P Garg,,41 ,Rheumed- Center For Arthritis Control,Dwarka,Delhi,1000,95 
+2251,Dr. Nupoor Acharya,,10 ,Pushpawati Singhania Research Institute (PSRI Hospital),Sheikh Sarai,Delhi,1000,100 
+2252,Dr. Jatinder Juneja,,37 ,National Institute of Arthritis,Bali Nagar,Delhi,900,90 
+2253,Dr. Ved Chaturvedi,,46 ,Sir Ganga Ram Hospital,Old Rajendra Nagar,Delhi,2000,96 
+2255,Dr. Swapna Mudragada,Gynecologist/Obstetrician,21 ,MedSurge Clinics,Narsingi,Hyderabad,500,100 
+2256,Dr. Dimple Mishra,Gynecologist/Obstetrician,9 ,Tara Super Speciality Clinic,Nallagandla,Hyderabad,600,100 
+2257,Dr. Nikitha Reddy,Gynecologist/Obstetrician,9 ,Vaidya Poly Clinic,Madhapur,Hyderabad,500,100 
+2258,Dr. Durga Vytla,Gynecologist/Obstetrician,14 ,Hegde Fertility,Miyapur,Hyderabad,600,98 
+2259,Dr. A. Santhi,Gynecologist/Obstetrician,21 ,Gleneagles Global Hospital,Lakdikapul,Hyderabad,800,100 
+2260,Dr. Sangita A,Gynecologist/Obstetrician,28 ,Apollo DRDO Hospital,Kanchanbagh,Hyderabad,500,75 
+2261,Dr. S V Lakshmi,Gynecologist/Obstetrician,27 ,Medicover Woman & Child Hospitals,Hitech City,Hyderabad,700,80 
+2262,Dr. G Keertana Reddy,Gynecologist/Obstetrician,14 ,Zoi Health,Ameerpet,Hyderabad,500,100 
+2263,Dr. B.V. Hemavathi,Gynecologist/Obstetrician,19 ,Apollo DRDO Hospital,Kanchanbagh,Hyderabad,600,100 
+2264,Dr. Bharathi Sudha A,Gynecologist/Obstetrician,10 ,IVY Women and Fertility Centre,Gachibowli,Hyderabad,600,100 
+2266,Dr. Anu Joseph,Gynecologist/Obstetrician,15 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,96 
+2267,Dr. Shwetha K,,16 ,People Tree Hospitals,Yeshwanthpur,Bangalore,500,88 
+2268,Dr. Sharmila S,Gynecologist/Obstetrician,23 ,Vydehi Super Speciality Hospital(Mallya Hospital),Ashoknagar,Bangalore,800,80 
+2269,Dr. Prakash Kini,Gynecologist/Obstetrician,46 ,Cloudnine Hospital - Jayanagar,Jayanagar,Bangalore,1050,96 
+2270,Dr. Brunda Channappa,Gynecologist/Obstetrician,33 ,Cloudnine Hospital - Jayanagar,Jayanagar,Bangalore,850,90 
+2271,Dr. Uma Maheshwari,Gynecologist/Obstetrician,24 ,"Cloudnine Fertility - IVF Centre, Jayanagar",Jayanagar,Bangalore,850,95 
+2272,Dr. Anita Balakrishna,Gynecologist/Obstetrician,23 ,Motherhood Hospital,Indiranagar,Bangalore,800,94 
+2273,Dr. Manjula Deepak,Gynecologist/Obstetrician,20 ,Cloudnine Hospital - HRBR,HRBR Layout,Bangalore,850,100 
+2274,Dr. N Sapna Lulla,Gynecologist/Obstetrician,24 ,Aster CMI Hospital,Hebbal,Bangalore,800,98 
+2275,Dr. Mangala Ramachandra,Gynecologist/Obstetrician,39 ,Fortis Hospital,Bannerghatta Road,Bangalore,800,84 
+2277,Dr. Harshika Bavishi,Gynecologist/Obstetrician,37 ,Dr. Harshika's Maternity Home,Chembur East,Mumbai,1000,96 
+2278,Dr. Bela Kedia,Gynecologist/Obstetrician,36 ,Fortis Hospital,Mulund West,Mumbai,1300,100 
+2279,Dr. Sonal Kumta,Gynecologist/Obstetrician,19 ,Fortis Hospital,Mulund West,Mumbai,1300,94 
+2280,Dr. Girish Sabnis,Gynecologist/Obstetrician,44 ,Fortis Hospital,Mulund West,Mumbai,1300,100 
+2281,Dr. Anagha Chhatrapati,Gynecologist/Obstetrician,16 ,Global Hospitals,Parel,Mumbai,1600,100 
+2282,Dr. Punam Solanki,Gynecologist/Obstetrician,14 ,Apple Diagnostic Centre,Andheri West,Mumbai,900,80 
+2283,Dr. Radhika Sheth,Gynecologist/Obstetrician,15 ,"Cloudnine Fertility - IVF Centre, Malad West",Malad West,Mumbai,1100,100 
+2284,Dr. Atul Ganatra,Gynecologist/Obstetrician,34 ,Fortis Hospital,Mulund West,Mumbai,1300,89 
+2285,Dr. Ketan Pandit,Gynecologist/Obstetrician,33 ,Fortis Hospital,Mulund West,Mumbai,1300,100 
+2286,Dr. Pooja Shukla,Gynecologist/Obstetrician,15 ,Cloudnine Hospital,Malad West,Mumbai,1100,99 
+2288,Dr. Abirami,Gynecologist/Obstetrician,11 ,Apollo Womens Hospital,Thousand Lights,Chennai,1000,88 
+2289,Dr. Sowmya Raghavan,Gynecologist/Obstetrician,29 ,Apollo Speciality Hospitals O M R,OMR Road,Chennai,700,92 
+2290,Dr. V. Bharathi,Gynecologist/Obstetrician,16 ,Bharati Fertility & Women Center,Mandaveli,Chennai,750,97 
+2291,Dr. Sura Pushpalatha,Gynecologist/Obstetrician,25 ,Rainbow Children`s Hospital,Sholinganallur,Chennai,800,94 
+2292,Dr. Karthiga Devi,Gynecologist/Obstetrician,18 ,Apollo Speciality Hospitals O M R,OMR Road,Chennai,800,100 
+2293,Dr. P. Surya,Gynecologist/Obstetrician,15 ,Cloudnine Hospital - OMR,OMR Road,Chennai,600,100 
+2294,Dr. Meera Ragavan,Gynecologist/Obstetrician,27 ,Apollo Spectra Hospital,Alwarpet,Chennai,1000,89 
+2295,Dr. Jeya Nirmala R,Gynecologist/Obstetrician,23 ,Jeevan Mithra Fertility & Women Care Centre,Arumbakkam,Chennai,500,94 
+2296,Dr. R. V. Thenmozhi,Gynecologist/Obstetrician,44 ,Fortis Malar Hospital,Adyar,Chennai,600,92 
+2297,Dr. Sathya Balasubramanyam,Gynecologist/Obstetrician,27 ,"Cloudnine Fertility - IVF Centre, T-Nagar",T Nagar,Chennai,600,98 
+2299,Dr. Rajeshwari Pawar,Gynecologist/Obstetrician,35 ,Blooming Buds Clinic and Diagnostic Center,Magarpatta City,Pune,600,96 
+2300,Dr. Mugdha Joshi,Gynecologist/Obstetrician,18 ,Shri Waman Ganesh Clinic,Bavdhan,Pune,500,99 
+2301,Dr. Vaishali R Chavan,Gynecologist/Obstetrician,31 ,Saanvi Gynaecology And Maternity Center,Wanowrie,Pune,500,92 
+2302,Dr. Vijay Kumar S Mete,Gynecologist/Obstetrician,20 ,Amruta Maternity and General Hospital,Pimpri-Chinchwad,Pune,500,86 
+2303,Dr. Chinmay Pramod Umarji,Gynecologist/Obstetrician,13 ,Umarji Mother & Child Care,Baner,Pune,600,97 
+2304,Dr. Archana Chandak,Gynecologist/Obstetrician,30 ,Apollo Clinic,Nigdi,Pune,650,85 
+2305,Dr. Vaishali Chaudhary,Gynecologist/Obstetrician,30 ,Dr. Vaishali Chaudhary's Ankur Fertility Centre,Yerwada,Pune,800,97 
+2306,Dr. Girija Wagh,Gynecologist/Obstetrician,31 ,Apollo Spectra Hospitals,Sadashiv Peth,Pune,800,91 
+2307,Dr. Sneha Vijay Raut,Gynecologist/Obstetrician,14 ,Lopmudra Hospital,Pashan,Pune,500,100 
+2308,Dr. Mohita Goyal,Gynecologist/Obstetrician,23 ,Mohita Poly Clinic,Viman Nagar,Pune,600,95 
+2310,Dr. Shilpa Dhameja,Gynecologist/Obstetrician,21 ,Dr Shilpa Dhameja's Clinic,Vasant Kunj,Delhi,800,98 
+2311,Dr. Dhwani Mago,Gynecologist/Obstetrician,16 ,SCI International Hospital,Greater Kailash Part 1,Delhi,1000,100 
+2312,Dr. Manorama Bhutani,Gynecologist/Obstetrician,65 ,Fortis La Femme,Greater Kailash Part 2,Delhi,1500,83 
+2313,Dr. Parul Sharma,,9 ,The Doctor's Nesst,Vikas Puri,Delhi,800,100 
+2314,Dr. Supriya Goyal,Gynecologist/Obstetrician,14 ,Dr Supriya Women's Clinic,Vasant Kunj,Delhi,800,97 
+2315,Dr. Kusum Sahni,Gynecologist/Obstetrician,38 ,Fortis Hospital,Shalimar Bagh,Delhi,1500,100 
+2316,Dr. Neelam Suri,Gynecologist/Obstetrician,34 ,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,2000,100 
+2317,Dr. Meenakshi Ahuja,Gynecologist/Obstetrician,35 ,Fortis La Femme,Greater Kailash Part 2,Delhi,2000,95 
+2318,Dr. Samvedna Sindwani,Gynecologist/Obstetrician,14 ,Dr. Samvedna Sindwani Clinic,Vikas Puri,Delhi,500,95 
+2319,Dr. Vimal Grover,Gynecologist/Obstetrician,50 ,Fortis La Femme,Greater Kailash Part 2,Delhi,2000,71 
+2322,Dr. Puja Lavania,Gynecologist/Obstetrician,17 ,Life Care Gynaecology Hospital,Chanda Nagar,Hyderabad,400,94 
+2323,Dr. Jasmin Rath,Gynecologist/Obstetrician,19 ,Apollo Hospitals,Jubilee Hills,Hyderabad,800,94 
+2324,Dr. K. Suma,Gynecologist/Obstetrician,35 ,Prasad Infertility Solutions,Kukatpally,Hyderabad,700,93 
+2325,Dr. Revathy Ramaswamy,Gynecologist/Obstetrician,34 ,Apollo Hospital,Secunderabad,Hyderabad,800,95 
+2326,Dr. N. Sarada Vani,Gynecologist/Obstetrician,24 ,Genesis Clinics,Ameerpet,Hyderabad,400,96 
+2327,Dr. B Kiranmayee,Gynecologist/Obstetrician,14 ,Kiranmayee Women & Fertility Clinic,Nallagandla,Hyderabad,550,96 
+2328,Dr. Vandana Hegde,Gynecologist/Obstetrician,20 ,Hegde Fertility,Hitech City,Hyderabad,800,93 
+2329,Dr. Swathi Apsani,Gynecologist/Obstetrician,22 ,Parvathi Hospital,West Marredpally,Hyderabad,800,94 
+2330,Dr. Krishna P Syam,Gynecologist/Obstetrician,21 ,Ambicare Clinics,Kondapur,Hyderabad,500,100 
+2331,Dr. Chandana Galidevara,Gynecologist/Obstetrician,14 ,Apollo Cradle & Children’s Hospital,Kondapur,Hyderabad,700,99 
+2334,Dr. Anu Joseph,Gynecologist/Obstetrician,15 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,96 
+2335,Dr. Shwetha K,,16 ,People Tree Hospitals,Yeshwanthpur,Bangalore,500,88 
+2336,Dr. Sharmila S,Gynecologist/Obstetrician,23 ,Vydehi Super Speciality Hospital(Mallya Hospital),Ashoknagar,Bangalore,800,80 
+2337,Dr. Deepthi RK Shashidhar,Gynecologist/Obstetrician,16 ,First Care Clinic,Jayanagar 4 Block,Bangalore,600,98 
+2338,Dr. Reshu Saraogi,Gynecologist/Obstetrician,18 ,Manipal Hospital Whitefield,Whitefield,Bangalore,600,97 
+2339,Dr. Manjula Deepak,Gynecologist/Obstetrician,20 ,Cloudnine Hospital - HRBR,HRBR Layout,Bangalore,850,100 
+2340,Dr. Namita Kapoor Sahgal,Gynecologist/Obstetrician,30 ,Manipal Hospital Varthur Road,Whitefield,Bangalore,800,90 
+2341,Dr. Mamatha Reddy Y V,Gynecologist/Obstetrician,26 ,Marvel Multispeciality Hospital,Koramangala 1 Block,Bangalore,800,95 
+2342,Dr. Hira Mardi,Gynecologist/Obstetrician,20 ,Manipal Hospital Varthur Road,Whitefield,Bangalore,800,98 
+2343,Dr. Vimala CH,Gynecologist/Obstetrician,17 ,Apollo Cradle & Children’s Hospital,Whitefield,Bangalore,800,97 
+2346,Dr. Shilpa Abhyankar,Gynecologist/Obstetrician,29 ,Parchure Nursing Home,Dadar East,Mumbai,800,97 
+2347,Dr. Varsha Degwekar,Gynecologist/Obstetrician,36 ,Care and Cure Maternity and Nursing Home,Powai,Mumbai,1000,94 
+2348,Dr. Nanda R Kumar,Gynecologist/Obstetrician,20 ,Dr. Nanda R Kumar's Gynecology Clinic.,Chembur East,Mumbai,1000,90 
+2349,Dr. Shubhada Kulkarni,Gynecologist/Obstetrician,44 ,Kulkarni Hospital,Andheri West,Mumbai,1000,90 
+2350,Dr. Ankesh Sahetya,Gynecologist/Obstetrician,15 ,Pushpaa Hospital,Andheri West,Mumbai,1200,100 
+2351,Dr. Nutan Hegde,Gynecologist/Obstetrician,20 ,Saple Clinic,Dadar West,Mumbai,900,97 
+2352,Dr. Hemlata Hardasani,Gynecologist/Obstetrician,27 ,Mothers Care Clinic,Andheri West,Mumbai,1500,99 
+2353,Dr. Shilpa Bansal Agrawal,Gynecologist/Obstetrician,18 ,Harleys Cosmetic & Women Clinic,Andheri West,Mumbai,1500,99 
+2354,Dr. Aditi S. Trivedi,,12 ,Dr. Trivedis Total Woman Health Care Centre,Ghatkopar East,Mumbai,2000,100 
+2355,Dr. Shubhada Sanjiv Khandeparkar,Gynecologist/Obstetrician,44 ,Dr. Khandeparkar's  Infertility and IVF Centre,Dadar East,Mumbai,2500,93 
+2358,Dr. Florence Vasantha Praba,Gynecologist/Obstetrician,23 ,Cherub Fertility Clinic,Rajakilpakkam,Chennai,400,97 
+2359,Dr. Sharadha SO,Gynecologist/Obstetrician,17 ,SRS Speciality Clinic,KK Nagar,Chennai,500,100 
+2360,Dr. Madhumitha R,Gynecologist/Obstetrician,10 ,The Hive Fertility Clinic and Women Center,Madipakkam,Chennai,300,100 
+2361,Dr. Inthu,Gynecologist/Obstetrician,12 ,Maaya Speciality Hospitals,Kolathur,Chennai,500,100 
+2362,Dr. P. V. Anuradha,Gynecologist/Obstetrician,35 ,Anyaa  Wellness for Women,Anna Nagar East,Chennai,1000,99 
+2363,Dr. P Preethi,Gynecologist/Obstetrician,33 ,Prime OBG Women Speciality - Thiruvanmiyur,Thiruvanmiyur,Chennai,700,94 
+2364,Dr. Srikala Prasad,Gynecologist/Obstetrician,32 ,Apollo Speciality Hospital,Vanagaram,Chennai,1000,98 
+2365,Dr. K.S. Ramya,Gynecologist/Obstetrician,18 ,Diya Speciality Clinic,Velachery,Chennai,500,99 
+2366,Dr. Kanimozhi,Gynecologist/Obstetrician,20 ,Apollo Fertility,Anna Nagar,Chennai,1000,99 
+2367,Dr. Ramapraba Subburam,Gynecologist/Obstetrician,11 ,VARAMM HEALTHCARE PVT LTD,Anna Nagar West,Chennai,500,97 
+2370,Dr. Mohita Goyal,Gynecologist/Obstetrician,23 ,Mohita Poly Clinic,Viman Nagar,Pune,600,95 
+2371,Dr. Manisha Munemane,Gynecologist/Obstetrician,28 ,Vatsalya Women's World,Wakad,Pune,600,94 
+2372,Dr. Meghana Giri,Gynecologist/Obstetrician,18 ,GK Women's Care Clinic,Viman Nagar,Pune,400,95 
+2373,Dr. Bharati Dhorepatil,Gynecologist/Obstetrician,40 ,Shree Hospital,Nagar Road,Pune,600,89 
+2374,Dr. Jyoti Dekate,Gynecologist/Obstetrician,19 ,Rainmist Healthcare,Wakad,Pune,600,96 
+2375,Dr. Lavina Batra,Gynecologist/Obstetrician,18 ,Life Care Clinic,Viman Nagar,Pune,400,81 
+2376,Dr. Sarika Dahiphale,Gynecologist/Obstetrician,20 ,Coral Women's & Child Care Clinic & Fertility Center,Baner,Pune,700,98 
+2377,Dr. Shruti Rothe Patil,Gynecologist/Obstetrician,14 ,Star Polyclinic,Aundh,Pune,500,95 
+2378,Dr. Sheetal V Binawade,Gynecologist/Obstetrician,21 ,Life Care Clinic,Paud Road,Pune,1200,95 
+2379,Dr. Mukta Rayate,Gynecologist/Obstetrician,25 ,Rayate Clinic,Kothrud,Pune,600,99 
+2382,Dr. Meghana A,Gynecologist/Obstetrician,15 ,Matritva Women's Clinic,Vasant Kunj,Delhi,650,99 
+2383,Dr. Shilpa Dhameja,Gynecologist/Obstetrician,21 ,Dr Shilpa Dhameja's Clinic,Vasant Kunj,Delhi,800,98 
+2384,Dr. Madhumita Patel,Gynecologist/Obstetrician,17 ,City Speciality Clinic,Chattarpur,Delhi,700,100 
+2385,Dr. Ruchi Malhotra,Gynecologist/Obstetrician,31 ,Sehgal Nursing Home,Kingsway Camp,Delhi,500,94 
+2386,Dr. Neha Khandelwal,Gynecologist/Obstetrician,19 ,FeHealth Clinic,Greater Kailash Part 1,Delhi,1200,99 
+2387,Dr. Shikha Gurnani,Gynecologist/Obstetrician,20 ,Bloom Vision Clinic,Dwarka,Delhi,800,98 
+2388,Dr. Vaishali Sharma,Gynecologist/Obstetrician,18 ,Dr Vaishali Sharma MD( AIIMS) Gynaec Clinic,Panchsheel Park,Delhi,3000,99 
+2389,Dr. Stuti Ranjan Chawla,Gynecologist/Obstetrician,24 ,Dr Stuti Ranjan Chawla Clinic,Dwarka,Delhi,600,97 
+2390,Dr. Bandana Sodhi,Gynecologist/Obstetrician,32 ,Women's Clinic,Lajpat Nagar,Delhi,900,99 
+2391,Dr. Pratibha Gupta,Gynecologist/Obstetrician,22 ,Healing Hands PG Gynaecology & Urology Center,Janakpuri,Delhi,700,95 
+2393,Dr. T. Siva Prasad,,27 ,American Spine & Pain Centers,Banjara Hills,Hyderabad,800,92 
+2395,Dr. Somanna Malchira,,17 ,Aster CMI Hospital,Hebbal,Bangalore,1000,96 
+2396,Dr. Thirumalesh K Reddy,,28 ,Aster CMI Hospital,Hebbal,Bangalore,1000,87 
+2397,Dr. Pradeep Kocheeppan,,25 ,Apollo Speciality Hospitals,Jayanagar,Bangalore,750,86 
+2398,Dr. Raviraj A,,23 ,Apollo Speciality Hospitals,Jayanagar,Bangalore,750,95 
+2399,Dr. Jithendra Kumar G P,,35 ,Apollo Hospital,Bannerghatta Road,Bangalore,850,90 
+2400,Dr. Venugopal B,,19 ,Apollo Hospital,Bannerghatta Road,Bangalore,850,94 
+2401,Dr. Shashi Kumar H.K,,14 ,Apollo Hospital,Bannerghatta Road,Bangalore,850,86 
+2402,Dr. Krishna Kumar,,13 ,Brookefield Hospital,Kundalahalli,Bangalore,500,97 
+2403,Dr. Aditya Ballal,,10 ,Aveksha Hospital,Vidyaranyapura,Bangalore,299,100 
+2404,Dr. Ananda B B,,23 ,Aveksha Hospital,Vidyaranyapura,Bangalore,299,100 
+2405,Dr. U.K. Sadhoo,,43 ,Pushpawati Singhania Research Institute (PSRI Hospital),Sheikh Sarai,Delhi,1000,93 
+2406,Dr. Prakash Kotwal,,46 ,Pushpawati Singhania Research Institute (PSRI Hospital),Sheikh Sarai,Delhi,1500,93 
+2407,Dr. Gaurav Prakash Bhardwaj,,26 ,Pushpawati Singhania Research Institute (PSRI Hospital),Sheikh Sarai,Delhi,1200,80 
+2408,Dr. Anil Mishra,,30 ,Pushpawati Singhania Research Institute (PSRI Hospital),Sheikh Sarai,Delhi,1000,92 
+2409,Dr. Gyan Sagar Tucker,,42 ,Pushpawati Singhania Research Institute (PSRI Hospital),Sheikh Sarai,Delhi,1000,83 
+2410,Dr. Jotinder Khanna,,26 ,IBS Hospital,Lajpat Nagar,Delhi,10000,100 
+2413,Dr. Arun Kumar Nadimpalli,,24 ,Practo Care Surgeries,Somajiguda,Hyderabad,700,94 
+2414,Dr. Kaushik B K,,10 ,Practo Care Surgeries,SR Nagar,Hyderabad,500,67 
+2415,Dr. Ajay Kumar Tiwari,,21 ,Practo Care Surgeries,Somajiguda,Hyderabad,600,100 
+2416,Dr. Komal Sharma,Homoeopath,11 ,Dr. Chetan's Homeo Clinics,Begumpet,Hyderabad,51,99 
+2417,Dr. Prabhat Lakkireddi,,27 ,Regenio Lakki Scope Orthopaedics,Khajaguda,Hyderabad,1000,98 
+2418,Dr. Balavardhan Reddy,,25 ,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,95 
+2419,Dr. Kiran Reddy Chennuri,,17 ,Kindle Clinics,Gachibowli,Hyderabad,600,97 
+2420,Dr. Ashwin Kasturi,,20 ,Cure Speciality Clinics,KPHB,Hyderabad,600,98 
+2421,Dr. Udai Prakash,,33 ,Udai Omni Hospital,Chapel Road,Hyderabad,800,94 
+2422,Dr. Vidya Lakshmi I,Homoeopath,14 ,Sri Chaitanya's Curewell Homeopathy,Sanath Nagar,Hyderabad,500,91 
+2425,Dr. Venkataramana,General Physician,53 ,Practo Hospitals - Neo,Electronics City,Bangalore,700,93 
+2426,Dr. Raja Selvarajan,General Physician,17 ,Kaveri Healthcare,Domlur,Bangalore,750,95 
+2427,Dr. Neelam Vasudeva,General Physician,11 ,Svasthya Health,HSR Layout,Bangalore,600,94 
+2428,Dr. Anusha N D,General Physician,12 ,Shanta Practo Centre for Diabetes & Endocrinology,HSR Layout,Bangalore,700,98 
+2429,Dr. Shashidhar V.,,19 ,Practo Care Surgeries,Yelenahalli,Bangalore,1000,96 
+2430,Dr. B A Gopala Krishna,,22 ,Practo Care Surgeries,Banashankari 2nd Stage,Bangalore,600,97 
+2431,Dr. Sharath Kumar Shetty,,22 ,Practo Care Surgeries,HSR Layout,Bangalore,999,89 
+2432,Dr. Srivatsa Subramanya,,16 ,Vasavi Hospital,Kumaraswamy Layout,Bangalore,650,100 
+2433,Dr. Radhakrishna V N,,17 ,People Tree Hospitals,Yeshwanthpur,Bangalore,500,97 
+2434,Dr. Srikanth K P,,20 ,People Tree Hospitals,Yeshwanthpur,Bangalore,500,99 
+2437,Dr. Nikhil Agrawal,,21 ,Practo Care Surgeries,Malad West,Mumbai,1000,67 
+2438,Dr. Santosh Patil,,20 ,Practo Care Surgeries,Tilak Nagar,Mumbai,1000,100 
+2439,Dr. Sanjeed C Pujary,,16 ,Practo Care Surgeries,Andheri West,Mumbai,1500,100 
+2440,Dr. Shaival Chauhan,,18 ,Sharan Hospital,Ghatkopar West,Mumbai,1000,99 
+2441,Dr. Bhavesh Acharya,Homoeopath,34 ,Global Homoeopathy and Esthetiques Clinic,Andheri East,Mumbai,1500,98 
+2442,Dr. Jagat Shah,Homoeopath,21 ,Total Health Care,Borivali West,Mumbai,800,95 
+2443,Dr. Kaustubh Ravindra Durve,,23 ,Apollo Spectra Hospitals,Chembur,Mumbai,1500,86 
+2444,Dr. Miten Sheth,,16 ,The Knee Clinic,Mulund West,Mumbai,1000,99 
+2445,Dr. Nikhil Shetty,,14 ,Dr L H Hiranandani Hospital,Powai,Mumbai,1100,95 
+2446,Dr. Yajuvendra Gawai,,24 ,Dr. Gawai's Sports Medicine And Arthroscopy Clinic,Santacruz West,Mumbai,1500,98 
+2448,Dr. Ramkumar Ponraj,,12 ,Practo Care Surgeries,Neelankarai,Chennai,600,100 
+2449,Dr. Dinesh Mohan Choudary,,15 ,Practo Care Surgeries,Aminjikarai,Chennai,500,100 
+2450,Dr. Kanniraj Marimuthu,,17 ,Apollo Speciality Hospital,Vanagaram,Chennai,800,100 
+2451,Dr. Arun Kannan,,18 ,Apollo Hospital,Greams Road,Chennai,1000,97 
+2452,Dr. Deebak Kumar,,11 ,VS Hospitals - Centre for Advanced Surgeries and Tertiary Care,Kilpauk,Chennai,800,100 
+2453,Dr. Karthik Anand,,13 ,MGM Healthcare,Anna Nagar,Chennai,800,100 
+2454,Dr. J. Faisal,,16 ,Amruth Orthopaedic Centre,Porur,Chennai,500,98 
+2455,Dr. Vinod Prem Anand,General Physician,23 ,Fortis Malar Hospital,Adyar,Chennai,700,100 
+2456,Dr. Pravin K Aggarwal,General Physician,42 ,Fortis Malar Hospital,Adyar,Chennai,700,86 
+2457,Dr. Poonam Verma,Ayurveda,27 ,Bliss Medicare Centre,Vadapalani,Chennai,600,96 
+2460,Dr. Swaroop Solunke,,14 ,Practo Care Surgeries,Wakad,Pune,800,98 
+2461,Dr. Santosh Teli,,19 ,Alpha Superspeciality Hospital,Wakad,Pune,700,96 
+2462,Dr. Nakul Shah,,25 ,Panacea Bone- Joint and Women Clinic,Kothrud,Pune,700,96 
+2463,Dr. Darshan N Sonawane,,17 ,Healing Touch Clinic,Baner,Pune,700,98 
+2464,Dr. Anshu S.R Sachdev,,25 ,Healing Touch Multispeciality Clinic ,Viman Nagar,Pune,850,95 
+2465,Dr. Aniket  Patil,,19 ,Om Hip & Knee Specialty Orthopedic & Physiotherapy Clinic,Kharadi,Pune,500,97 
+2466,Dr. Nikheel Pansare,,19 ,"Manipal Hospital, Kharadi - Pune",Kharadi,Pune,650,99 
+2467,Dr. Vaseem Choudhary,Homoeopath,14 ,Homeo Care Clinic,Hadapsar,Pune,300,93 
+2468,Dr. Deepesh Gaikwad,Homoeopath,16 ,Healthmate Homeopathy,Pimple Saudagar,Pune,600,98 
+2469,Dr. Manish Gandhalikar,,13 ,Ortho Care & Cure Clinic,Baner,Pune,500,98 
+2472,Dr. Madhur Mahna,,13 ,Practo Care Surgeries,Rajouri Garden,Delhi,600,89 
+2473,Dr. Parvinder Singh Arora,,17 ,Practo Care Surgeries,Dwarka Sector 19,Delhi,1000,100 
+2474,Dr. Om Prakash Gupta,,18 ,Practo Care Surgeries,Dwarka Sector 19,Delhi,1000,73 
+2475,Dr. Vimal Kumar Dakour,,19 ,Practo Care Surgeries,Lajpat Nagar,Delhi,600,97 
+2476,Dr. Lalit K Garg,,17 ,"Vasant Physio, Ortho And Dental Clinic",Vasant Kunj,Delhi,800,90 
+2477,Dr. Yash Bhatia,,12 ,Dr. Yash Bhatia Orthopedics Centre,New Rajendra Nagar,Delhi,1000,75 
+2478,Dr. Ankit Bhartia,,15 ,Sparsh Orthopaedics and Sports Injury Centre,Dwarka Sector 3,Delhi,700,98 
+2479,Dr. V K Sahni,,39 ,Dr. V K Sahni Clinic,Pitampura,Delhi,900,96 
+2480,Dr. Praveen Tittal,,23 ,Orthopaedics and Sports Injury Clinic,Dwarka Sector 6,Delhi,700,96 
+2481,Dr. S Mahanta,,27 ,The Bone Clinic,Dwarka,Delhi,700,95 
